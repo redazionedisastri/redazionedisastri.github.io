@@ -52,7 +52,7 @@ title-img: "/assets/img/Logo Disastri 50x50.png"
 social-network-links:
   email: "disastri@skiff.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  telegram: 
+  telegram: https://t.me/disastri_telegram
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
