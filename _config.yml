@@ -20,7 +20,7 @@ title:
 ###############################################
 
 navbar-links:
-  Chi siamo?: "/Chi siamo.md"
+  Chi siamo?: "/CHISIAMO.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
