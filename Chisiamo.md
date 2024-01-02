@@ -10,7 +10,7 @@ Dall'altro, una pletora di piattaforme di “controinformazione”, sono lune ch
 Comunque si voglia interpretare la deriva attuale, se come un’enorme operazione di produzione spirituale volta a servire gli interessi di una classe dominante che non conosce frontiere, come una possessione azzerante in cui ravvisare la fase terminale della civiltà tecnica, o come un misto delle due, ovunque si allunga l’ombra di un’escatologia senza salvezza, di un peccato senza redenzione, di una fine senza fine. 
 
 ### Presto dentro, presto fuori
-ome vivere felicemente in un mondo in cui la minaccia è urlata, paventata, confezionata, architettata, temuta, rinfacciata in ogni momento? In cui il disastro - reale o fittizio poco importa - è reiterato al punto da divenire una presenza inesorabile - l’unica possibile, verrebbe da dire - nella nostra esistenza? 
+Come condurre una vita soddisfacente e serena in un mondo in cui la minaccia è urlata, paventata, confezionata, rinfacciata in ogni momento? In cui il disastro - reale o fittizio poco importa - è reiterato al punto da divenire una presenza inesorabile nelle nostre esistenze? 
 
 
 
