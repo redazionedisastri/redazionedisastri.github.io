@@ -8,7 +8,7 @@ share-img:
 tags: [tecnica, verità]
 author: Romeo Gand
 ---
-La caratteristica principale del mondo in cui viviamo è quello di trovarci in un regime di separazione dalla realtà abituale. Ci è preclusa ogni percezione diretta e immediata della natura per la quale l’essere umano si è adattato nel corso dei millenni. La nostra percezione è mediata da un insieme di tecniche, che si frappongono fra noi e la realtà come uno schermo, e dalle quali dipende integralmente la nostra “esperienza” di ciò che accade. 
+Una delle caratteristiche salienti del mondo contemporaneo consiste nel vivere in un regime di separazione dalla realtà ordinaria. Intendo con ciò che la percezione diretta e immediata della natura per la quale l’essere umano si è adattato nel corso dei millenni ci è abitualmente preclusa. La nostra percezione è mediata da un insieme di tecniche, che si frappongono fra noi e la realtà come uno schermo, e dalle quali dipende integralmente la nostra “esperienza” di ciò che accade. 
 
 ## Quid est veritas?
 
