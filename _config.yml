@@ -13,7 +13,7 @@
 title: Disastri
 
 # Your name to show in the footer
-author: © 2024 Disastri
+author: © Disastri
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,10 @@ author: © 2024 Disastri
 
 navbar-links:
   Chi siamo?: "Chisiamo"
-  Chi siete?:
-  Risorse:
-    - Riferimenti bibliografici:  
-  Oasi bar: 
+  #Chi siete?:
+  #Risorse:
+    - Materiali  
+  #Oasi bar: 
 
 ################
 # --- Logo --- #
@@ -39,8 +39,8 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/logo disastri sfondo bianco.jpeg"
-round-title-img: true
+#title-img: "/assets/img/logo disastri sfondo bianco.jpeg"
+#round-title-img: true
 
 
 #####################################
@@ -134,7 +134,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-# footer-col: "#EAEAEA"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -143,8 +143,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/Immagine footer disastri.jpeg"
-# page-img: "/assets/img/Immagine footer disastri.jpeg"
+#footer-img: "/assets/img/Immagine footer disastri.jpeg"
+#page-img: "/assets/img/Immagine footer disastri.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
