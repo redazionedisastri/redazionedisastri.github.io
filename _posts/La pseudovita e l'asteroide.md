@@ -35,7 +35,7 @@ La catastrofe diventa allora ciò in cui riporre le speranze, un evento che può
 
 - Desiderio di partecipazione: “ora mi metto bello comodo col fucile fuori dal balcone e sparo ai trasgressori in difesa del carcere che mi piace tanto”.
   
-- Desiderio creativo: “Posso finalmente costruire la mia vita momento per momento”.
+- Desiderio creativo: “posso finalmente costruire la mia vita momento per momento”.
  
 
 
