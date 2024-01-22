@@ -41,13 +41,13 @@ La catastrofe diventa allora ciò in cui riporre le speranze, un evento che può
   
 
 - Desiderio di vendetta: “spero che i dinosauri ritornino e divorino tutta la classe dirigente del pianeta”.
-- {: .text-justify}
+{: .text-justify}
 
 - Desiderio di partecipazione: “ora mi metto bello comodo col fucile fuori dal balcone e sparo ai trasgressori in difesa del carcere che mi piace tanto”.
-- {: .text-justify}
+{: .text-justify}
   
 - Desiderio creativo: “posso finalmente costruire la mia vita momento per momento”.
-- {: .text-justify}
+{: .text-justify}
  
 
 
