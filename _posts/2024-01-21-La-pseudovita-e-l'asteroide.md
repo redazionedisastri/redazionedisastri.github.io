@@ -1,10 +1,13 @@
-
-*di Gatto Armato*  
-  
-  
-
-  
-
+---
+layout: post
+title: La pseudovita e l'asteroide
+subtitle: 
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: 
+author: Gatto Armato
+---
 A bordo della metropolitana, fiumi di persone impegnate a spendere la propria esistenza in attività prive di significato. Il lavoro li nobilita a tal punto da avere trasformato i loro volti in maschere tragiche, i loro occhi in orbite vuote. Non si tratta più di esseri umani, ma di frammenti. Svestiti i panni dell’impiegato a lavoro, subito dovranno rimetterli a casa. Il tempo libero che tanto avevano desiderato si rivela essere l’ora d’aria concessa ai carcerati. Domani sarà identico a ieri, un infinito numero di volte. Non ci rimane far altro che attendere la prossima crisi. D’altra parte, questo mondo è ormai bloccato. Non v’è più nessun orizzonte verso cui tendere la mano spinti dal desiderio. Sono tempi instabili i nostri. Ma cosa c’è di così instabile in un mondo che, catastrofe dopo catastrofe, offre sempre la stesse risposte, che ha fatto del grido di allarme la normalità?
 
   
