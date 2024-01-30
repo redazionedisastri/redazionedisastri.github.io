@@ -2,9 +2,9 @@
 layout: post
 title: La verità irraggiungibile
 subtitle: Come la tecnica si frappone fra noi e la realtà
-cover-img: 
-thumbnail-img: 
-share-img: 
+cover-img: /assets/img/Centralino 2.jpg
+thumbnail-img: /assets/img/Centralino 2.jpg
+share-img: /assets/img/Centralino 2.jpg
 tags: [tecnica, verità]
 author: Romeo Gand
 ---
