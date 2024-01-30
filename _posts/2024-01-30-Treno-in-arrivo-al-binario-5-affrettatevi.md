@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Treno in arrivo al binario cinque ⇒ affrettatevi!
+title: Treno in arrivo al binario cinque. Affrettatevi!
 subtitle: Piccolo compendio per passare di palo in frasca
 cover-img: 
-thumbnail-img: /assets/img/pexels-elena-saharova-5098043.jpg
+thumbnail-img: /assets/img/Train wreck 1895.jpg
 share-img: 
 tags: [dati, informazioni, prescrizioni]
 author: Romeo Gand
