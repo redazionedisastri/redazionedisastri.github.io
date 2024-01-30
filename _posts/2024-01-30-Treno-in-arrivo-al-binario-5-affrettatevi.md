@@ -8,7 +8,7 @@ share-img: /assets/img/Train wreck 1895.jpg
 tags: [dati, informazioni, prescrizioni]
 author: Romeo Gand
 ---
-Muovendomi per la città, a piedi o in macchina, in attesa alla fermata dell’autobus o navigando su Internet: ovunque vengo investito da una pioggia di dati e di informazioni. “Ecco i nuovi importi delle fasce ISEE”; “adesso aperti anche la domenica”; “operaio cade dall’impalcatura, grave”; “meteo: *esplosione Artica* con bolla d’aria gelida! (sic)”; “saldi d’inverno per tutto febbraio!”; “colpita base Usa in Giordania”, et cetera. Ognuna di queste lapidarie successioni di simboli vorrebbe prendersi un pezzettino di me: del mio tempo, della mia attenzione, dei miei pensieri e del mio agire. Ma io mi chiedo: dove dovrebbe portar*mi* questa profusione quotidiana di notizie sul mondo che abito?
+Muovendomi per la città, a piedi o in macchina, in attesa alla fermata dell’autobus o navigando su Internet: ovunque vengo investito da una pioggia di dati e di informazioni. “Ecco i nuovi importi delle fasce ISEE”; “adesso aperti anche la domenica”; “operaio cade dall’impalcatura, grave”; “meteo: *esplosione Artica* con bolla d’aria gelida! (sic)”; “saldi!”; “colpita base Usa in Giordania”, et cetera. Ognuna di queste lapidarie successioni di numeri e parole vorrebbe prendersi un pezzettino di me: del mio denaro, del mio tempo, della mia attenzione, dei miei pensieri. Del mio agire. Ma io mi domando: dove *dovrebbe portarmi* questa profusione quotidiana di notizie sul mondo che abito?
 {: .text-justify}
 ### I dati e le informazioni
 Cerchiamo di mettere chiarezza.
