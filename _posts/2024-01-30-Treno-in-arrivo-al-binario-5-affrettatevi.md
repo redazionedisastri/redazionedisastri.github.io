@@ -3,7 +3,7 @@ layout: post
 title: Treno in arrivo al binario cinque ⇒ affrettatevi!
 subtitle: Piccolo compendio per passare di palo in frasca
 cover-img: 
-thumbnail-img: 
+thumbnail-img: /assets/img/pexels-elena-saharova-5098043.jpg
 share-img: 
 tags: [dati, informazioni, prescrizioni]
 author: Romeo Gand
