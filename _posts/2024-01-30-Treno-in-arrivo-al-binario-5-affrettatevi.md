@@ -26,7 +26,7 @@ La stessa informazione potrà dunque implicare azioni diverse, se non addirittur
 
 >“Bollettino dei caduti: anche oggi più di 500 morti”
 
-⇒ [pacifista] “questa strage deve finire!”; ⇒ [Generale] “urgono altri rinforzi sul fronte…”
+⇒ [pacifista] “questa strage deve finire!”; ⇒ [Stato Maggiore dell'esercito] “urgono altri rinforzi.”
 {: .text-justify}
 
 ### Oltre l'informazione
