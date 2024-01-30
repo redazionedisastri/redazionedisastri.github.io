@@ -91,8 +91,8 @@ telegram: true
 twitter: true
 facebook: true
 instagram: true
-  linkedin: false
-  vk: false
+linkedin: false
+vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
