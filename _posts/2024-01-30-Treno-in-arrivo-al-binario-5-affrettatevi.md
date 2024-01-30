@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Treno in arrivo al binario 5: affrettatevi
-subtitle: Piccolo compendio per passare di palo in frasca
+title: La verità irraggiungibile
+subtitle: Come la tecnica si frappone fra noi e la realtà
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [dati, informazioni, prescrizioni]
+tags: [tecnica, verità]
 author: Romeo Gand
 ---
