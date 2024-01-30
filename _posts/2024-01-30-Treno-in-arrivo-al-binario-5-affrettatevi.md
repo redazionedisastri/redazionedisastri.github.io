@@ -20,6 +20,7 @@ Un’informazione, naturale o convenzionale che sia, significa sempre e soltanto
 {: .text-justify}
 Un’informazione potrà implicare una condotta solo in forza di qualcos’altro, come un’abitudine consolidata (rientro a casa ⇒ mi devo togliere le scarpe), di una convenzione sociale (il semaforo è rosso ⇒ mi devo fermare), o di un posizionamento individuale sull’esistente, derivante dal modo in cui una moltitudine di informazioni vengono connesse fra loro all’interno di una particolare visione del mondo.
 La stessa informazione potrà dunque implicare azioni diverse, se non addirittura opposte, a seconda di chi sia chiamato a interpretarne il significato:
+{: .text-justify}
 >“È arrivata la polizia!”
 
 ⇒ [rapinatore] “è il momento di scappare”; ⇒ [rapinato] “inseguite quell’uomo!”
