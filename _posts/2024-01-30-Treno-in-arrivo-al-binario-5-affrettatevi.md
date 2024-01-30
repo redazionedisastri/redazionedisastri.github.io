@@ -32,6 +32,8 @@ La stessa informazione potrà dunque implicare azioni diverse, se non addirittur
 
 ### Oltre i dati e le informazioni!
 La nostra civiltà pare ossessionata dai dati e dalle informazioni.
+
 Dai dati, come se questi se ne stessero lì per ricordarci a ogni piè sospinto quale condotta è necessario adottare nel mondo: “[vediamo cosa ci dicono i dati](https://www.pandorarivista.it/event_listing/walter-quattrociocchi-cosa-ci-dicono-i-dati/), vediamo cosa ci dice *la scienza* (come se il sapere potesse ridursi ad un’accozzaglia di numeri!)”. Silenzio, ascoltiamo attentamente: “0, 1, 89%, true, spento, ciascuno, acceso, giallo”… tutto più chiaro adesso?
+{: .text-justify}
 Dalle informazioni, come se queste fossero suffumigi di attualità (le news) cui doversi sottoporre quotidianamente (i giornali): che si tratti di informazioni ufficiali o di controinformazioni, di informazioni “verificate” o di supposte "disinformazioni", restiamo ad ogni modo immersi in un flusso incessante di descrizioni di fatti, che non consente la produzione di alcun tipo di considerazione più generale e astratta, che sia cioè svincolata dall’ossessione masturbatoria per quello che succede qui ed ora. Quotidianamente subissati da (presunti) dati di fatto, da fatti sui dati, sembra che non si possa più andare oltre questa coltre inerte di constatazioni. Ci dimentichiamo così non soltanto di prendere in considerazione le ragioni e i sentimenti che determinano tali fatti (Pirandello), ma che tutte le descrizioni del mondo, non importa quanto accuratamente accumulate ed elaborate, dovrebbero rappresentare per noi solo il punto di partenza per cominciare a pensare quali condotte sarebbe opportuno scegliere nella nostra vita, e perché.
 {: .text-justify} 
