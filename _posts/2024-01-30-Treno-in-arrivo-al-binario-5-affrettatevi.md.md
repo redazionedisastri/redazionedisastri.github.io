@@ -1,3 +1,12 @@
+---
+layout: post
+title: Treno in arrivo al binario 5: affrettatevi!
+subtitle: Piccolo compendio per passare di palo in frasca
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [Dati, informazioni, prescrizioni]
+author: Romeo Gand
 Muovendomi per la città, a piedi o in macchina, in attesa alla fermata dell’autobus o navigando su Internet: ovunque vengo investito da una pioggia di dati e di informazioni. “Ecco i nuovi importi delle fasce ISEE”; “adesso aperti anche la domenica”; “operaio cade dall’impalcatura, grave”; “meteo: esplosione Artica con bolla d’aria gelida! (sic)”; “saldi d’inverno per tutto febbraio!”; “colpita base Usa in Giordania” […]. Ognuna di queste lapidarie successioni di simboli vorrebbe prendersi un pezzettino di me: del mio tempo, della mia attenzione, dei miei pensieri e del mio agire. Ma io mi chiedo: dove dovrebbe portarmi questa profusione quotidiana di notizie sul mondo che abito?
 Cerchiamo di mettere chiarezza.
 Anzitutto, benché vengano sovente impiegate come sinonimi nel linguaggio corrente, dati e informazioni sono nozioni distinte: un dato è un elemento semplice, di per sé incapace di trasmetterci una conoscenza effettiva circa le cose del mondo. L’informazione è invece il significato che possiamo produrre elaborando un insieme strutturato di dati in un contesto specifico. Soltanto un insieme coerente di dati può codificare – cioè rappresentare in maniera tangibile – una vera e propria informazione, permettendoci di accedere a una conoscenza concreta della realtà che ci circonda. Così il dato “50” non ci dice nulla, ma lo stesso “50” in una targhetta affissa a lato di un portone significa che siamo arrivati al cinquantesimo civico di una strada. I dati 5 e 12:15 non significano niente, ma giustapposti a fianco di una banchina di una stazione segnaleranno che il treno del binario 5 arriverà alle dodici e un quarto. E via dicendo.
