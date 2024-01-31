@@ -25,10 +25,12 @@ Alle fine del XVIII secolo, sarà l’avvento della fabbrica e dei processi lavo
 {: .text-justify}
 >The man whose whole life is spent in performing a few simple operations, of which the effects are perhaps always the same, or very nearly the same, has no occasion to exert his understanding or to exercise his invention in finding out expedients for removing difficulties which never occur. He naturally loses, therefore, the habit of such exertion, and generally becomes as stupid and ignorant as it is possible for a human creature to become. The torpor of his mind renders him not only incapable of relishing or bearing a part in any rational conversation, but of conceiving any generous, noble, or tender sentiment, and consequently of forming any just judgment concerning many even of the ordinary duties of private life (Adam Smith, *An Enquiry into the Nature and Causes of the Wealth of Nations*).
 {: .text-justify}
+
 Ogni abilità propriamente umana è dunque irrimediabilmente compromessa dall'accrescimento del sistema tecnico-industriale. Come potrebbe allora un siffatto soggetto riconoscere il tallone che lo schiaccia, quando ha persino perduto la cognizione di chi è e di dove si trova? Oggi la condizione dell’operaio si estende a qualunque ambito, poiché il mondo intero ha preso a funzionare come una grande fabbrica, in cui tutti i processi tendono all'automazione e alla massima efficienza produttiva; in cui il lavoro del singolo non occupa che una porzione infinitesima di un'immensa catena, che gli impedisce di scorgere il senso generale delle sue attività (ammesso che tale senso, esista):
 {: .text-justify}
+
 >L’operaio lavora in un ‘collettivo’ di macchine; l’universo della macchina lo circonda da ogni parte e costituisce realmente il suo ambiente. Tale condizione operaia, ben nota, è tuttavia semplicemente tipica; in realtà è la condizione di tutti noi, almeno nel mondo urbano.” (J. Ellul, *Tecnica*, Enciclopedia del Novecento Treccani).
->{: .text-justify}
+{: .text-justify}
 
 Se dunque l’unica realtà con cui posso sviluppare una certa familiarità è quella dell’insieme dei processi tecnici, come potrò sperare di comprendere o criticare, obiettare, modulare i discorsi e le immagini che mi vengono quotidianamente calati dall’alto del *deus ex machina*?
 {: .text-justify}
