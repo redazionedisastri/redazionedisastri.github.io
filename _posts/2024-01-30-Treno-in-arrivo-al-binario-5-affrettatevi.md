@@ -31,7 +31,7 @@ La stessa informazione potrà dunque implicare azioni diverse, se non addirittur
 {: .text-justify}
 
 ### Il feticismo dei fatti
-La nostra civiltà pare aver sviluppato una vera e propria ossessione:
+La nostra civiltà pare invece aver sviluppato una vera e propria ossessione:
  
 * per i dati, come se questi se ne stessero lì per ricordarci a ogni piè sospinto quale condotta è necessario adottare nel mondo. L'uomo moderno ne è talmente assillato, [da aver cominciato a intrattenere con essi conversazioni oracolistiche](https://www.pandorarivista.it/event_listing/walter-quattrociocchi-cosa-ci-dicono-i-dati/).
 {: .text-justify}
