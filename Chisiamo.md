@@ -14,7 +14,8 @@ E se riflettendo non riusciremo nel nostro intento, cercheremo quantomeno...di n
 {: .text-justify}
 
 
-
+N.B.:
 Per consigli su come naufragare al meglio, potete contattarci a [questo indirizzo](disastri@skiff.com)
+
 Siamo attivi anche su [telegram](https://t.me/disastri_telegram)
 
