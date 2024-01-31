@@ -8,7 +8,7 @@ share-img: /assets/img/Centralino 2.jpg
 tags: [tecnica, verità]
 author: Romeo Gand
 ---
-L'evoluzione tecnologica ci ha portato a vivere in un regime di separazione dalla realtà ordinaria. Intendo con ciò che la percezione diretta e immediata della natura per la quale l’essere umano si è adattato nel corso dei millenni ci è ormai abitualmente preclusa: la nostra percezione delle cose è sempre più mediata da un complesso di tecniche, che si frappongono fra noi e la realtà come uno schermo, e dalle quali dipende gran parte della nostra “esperienza” di ciò che accade. 
+La dirompente evoluzione tecnologica degli ultimi decenni ci sta portando a vivere in un regime di separazione dalla realtà ordinaria. Intendo con ciò che la percezione diretta e immediata dell'ambiente naturale nel quale l’essere umano si è mosso nel corso dei millenni - negli alterni tentativi di *adattarvisi* o di *adattarselo* - ci è ormai abitualmente preclusa. La nostra percezione del mondo appare sempre più mediata da un vasto complesso di tecniche, che si frappongono fra noi e la realtà come uno schermo, e dalle quali dipende oggi gran parte della nostra “esperienza” di ciò che accade. 
 {: .text-justify}
 ## Quid est veritas?
 
