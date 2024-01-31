@@ -13,5 +13,8 @@ Cerchiamo soltanto, prendendo spunto da alcuni temi che si sono imposti alla nos
 E se riflettendo non riusciremo nel nostro intento, cercheremo quantomeno...di naufragare con stile.
 {: .text-justify}
 
-La redazione 
+
+
+Per consigli su come naufragare al meglio, potete contattarci a [questo indirizzo](disastri@skiff.com)
+Siamo attivi anche su [telegram](https://t.me/disastri_telegram)
 
