@@ -42,20 +42,20 @@ Ancora, si omette di considerare che l’art. 11 cost. non proclama soltanto il 
 
 >Attendi. Italia, attendi. Io veggio, o parmi,  
   un fluttuar di fanti e di cavalli,  
-  e fumo e polve, e luccicar di spade
-  come tra nebbia lampi.
-  Né ti conforti? e i tremebondi lumi
-  piegar non soffri al dubitoso evento?
-  A che pugna in quei campi
-  l’itala gioventude? O numi, o numi!
-  pugnan per altra terra itali acciari.
-  Oh misero colui che in guerra è spento,
-  non per li patrii lidi e per la pia
-  consorte e i figli cari,
-  *ma da nemici altrui*,
-  per altra gente, e non può dir morendo:
-  — Alma terra natia,
-  la vita che mi desti ecco ti rendo. —
+    e fumo e polve, e luccicar di spade
+      come tra nebbia lampi.
+        Né ti conforti? e i tremebondi lumi
+          piegar non soffri al dubitoso evento?
+            A che pugna in quei campi
+              l’itala gioventude? O numi, o numi!
+                pugnan per altra terra itali acciari.
+                  Oh misero colui che in guerra è spento,
+                    non per li patrii lidi e per la pia
+                      consorte e i figli cari,
+                        *ma da nemici altrui*,
+                           per altra gente, e non può dir morendo:
+                             — Alma terra natia,
+                               la vita che mi desti ecco ti rendo. —
 
 (Leopardi, Canti, *All'Italia*, 1818)
 
