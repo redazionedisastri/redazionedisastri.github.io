@@ -40,37 +40,22 @@ Ancora, si omette di considerare che l’art. 11 cost. non proclama soltanto il 
 È singolare osservare poi come la nozione di *Patria* – in un’epoca in cui lo Stato-Nazione è ridotto a una carcassa accerchiata da avvoltoi – sia tirata in ballo unicamente quando si tratta di tenerci sul balcone a cantare l’inno di Mameli (sia mai tenga i virus lontani dagli infissi?), o per convincerci dell’opportunità di essere impiegati come carne da cannone. Insomma, **davvero buffo come le vestigia di un orgoglio nazionalistico possano essere riciclate per soggiogare le masse all’imperio di un’élite che non conosce confini di sorta**; per il resto, gli interessi della nostra comunità nazionale (come di qualunque altra comunità reale) sono [anno dopo anno svenduti al miglior offerente (da governi di “destra” come di “sinistra”)](https://www.weltanschauung.info/2024/01/svendita-italia.html?m=1):
 {: .text-justify}
 
->Attendi. Italia, attendi. Io veggio, o parmi,
->
-un fluttuar di fanti e di cavalli,
-
-e fumo e polve, e luccicar di spade
-
-come tra nebbia lampi.
-
-Né ti conforti? e i tremebondi lumi
-
-piegar non soffri al dubitoso evento?
-
-A che pugna in quei campi
-
-l’itala gioventude? O numi, o numi!
-
-pugnan per altra terra itali acciari.
-
-Oh misero colui che in guerra è spento,
-
-non per li patrii lidi e per la pia
-
-consorte e i figli cari,
-
-*ma da nemici altrui*,
-
-per altra gente, e non può dir morendo:
-
-— Alma terra natia,
-
-la vita che mi desti ecco ti rendo. —
+>Attendi. Italia, attendi. Io veggio, o parmi,  
+  un fluttuar di fanti e di cavalli,  
+  e fumo e polve, e luccicar di spade
+  come tra nebbia lampi.
+  Né ti conforti? e i tremebondi lumi
+  piegar non soffri al dubitoso evento?
+  A che pugna in quei campi
+  l’itala gioventude? O numi, o numi!
+  pugnan per altra terra itali acciari.
+  Oh misero colui che in guerra è spento,
+  non per li patrii lidi e per la pia
+  consorte e i figli cari,
+  *ma da nemici altrui*,
+  per altra gente, e non può dir morendo:
+  — Alma terra natia,
+  la vita che mi desti ecco ti rendo. —
 
 (Leopardi, Canti, *All'Italia*, 1818)
 
