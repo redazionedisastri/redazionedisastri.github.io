@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questa non è la legge
-subtitle: Cambiare il mondo fermandosi
+subtitle: Cambiare fermandosi, fermare cambiandosi
 cover-img: /assets/img/Poster NS.jpg
 thumbnail-img: /assets/img/Poster NS.jpg
 share-img: /assets/img/Poster NS.jpg
