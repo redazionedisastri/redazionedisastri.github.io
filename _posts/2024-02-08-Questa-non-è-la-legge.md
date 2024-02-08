@@ -39,27 +39,27 @@ Ancora, si omette di considerare che l’art. 11 cost. non proclama soltanto il 
 {: .text-justify}
 È singolare osservare poi come la nozione di *Patria* – in un’epoca in cui lo Stato-Nazione è ridotto a una carcassa accerchiata da avvoltoi – sia tirata in ballo unicamente quando si tratta di tenerci sul balcone a cantare l’inno di Mameli (sia mai tenga i virus lontani dagli infissi?), o per convincerci dell’opportunità di essere impiegati come carne da cannone. Insomma, **davvero buffo come le vestigia di un orgoglio nazionalistico possano essere riciclate per soggiogare le masse all’imperio di un’élite che non conosce confini di sorta**; per il resto, gli interessi della nostra comunità nazionale (come di qualunque altra comunità reale) sono [anno dopo anno svenduti al miglior offerente (da governi di “destra” come di “sinistra”)](https://www.weltanschauung.info/2024/01/svendita-italia.html?m=1):
 {: .text-justify}
-<div class="versed" markdown="1">
-  
->Attendi. Italia, attendi. Io veggio, o parmi,\\ 
- un fluttuar di fanti e di cavalli,\\  
- e fumo e polve, e luccicar di spade\\
- come tra nebbia lampi.\\
- Né ti conforti? e i tremebondi lumi\\
- piegar non soffri al dubitoso evento?\\
- A che pugna in quei campi\\
- l’itala gioventude? O numi, o numi!\\
- pugnan per altra terra itali acciari.\\
- Oh misero colui che in guerra è spento,\\
- non per li patrii lidi e per la pia\\
- consorte e i figli cari,\\
- *ma da nemici altrui*,\\
- per altra gente, e non può dir morendo:\\
- — Alma terra natia,\\
- la vita che mi desti ecco ti rendo. —\\
 
-(Leopardi, Canti, *All'Italia*, 1818)
-</div>
+ >Attendi. Italia, attendi. Io veggio, o parmi,\\ 
+ >un fluttuar di fanti e di cavalli,\\  
+ >e fumo e polve, e luccicar di spade\\
+ >come tra nebbia lampi.\\
+ >Né ti conforti? e i tremebondi lumi\\
+ >piegar non soffri al dubitoso evento?\\
+ >A che pugna in quei campi\\
+ >l’itala gioventude? O numi, o numi!\\
+ >pugnan per altra terra itali acciari.\\
+ >Oh misero colui che in guerra è spento,\\
+ >non per li patrii lidi e per la pia\\
+ >consorte e i figli cari,\\
+ >*ma da nemici altrui*,\\
+ >per altra gente, e non può dir morendo:\\
+ >— Alma terra natia,\\
+ >la vita che mi desti ecco ti rendo. —\\
+{:.versed}
+
+(Giacomo Leopardi, Canti, *All'Italia*, 1818)
+
 
 ### Non collaborare altrimenti
 Video del genere si inseriscono in una tendenza più ampia da parte della [stampa anglosassone](https://news.sky.com/story/is-conscription-coming-back-how-its-been-used-in-previous-wars-and-what-a-uk-citizen-army-would-involve-in-future-13056698) ed [europea]( https://www.politico.eu/article/we-need-to-be-ready-for-war-with-putin-says-romanias-top-general/) a dare martellante risalto alle esortazioni alla “solidarietà nazionale” che cominciano a provenire dagli alti comandi degli eserciti. Dinanzi a queste sirene, la risposta non può che essere solo una, o meglio: **alcuna.**
