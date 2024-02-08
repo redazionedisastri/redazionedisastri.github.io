@@ -13,7 +13,7 @@ Un famoso avvocato del web ha recentemente [pubblicato un video]( https://www.yo
 >C’è tensione fra questo Paese e quell’altro […] già Crosetto è al lavoro per istituire [una task force di riservisti](https://tg24.sky.it/politica/2024/01/29/crosetto-esercito-riservisti), ma potrebbe non bastare…
 {: .text-justify}
 
-…e insomma, si finisce a parlare di scenari da guerra globale e coscrizione per tutti i giovani maschi (niente quote rose qui, pare).
+…e insomma, si finisce a parlare di scenari da guerra globale e coscrizione per tutti i giovani maschi (niente quote rosa qui, pare).
 {: .text-justify}
 E se ne discorre così, informali e distesi, come se si trattasse del tutorial per cucinare la torta al limone della nonna. D’altra parte, la marea quotidiana di demenza cui veniamo sottoposti (e alla quale ci sottoponiamo) serve precisamente a questo: a far in modo che le notizie più inaudite passino per i fatti più banali del mondo, rapidamente sottoposte a quel che resta della nostra attenzione fra scrolling e shorts infiniti, fra un video di teneri micetti e l’unboxing ASMR dell’ennesimo prodotto inutile.
 {: .text-justify}
