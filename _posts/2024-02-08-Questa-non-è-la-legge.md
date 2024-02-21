@@ -8,7 +8,7 @@ share-img: /assets/img/Poster NS.jpg
 tags: [guerra, coscrizione, obiezione di coscienza]
 author: Romeo Gand
 ---
-Un famoso avvocato del web ha recentemente [pubblicato un video]( https://www.youtube.com/watch?v=WOFfKZ4Cs4U&ab_channel=AngeloGreco) in cui vengono sciorinate, con la più grande disinvoltura del mondo, le leggi in forza delle quali la leva obbligatoria verrebbe ripristinata in caso di entrata in guerra dell’Italia al fianco dei suoi “alleati” atlantici. Sai com’è? 
+Un famoso avvocato [^1] del web ha recentemente [pubblicato un video]( https://www.youtube.com/watch?v=WOFfKZ4Cs4U&ab_channel=AngeloGreco) in cui vengono sciorinate, con la più grande disinvoltura del mondo, le leggi in forza delle quali la leva obbligatoria verrebbe ripristinata in caso di entrata in guerra dell’Italia al fianco dei suoi “alleati” atlantici. Sai com’è? 
 {: .text-justify}
 >C’è tensione fra questo Paese e quell’altro […] già Crosetto è al lavoro per istituire [una task force di riservisti](https://tg24.sky.it/politica/2024/01/29/crosetto-esercito-riservisti), ma potrebbe non bastare…
 {: .text-justify}
@@ -80,3 +80,5 @@ Riassumendo: qualsiasi autorità è tale solo in forza di [quel *potere mistico*
 {: .text-justify}
 
 Questa è la legge. Il resto son fandonie.
+
+[^1]: nota
