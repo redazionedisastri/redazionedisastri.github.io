@@ -1089,4 +1089,12 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+  support-promo-section {
+  background: #337ab7;
+  border-color: #337ab7;
+  color: white;
+  box-shadow: 0 0 0.4375rem #337ab7;
+  -webkit-box-shadow: 0 0 0.4375rem #337ab7;
+  -moz-box-shadow: 0 0 0.4375rem #337ab7;
+}
 }
