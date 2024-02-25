@@ -54,12 +54,6 @@ h1, h2, h3, h4 {
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }}; 
-  background: #337ab7;
-  border-color: #337ab7;
-  color: white;
-  box-shadow: 0 0 0.4375rem #337ab7;
-  -webkit-box-shadow: 0 0 0.4375rem #337ab7;
-  -moz-box-shadow: 0 0 0.4375rem #337ab7;
 }
 a:hover,
 a:focus {
@@ -118,6 +112,61 @@ img {
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
+}
+/* Promo box */
+
+#support-promo-section {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  color: #404040;
+  background: #fafafa;
+  border: 1px solid #ddd;
+  padding: 1.25rem;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+  margin-bottom: 1.5625rem;
+  border-radius: 0.3125rem;
+  box-shadow: 0 0 0.4375rem rgba(100,100,100,0.3);
+  -webkit-box-shadow: 0 0 0.4375rem rgba(100,100,100,0.3);
+  -moz-box-shadow: 0 0 0.4375rem rgba(100,100,100,0.3);
+}
+#spport-pruomo-section {
+  background: #337ab7;
+  border-color: #337ab7;
+  color: white;
+  box-shadow: 0 0 0.4375rem #337ab7;
+  -webkit-box-shadow: 0 0 0.4375rem #337ab7;
+  -moz-box-shadow: 0 0 0.4375rem #337ab7;
+}
+#support-promo-section:hover {
+  background: #226dae;
+  cursor: pointer;
+}
+#support-promo-section .btn {
+  margin-top: 0.625rem;
+  font-weight: bold;
+  color: #337ab7;
+  background: white;
+}
+#support-promo-section .btn:hover {
+  background: #eaeaea;
+}
+@media only screen and (max-width: 767px) {
+  #support-promo-section {
+    font-size: 1.125rem;
+  }
+  #support-promo-section .btn {
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 500px) {
+  #support-promo-section {
+    font-size: 1rem;
+  }
+  #support-promo-section .btn {
+    font-size: 0.875rem;
+  }
 }
 
 /* Comments */
