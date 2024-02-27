@@ -222,10 +222,8 @@ Capito, geni della lampada?
 &nbsp;<br>
 &nbsp;<br>
 
-<p style="text-align: center;">Note</p>
+<p style="text-align: center;">**Note**</p>
 ---
-&nbsp;<br>
-
 [^1]: Attenzione però a ravvisare in questa deriva una certa pulsione unitaria alla dissoluzione del pensiero, perché [la clava del complottismo]( https://it.wikipedia.org/wiki/Teoria_del_gender) potrebbe essere brandita contro di voi…
 [^2]: Laddove non diversamente specificato le citazioni nel testo si riferiscono all’autore dell’articolo.
 [^3]: Potremmo a tutti gli effetti descrivere questo *understanding* come una sorta di [afferramento fregiano.](https://floatingpoint.sorint.it/blog/post/la-struttura-ontologica-dei-significati-le-relazioni-referenziali)
