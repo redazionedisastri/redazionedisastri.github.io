@@ -19,7 +19,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [La verità è morta, viva la verità!](#la verità è morta)
 - [Lo spettro sessuale](#lo spettro sessuale)
 - [Il normale e il patologico](#il normale e il patologico)
-- [L’individuo non basta…](#l’individuo non basta)
+- [L’individuo non basta…](#individuo)
 - [Rosso Malpelo e i ciclopi](#rosso malpelo)
 - [La salute ammalata, la malattia sanata](#la salute ammalata)
 - [La volontà fa la giraffa](#la volontà fa la giraffa)
@@ -78,11 +78,13 @@ Ora, non so se tali divulgatori – sommersi come sono dal peso di tutta questa 
 E se è innegabile che la normalità statistica di un carattere non costituisce di per sé – [come un tempo si era inclini a ritenere](https://it.wikipedia.org/wiki/Adolphe_Quetelet) – un criterio valido per discriminare ciò che è patologico da ciò che è fisiologico, è al contempo vero che nessuna eccezione a tale norma (anomalia), non importa quanto numericamente prevalente, non può certo rivendicare la sua parte di funzionalità per il semplice fatto di esser ricompresa nel novero delle tante cose bizzarre che accadono in natura. **E questo proprio perché la normalità statistica rappresenta un criterio del tutto distinto rispetto alla normalità funzionale**. È allora nei singoli viventi che un tale fondamento valoriale dovrebbe essere ricercato. Secondo lo stesso Canguilhem:
 {: .text-justify}
 >En distinguant anomalie et état pathologique, variété biologique et valeur vitale négative, on a en somme délégué au vivant lui-même, considéré dans sa polarité dynamique, le soin de distinguer où commence la maladie. C’est-à-dire dire qu’en matière de normes biologiques c’est toujours à l’individu qu’il faut se référer […] [^8]
+{: .text-justify}
 
-<a name="l'individuo non basta"></a>
+<a name="individuo"></a>
 ## L’individuo non basta…
 ![Orso e pantera](https://disastri.net/assets/img/Orso e pantera.png){: .mx-auto.d-block :}
 Attenzione però a non scambiare questa “licenza di discernere” il fisiologico dal patologico, attribuita all’individuo, per una sorta di relativismo in cui ogni differenza qualitativa si possa risolvere nel giudizio operato del singolo. Sarebbe questo un solipsismo esistenziale tanto ingenuo quanto estraneo al pensiero del filosofo: infatti, negare che la normalità statistica di un carattere sia sufficiente a convalidarne il valore biologico non equivale in alcun modo a sostenere che questa valutazione di vivibilità sia rimessa al capriccio dell’individuo (come molti paiono oggi fare). Al contrario: è sempre un rapporto, quello fra il singolo e l’ambiente – nella sua reciprocità ma anche nella sua **ineluttabile oggettività** – a discriminare i caratteri che coadiuvano la vita da quelli che l’affossano. E d’altra parte, basterebbe proseguire nella lettura del celebre passaggio, così spesso troncato dai collezionisti d’aforismi, per constatare che quell’individuo è sempre considerato nel contesto dei limiti su di lui imposti dall’ambiente:
+{: .text-justify}
 >…parce que tel individu peut se trouver, comme dit Goldstein, « à la hauteur des devoirs qui résultent du milieu qui lui est propre », dans des conditions organiques qui seraient inadéquates à ces devoirs chez tel autre individu. [^9]
 
 Eccola là, l’oggettività che gli ultracostruttivisti rifuggono, come il diavolo l’acquasanta: l’individuo potrà essere all’altezza di **quei doveri che il suo ambiente ineludibilmente gli imporrà di soddisfare**? Se ci riuscirà, gli sarà concesso di farlo anche “a modo suo”. 
