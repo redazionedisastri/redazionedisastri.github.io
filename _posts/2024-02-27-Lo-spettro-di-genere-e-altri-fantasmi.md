@@ -204,7 +204,7 @@ Il precariato di questo secolo è allora anzitutto il precariato delle identità
 {: .text-justify}
 L’autore di questo articolo ne è un caso lampante, essendo altresì, come leggiamo sul suo blog:
 {: .text-justify}
->the founder and [President of BioInformant.com]( https://bioinformant.com/), the world’s largest stem cell industry news site that attracts nearly one million views per year and serves all-star clients that include GE Healthcare, Pfizer, and goldman Sachs
+>the founder and President of [BioInformant.com]( https://bioinformant.com/), the world’s largest stem cell industry news site that attracts nearly one million views per year and serves all-star clients that include GE Healthcare, Pfizer, and goldman Sachs
 {: .text-justify}
 Forse – oltre all’amore per la divulgazione della verità – c’è dell’altro in questi guru del tutto-scorre, in questi informatori super partes delle conquiste della medicina rigenerativa [^29] con accordi di vassallaggio con le più grandi aziende benefattrici dell’umanità.
 Forse, distrutto l’uomo, la fabbrica dell’umano è già pronta ad aprire i battenti. Per consolare coloro che avranno ormai interamente delegato la definizione della loro identità al discorso dei militanti e degli “esperti”; per rimpiazzare definitivamente l’autonomia del vivente con gli interventi continui delle tecniche.
