@@ -8,14 +8,15 @@ share-img: /assets/img/fantasma su sfondo arcobaleno.png
 tags: [spettro di genere, sesso, binarismo]
 author: Romeo Gand
 ---
-Il sesso è uno spettro? Stando a sentire la vulgata costruttivista, parrebbe proprio di sì.
-Girovagando per il web mi sono imbattuto [in questo interessante articolo](https://cadehildreth.com/gender-spectrum/), in cui l’autore – un biologo, blogger ed “imprenditore LGBTQ+” – sostiene appunto che non soltanto il genere, ma persino il sesso biologico umano non sia riducibile alla dicotomia maschile/femminile, ovvero a due categorie rigidamente distinte e mutualmente esclusive ([teoria cosiddetta del *binarismo di genere*](https://en.wikipedia.org/wiki/Gender_binary)); esso corrisponda piuttosto ad uno *spettro*, cioè ad un continuum nel quale è unicamente possibile rintracciare due picchi o modi statistici (teoria cosiddetta *bimodale*). 
+Il sesso è uno spettro? 
+{: .text-justify}
+Stando a sentire la vulgata costruttivista, parrebbe proprio di sì: girovagando per il web mi sono imbattuto [in questo interessante articolo](https://cadehildreth.com/gender-spectrum/), in cui l’autore – un biologo, blogger ed “imprenditore LGBTQ+” – sostiene appunto che non soltanto il genere, ma persino il sesso biologico umano non sia riducibile alla dicotomia maschile/femminile, ovvero a due categorie rigidamente distinte e mutualmente esclusive ([teoria cosiddetta del *binarismo di genere*](https://en.wikipedia.org/wiki/Gender_binary)); esso corrisponda piuttosto ad uno *spettro*, cioè ad un continuum nel quale è unicamente possibile rintracciare due picchi o modi statistici (teoria cosiddetta *bimodale*). 
 {: .text-justify}
 Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo post-strutturalista (o post-moderno, o post-femminismo, o come cavolo volete chiamarlo): ne presento qui una critica, in quanto mi pare che essa riassuma le tante fallacie di un costruttivismo [^1] che, a furia di scorgere *convenzioni socio-culturali* dappertutto, sta finendo per distruggere quelle distinzioni primarie su cui i pensieri (e le identità) dovrebbero necessariamente fondarsi, imponendo al contempo ([all’occorrenza con la violenza di una disciplina foucaultiana](https://opinione.it/editoriali/2024/02/19/carlo-lottieri-universita-bocconi-sospesi-tre-studenti-liberta-pensiero-censura-bagni-gender-neutral/)) il proprio punto di vista come l’unico possibile.
 {: .text-justify}
 
 # Indice
-
+&nbsp;<br>
 
 - [La verità è morta, viva la verità!](#la verità è morta)
 - [Lo spettro sessuale](#lo spettro sessuale)
@@ -27,6 +28,8 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [E i cavallucci marini allora?](#i cavallucci marini)
 - [*Sia la luce…*](#sia la luce)
 - [Dallo spettro ai fantasmi](#dallo spettro ai fantasmi)
+
+&nbsp;<br>
   
 <a name="la verità è morta"></a>
 ## La verità è morta, viva la verità! 
