@@ -91,7 +91,8 @@ Attenzione però a non scambiare questa “licenza di discernere” il fisiologi
 {: .text-justify}
 >…parce que tel individu peut se trouver, comme dit Goldstein, « à la hauteur des devoirs qui résultent du milieu qui lui est propre », dans des conditions organiques qui seraient inadéquates à ces devoirs chez tel autre individu. [^9]
 {: .text-justify}
-Eccola là, l’oggettività che gli ultracostruttivisti rifuggono, come il diavolo l’acquasanta: l’individuo potrà essere all’altezza di **quei doveri che il suo ambiente ineludibilmente gli imporrà di soddisfare**? Se ci riuscirà, gli sarà concesso di farlo anche “a modo suo”. 
+Eccola là, l’oggettività che gli ultracostruttivisti rifuggono, come il diavolo l’acquasanta: l’individuo potrà essere all’altezza di **quei doveri che il suo ambiente ineludibilmente gli imporrà di soddisfare**? Se ci riuscirà, gli sarà concesso di farlo anche “a modo suo”.
+{: .text-justify}
 Per smantellare il decostruttivismo biologico non è dunque necessario – punto importante – ricorrere a una metafisica fissa e immutabile:
 1. Né di tipo platonico (gli archetipi ideali predisposti dal demiurgo, cui i singoli enti sensibili partecipano)
 2. Né di tipo creazionista, in cui le diverse sostanze risultano direttamente dall’azione della volontà divina (“Dio creò […] secondo la loro specie”; “maschio e femmina li creò”), e sono da essa orientate a un ruolo/scopo specifico.
