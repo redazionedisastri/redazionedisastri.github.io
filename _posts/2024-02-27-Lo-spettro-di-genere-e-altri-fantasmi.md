@@ -160,7 +160,7 @@ A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanc
 [^4]: Anche se, dopo aver “dimostrato” che anche il sesso coincide con uno spettro, ritorna sulla questione commentando lapidario: “If sex is a spectrum, then gender is unquestionably a spectrum”…una puntualizzazione che tradisce una certa insicurezza anche circa l’indubitabilità di questa seconda ipotesi.
 [^5]: Mi riferisco rispettivamente al *Cyborg Manifesto* (1991) e *Gender trouble: feminism and the subversion of identity* (1999), opere nelle quali le stesse categorie biologiche della sessualità umana vennero contestate in quanto “socialmente costruite”, ponendo le basi per la formulazione della teoria bimodale.
 [^6]: Praticamente un rovesciamento degli explicit delle vie dell’aquinate: « et haec clusters – nos, insipientes… – *dicimus* sexus ».
-[^7:] Si tratta tuttavia di un dato del tutto fuorviante, come mostrerò più avanti.
+[^7]: Si tratta tuttavia di un dato del tutto fuorviante, come mostrerò più avanti.
 [^8]: Georges Canguilhem, Le normal et le pathologique. 2013 (1943), p. 155
 [^9]: Ibidem
 [^10]: Non che siano mancati i tentativi di armonizzare le vecchie metafisiche alla teoria evoluzionista, [come per esempio fece Asa Gray](http://darwin-online.org.uk/content/frameset?viewtype=side&itemID=A336&pageseq=1). La relazione fra creazionismo e darwinismo è estremamente complessa e sarebbe errato ridurla a un rapporto di mutua esclusione.
