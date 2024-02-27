@@ -16,7 +16,6 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 {: .text-justify}
 
 # Indice
-&nbsp;<br>
 
 - [La verità è morta, viva la verità!](#la verità è morta)
 - [Lo spettro sessuale](#lo spettro sessuale)
