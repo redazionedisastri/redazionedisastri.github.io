@@ -133,7 +133,8 @@ I tanti atteggiamenti “inclusivi” nei confronti degli ammalati e degli inval
 <a name="la volontà fa la giraffa"></a>
 ## La volontà fa la giraffa
 ![Giraffa](https://disastri.net/assets/img/Giraffa con arcobaleno e logo.png){: .mx-auto.d-block :}
-La carrellata prosegue passando progressivamente dalla cintola alla testa. Si precisa così che la determinazione del sesso non può essere compiuta osservando il solo “contenuto dei pantaloni”, ma che richieda di prendere in considerazione molti e più vari fattori quali ad esempio – oltre ai cromosomi e agli ormoni – le struttura scheletrica e celebrale della persona. Stando a sentire il nostro blogger, poi, la combinazione di tutti questi caratteri nelle forme tipiche che noi chiamiamo *maschili* e *femminili*, sarebbe un evento “imbrogliatissimo e pieno di sottigliezza metafisica”: una specie di congiunzione astrale [^19].
+
+La carrellata del nostro eroe prosegue passando progressivamente dalla cintola alla testa. Si precisa così che la determinazione del sesso non può essere compiuta osservando il solo “contenuto dei pantaloni”, ma che richieda di prendere in considerazione molti e più vari fattori quali ad esempio – oltre ai cromosomi e agli ormoni – le struttura scheletrica e celebrale della persona. Stando a sentire il nostro blogger, poi, la combinazione di tutti questi caratteri nelle forme tipiche che noi chiamiamo *maschili* e *femminili*, sarebbe un evento “imbrogliatissimo e pieno di sottigliezza metafisica”: una specie di congiunzione astrale [^19].
 {: .text-justify}
 Il giochino è dunque doppio, e consiste da un lato nell’allargare il più possibile la definizione dell’intersessualità (come abbiamo visto), e dall’altra nel **restringere contestualmente la definizione del maschile e del femminile, fino a farla coincidere con le caratteristiche delle sole persone che si trovano all’apice delle due gaussiane.**
 {: .text-justify}
