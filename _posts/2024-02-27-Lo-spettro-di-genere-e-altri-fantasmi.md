@@ -16,8 +16,8 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 # Indice
 
 
-- [La verità è morta, viva la verità!](#la verità)
-- [Lo spettro sessuale](### Lo spettro sessuale)
+- [La verità è morta, viva la verità!](#la verità è morta)
+- [Lo spettro sessuale](#Lo spettro sessuale)
 - [Il normale e il patologico](### Il normale e il patologico)
 - [L’individuo non basta…](### L’individuo non basta…)
 - [Rosso Malpelo e i ciclopi](### Rosso Malpelo e i ciclopi)
@@ -27,8 +27,8 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [*Sia la luce…*](### *Sia la luce…*)
 - [Dallo spettro ai fantasmi](### Dallo spettro ai fantasmi)
   
-
-## La verità è morta, viva la verità! <a name="la verità"></a>
+<a name="la verità è morta"></a>
+## La verità è morta, viva la verità! 
 
 Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dovrebbe dire che egli cerca di “divulgare una verità”, umilmente insegnandoci (parole testuali) [^2]:
 {: .text-justify}
@@ -46,7 +46,8 @@ A dispetto del titolo però, l’apologo della nuova *scientia sexualis* non si 
 {: .text-justify}
 Senza frapporre ulteriori indugi, né aspettare la comanda, ci serve dunque il piatto del giorno: stufato costruttivista in salsa biologica. La ricetta? Una dimostrazione *more geometrico*, sulla scia di Donna Haraway e Judith Butler [^5], di come finanche il sesso non sia che un continuum, nel quale non è possibile rintracciare alcuna distinzione oggettiva, ma unicamente due modi statistici culturalmente connotati. In questo post ho deciso di adattare interamente il palato ai gusti dell’oste, **focalizzandomi esclusivamente sulla critica di questo presunto spettro sessuale**: affronterò la questione dello spettro di genere propriamente detto in separata sede…nel caso dovessi avere ancora un po’ di spazio per il dessert.
 {: .text-justify}
-## Lo spettro sessuale <a name="foo"></a>
+<a name="lo spettro sessuale"></a>
+## Lo spettro sessuale 
 L’idea principale della teoria bimodale è che l’intera sessualità non possa suddividersi in due categorie opposte e discrete, in quanto l’esperienza ci mostra che esistono individui in cui i caratteri sessuali maschili o femminili si presentano in forme per così dire sovrapposte, cioè in delle combinazioni che non rispondono ai canoni standard della maschilità o della femminilità. Secondo le parole dell’autore:
 {: .text-justify}
 >Sex is not binary, because people cannot be grouped into two separate, non-overlapping groups.
