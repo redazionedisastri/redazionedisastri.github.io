@@ -16,9 +16,9 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 # Indice
 
 
-- [La verità è morta, viva la verità!](### La verità è morta, viva la verità!)
+- [La verità è morta, viva la verità!](##Laveritàèmorta,vivalaverità!)
 - [Lo spettro sessuale](### Lo spettro sessuale)
-- [Il normale e il patologico](###Il normale e il patologico)
+- [Il normale e il patologico](### Il normale e il patologico)
 - [L’individuo non basta…](### L’individuo non basta…)
 - [Rosso Malpelo e i ciclopi](### Rosso Malpelo e i ciclopi)
 - [La salute ammalata, la malattia sanata](### La salute ammalata, la malattia sanata)
@@ -28,7 +28,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [Dallo spettro ai fantasmi](### Dallo spettro ai fantasmi)
   
 
-### La verità è morta, viva la verità! 
+## La verità è morta, viva la verità! 
 
 Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dovrebbe dire che egli cerca di “divulgare una verità”, umilmente insegnandoci (parole testuali) [^2]:
 {: .text-justify}
@@ -49,7 +49,7 @@ Senza frapporre ulteriori indugi, né aspettare la comanda, ci serve dunque il p
 ### Lo spettro sessuale
 L’idea principale della teoria bimodale è che l’intera sessualità non possa suddividersi in due categorie opposte e discrete, in quanto l’esperienza ci mostra che esistono individui in cui i caratteri sessuali maschili o femminili si presentano in forme per così dire sovrapposte, cioè in delle combinazioni che non rispondono ai canoni standard della maschilità o della femminilità. Secondo le parole dell’autore:
 {: .text-justify}
->sex is not binary, because people cannot be grouped into two separate, non-overlapping groups.
+>Sex is not binary, because people cannot be grouped into two separate, non-overlapping groups.
 
 Ne conseguirebbe che:
 
