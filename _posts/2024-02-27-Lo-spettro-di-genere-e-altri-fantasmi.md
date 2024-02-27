@@ -8,7 +8,8 @@ share-img: /assets/img/fantasma su sfondo arcobaleno.png
 tags: [spettro di genere, sesso, binarismo]
 author: Romeo Gand
 ---
-Girovagando per il web, mi sono imbattuto [in questo articolo](https://cadehildreth.com/gender-spectrum/), nel quale l’autore – un biologo, blogger ed “imprenditore LGBTQ+” – sostiene l’ipotesi secondo la quale non soltanto il genere ma persino il sesso biologico umano non sia riducibile alla dicotomia maschile/femminile, ovvero a due categorie rigidamente distinte e mutualmente esclusive ([teoria cosiddetta del *binarismo di genere*](https://en.wikipedia.org/wiki/Gender_binary)), ma corrisponda invece ad uno *spettro*, cioè ad un continuum nel quale è unicamente possibile rintracciare due picchi o modi statistici (teoria cosiddetta *bimodale*). 
+Il sesso è uno spettro? Stando a sentire la vulgata costruttivista, parrebbe proprio di sì.
+Girovagando per il web mi sono imbattuto [in questo interessante articolo](https://cadehildreth.com/gender-spectrum/), in cui l’autore – un biologo, blogger ed “imprenditore LGBTQ+” – sostiene appunto che non soltanto il genere, ma persino il sesso biologico umano non sia riducibile alla dicotomia maschile/femminile, ovvero a due categorie rigidamente distinte e mutualmente esclusive ([teoria cosiddetta del *binarismo di genere*](https://en.wikipedia.org/wiki/Gender_binary)); esso corrisponda piuttosto ad uno *spettro*, cioè ad un continuum nel quale è unicamente possibile rintracciare due picchi o modi statistici (teoria cosiddetta *bimodale*). 
 {: .text-justify}
 Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo post-strutturalista (o post-moderno, o post-femminismo, o come cavolo volete chiamarlo): ne presento qui una critica, in quanto mi pare che essa riassuma le tante fallacie di un costruttivismo [^1] che, a furia di scorgere *convenzioni socio-culturali* dappertutto, sta finendo per distruggere quelle distinzioni primarie su cui i pensieri (e le identità) dovrebbero necessariamente fondarsi, imponendo al contempo ([all’occorrenza con la violenza di una disciplina foucaultiana](https://opinione.it/editoriali/2024/02/19/carlo-lottieri-universita-bocconi-sospesi-tre-studenti-liberta-pensiero-censura-bagni-gender-neutral/)) il proprio punto di vista come l’unico possibile.
 {: .text-justify}
@@ -218,6 +219,7 @@ A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanc
 Capito, geni della lampada?
 {: .text-justify}
 
+&nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
