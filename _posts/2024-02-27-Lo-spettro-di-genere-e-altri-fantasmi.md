@@ -218,9 +218,9 @@ A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanc
 Capito, geni della lampada?
 {: .text-justify}
 
-\
-\
-\
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 ---
 
