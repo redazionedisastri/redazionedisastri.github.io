@@ -218,6 +218,9 @@ A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanc
 
 
 
+---
+
+
 [^1]: Attenzione però a ravvisare in questa deriva una certa pulsione unitaria alla dissoluzione del pensiero, perché [la clava del complottismo]( https://it.wikipedia.org/wiki/Teoria_del_gender) potrebbe essere brandita contro di voi…
 {: .text-justify}
 [^2]: Laddove non diversamente specificato le citazioni nel testo si riferiscono all’autore dell’articolo.
