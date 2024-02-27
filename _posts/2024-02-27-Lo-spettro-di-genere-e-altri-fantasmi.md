@@ -36,9 +36,14 @@ Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dov
 >…what your parents and teachers should’ve taught you, but didn’t know themselves.
 
 Le due teorie concorrenti non sono dunque gradualmente introdotte al lettore ma, sin da subito, vengono presentate l’una nei termini di un *understanding* della realtà (teoria bimodale) [^3], l’altra in quelli di un (falso) *belief* (teoria binaria). Il tutto è graficamente chiarito con due bei diagrammi, di seguito riprodotti, riportanti rispettivamente la dicitura “corretto” e “scorretto” a scanso di ogni eventuale equivoco:
+{: .text-justify}
+
 ![Diagrammi](https://disastri.net/assets/img/BIMODAL-SEX-FINAL.webp){: .mx-auto.d-block :}
+
 A dispetto del titolo però, l’apologo della nuova *scientia sexualis* non si impegna più di tanto nel dimostrare l’esistenza di uno spettro *di genere*, ma liquida la questione [^4] come un’autoevidenza:
->Because gender is a personal identity, is socially constructed, and has limitless possibilities, it takes no further explanation to explain why it is a spectrum. Therefore, when people question the existence of a gender spectrum, what they are usually questioning is the existence of a sex spectrum. 
+{: .text-justify}
+>Because gender is a personal identity, is socially constructed, and has limitless possibilities, it takes no further explanation to explain why it is a spectrum. Therefore, when people question the existence of a gender spectrum, what they are usually questioning is the existence of a sex spectrum.
+{: .text-justify}
 Senza frapporre ulteriori indugi, né aspettare la comanda, ci serve dunque il piatto del giorno: stufato costruttivista in salsa biologica. La ricetta? Una dimostrazione *more geometrico*, sulla scia di Donna Haraway e Judith Butler [^5], di come finanche il sesso non sia che un continuum, nel quale non è possibile rintracciare alcuna distinzione oggettiva, ma unicamente due modi statistici culturalmente connotati. In questo post ho deciso di adattare interamente il palato ai gusti dell’oste, **focalizzandomi esclusivamente sulla critica di questo presunto spettro sessuale**: affronterò la questione dello spettro di genere propriamente detto in separata sede…nel caso dovessi avere ancora un po’ di spazio per il dessert. 
 ###Lo spettro sessuale
 L’idea principale della teoria bimodale è che l’intera sessualità non possa suddividersi in due categorie opposte e discrete, in quanto l’esperienza ci mostra che esistono individui in cui i caratteri sessuali maschili o femminili si presentano in forme per così dire sovrapposte, cioè in delle combinazioni che non rispondono ai canoni standard della maschilità o della femminilità. Secondo le parole dell’autore:
@@ -127,7 +132,7 @@ A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanc
 
 [^1]: Attenzione però a ravvisare in questa deriva una certa pulsione unitaria alla dissoluzione del pensiero, perché [la clava del complottismo]( https://it.wikipedia.org/wiki/Teoria_del_gender) potrebbe essere brandita contro di voi…
 [^2]: Laddove non diversamente specificato le citazioni nel testo si riferiscono all’autore dell’articolo.
-[^3]: Potremmo a tutti gli effetti descrivere questo *understanding* come una sorta di [afferramento fregiano](https://floatingpoint.sorint.it/blog/post/la-struttura-ontologica-dei-significati-le-relazioni-referenziali)
+[^3]: Potremmo a tutti gli effetti descrivere questo *understanding* come una sorta di [afferramento fregiano.](https://floatingpoint.sorint.it/blog/post/la-struttura-ontologica-dei-significati-le-relazioni-referenziali)
 [^4]: Anche se, dopo aver “dimostrato” che anche il sesso coincide con uno spettro, ritorna sulla questione commentando lapidario: “If sex is a spectrum, then gender is unquestionably a spectrum”…una puntualizzazione che tradisce una certa insicurezza anche circa l’indubitabilità di questa seconda ipotesi.
 [^5]: Mi riferisco rispettivamente al *Cyborg Manifesto* (1991) e *Gender trouble: feminism and the subversion of identity* (1999), opere nelle quali le stesse categorie biologiche della sessualità umana vennero contestate in quanto “socialmente costruite”, ponendo le basi per la formulazione della teoria bimodale.
 [^6]: Praticamente un rovesciamento degli explicit delle vie dell’aquinate: « et haec clusters – nos, insipientes… – *dicimus* sexus ».
