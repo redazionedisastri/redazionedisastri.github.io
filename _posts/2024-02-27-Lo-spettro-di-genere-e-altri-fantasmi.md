@@ -221,66 +221,38 @@ Capito, geni della lampada?
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
-
+<p style="text-align: center;">Note</p>
 ---
-
-
+&nbsp;<br>
 [^1]: Attenzione però a ravvisare in questa deriva una certa pulsione unitaria alla dissoluzione del pensiero, perché [la clava del complottismo]( https://it.wikipedia.org/wiki/Teoria_del_gender) potrebbe essere brandita contro di voi…
-{: .text-justify}
 [^2]: Laddove non diversamente specificato le citazioni nel testo si riferiscono all’autore dell’articolo.
-{: .text-justify}
 [^3]: Potremmo a tutti gli effetti descrivere questo *understanding* come una sorta di [afferramento fregiano.](https://floatingpoint.sorint.it/blog/post/la-struttura-ontologica-dei-significati-le-relazioni-referenziali)
-{: .text-justify}
 [^4]: Anche se, dopo aver “dimostrato” che anche il sesso coincide con uno spettro, ritorna sulla questione commentando lapidario: “If sex is a spectrum, then gender is unquestionably a spectrum”…una puntualizzazione che tradisce una certa insicurezza anche circa l’indubitabilità di questa seconda ipotesi.
-{: .text-justify}
 [^5]: Mi riferisco rispettivamente al *Cyborg Manifesto* (1991) e *Gender trouble: feminism and the subversion of identity* (1999), opere nelle quali le stesse categorie biologiche della sessualità umana vennero contestate in quanto “socialmente costruite”, ponendo le basi per la formulazione della teoria bimodale.
-{: .text-justify}
 [^6]: Praticamente un rovesciamento degli explicit delle vie dell’aquinate: « et haec clusters – nos, insipientes… – *dicimus* sexus ».
-{: .text-justify}
 [^7]: Si tratta tuttavia di un dato del tutto fuorviante, come mostrerò più avanti.
-{: .text-justify}
 [^8]: Georges Canguilhem, Le normal et le pathologique. 2013 (1943), p. 155.
-{: .text-justify}
 [^9]: Ibidem.
-{: .text-justify}
 [^10]: Non che siano mancati i tentativi di armonizzare le vecchie metafisiche alla teoria evoluzionista, [come per esempio fece Asa Gray](http://darwin-online.org.uk/content/frameset?viewtype=side&itemID=A336&pageseq=1). La relazione fra creazionismo e darwinismo è estremamente complessa e sarebbe errato ridurla a un rapporto di mutua esclusione.
-{: .text-justify}
 [^11]: Notiamo al passaggio che il primo di questi doveri biologici consiste appunto nella capacità di trasmettere i propri caratteri da una generazione all’altra: quella *fertilità* quasi sempre compromessa dalle malattie che vedremo fra poco.
-{: .text-justify}
 [^12]: Si tratta di una percentuale indirettamente ripresa da *Sexing the Body: Gender Politics and the Construction of Sexuality* (2000), opera della studiosa (sarebbe meglio dire attivista) di genere Anne Fausto-Sterling, in cui la definizione di intersessualità venne arbitrariamente estesa per includere il più ampio numero di persone possibile. Subito rilanciata dalla stampa agli inizi degli anni duemila, essa è nel tempo divenuta un passe-partout dei militantiperidiritti.
-{: .text-justify}
 [^13]: Come puntualizzò lo psicologo e medico americano Leonard Sax [in un paper indirizzato alla stessa Fausto-Sterling](https://www.tandfonline.com/doi/abs/10.1080/00224490209552139))
-{: .text-justify}
 [^14]: Soprassiedo sulle tante altre anomalie del corredo genetico affini (Sindrome di Jacobs, della Tripla X, ecc.)  riportate dall’articolista in stile lista della spesa per tirare acqua al proprio mulino.
-{: .text-justify}
 [^15]: Nel caso della sindrome di Klinefelter, ipogonadismo e ginecomastia; per la sindrome di Turner, disordini o assenza del ciclo mestruale e scarso sviluppo delle mammelle. Sarebbe tuttavia errato credere che queste particolarità richiamino sempre le caratteristiche del sesso opposto: in alcuni casi queste ultime sono persino contraddette (nella sindrome di Turner, ad esempio, è presente statura più bassa della media femminile). In generale, l’aspetto fenotipico è del tutto singolare e specifico della malattia (sempre nella sindrome di Turner: collo corto con pterigio, un’attaccatura bassa delle orecchie; mentre in quella di Klinefelter una lunghezza insolita degli arti, soprattutto delle braccia).
-{: .text-justify}
 [^16]: Sia i maschi affetti da sindrome di Klinefelter che le donne affette da sindrome di Turner sono quasi sempre sterili (e in queste ultime la remota eventualità di una gravidanza presenta sempre un altissimo rischio di aborto spontaneo o di morte della madre).
-{: .text-justify}
 [^17]: La scarsa concentrazione di melanina associata ai capelli rossi può sia favorire la sintesi della vitamina D prevenendo la comparsa del rachitismo, che viceversa esporre a un maggior rischio di sviluppare cancro della pelle: è l’esposizione solare a stabilire quando il bilanciamento fra queste due caratteristiche si traduce in un vantaggio, e quando invece in uno svantaggio (Cf. Bodmer & Cavalli-Sforza, Genetics, evolution and man. 1976)
-{: .text-justify}
 [^18]: Questa discrepanza è riscontrabile in quei soggetti che, pur avendo un corredo cromosomico non alterato (46, XY o 46, XX), sviluppano alcuni caratteri sessuali del sesso opposto (o non sviluppano alcuni caratteri sessuali del proprio sesso) a causa di alterazioni geniche localizzate. Tali condizioni sono principalmente la *disgenesia gonadica pura* (o *sindrome di Swyer*), che colpisce individui con cariotipo maschile causando aspetto femminile e gonadi malformate (che, se non asportate, vanno spesso incontro a processi tumorali) e la *Sindrome da insensibilità agli androgeni* (o *sindrome di Morris*), in cui il feto – anch’esso cromosomicamente maschile – risultando insensibile agli ormoni maschili **non è in grado di sviluppare i caratteri fenotipici del suo sesso cromosomico**. Esiste poi l’*iperplasia surrenale congenita*, un disordine (talora così grave da risultare incompatibile con la vita) che può colpire soggetti con cariotipo sia maschile che femminile, e che in questi ultimi – a causa di una sovrapproduzione di ormoni androgeni – può causare virilizzazione *in utero*. Cf. Leonard Sax (2002), pp. 175-76.
-{: .text-justify}
 [^19]: Quando abbiamo visto che un disallineamento vero e proprio si produce soltanto in una ristrettissima minoranza della popolazione…a meno di non considerare una donna un po’ irsuta o un maschio tarchiato come persone intersessuali.
-{: .text-justify}
 [^20]: Una condizione peraltro rarissima in natura.
-{: .text-justify}
 [^21]: Al punto che “ancor oggi esistono tribù dove non ci si rende conto della relazione tra unione sessuale e gravidanza” ([Emmanuel Anati, 1989](https://disf.org/anati-homo-sapiens)).
-{: .text-justify}
 [^22]: La storia della *bandiera arcobaleno* coincide in larga parte con quella del movimento stesso, [essendo stata adottata come suo simbolo fin dal 1978.](https://queerintheworld.com/original-gilbert-baker-rainbow-pride-flag/)
 {: .text-justify}
 [^23]: Che invece le etichette accumulano creando uno spazio composto da infiniti intervalli discreti.
-{: .text-justify}
 [^24]: [Adsoqiation Dnghu, *Proto-Indo-European Etymological Dictionary* (2007), p. 2660](https://archive.org/details/etymologicaldictionaryofprotoindoeuropeanlanguagebydnghuadsoqiationzlib.org/page/n2659/mode/2up), p. 2660). Dalla stessa radice provengono anche gli italiani “secare”, “segmento”, “setta”, e – soprattutto – il “segno” (tramite il protoitalico seknom, correlato al *signum* latino), ovvero il nome che si attribuisce a queste separazioni, senza le quali ogni linguaggio si ridurrebbe a un indistinto incomprensibile.
-{: .text-justify}
 [^25]: È chiaro infatti che, una volta distrutte le differenze intraspecifiche, si potrà con più facilità smantellare i confini che definiscono l’umano stesso, separandolo da ciò che umano non è. Abbiamo visto che una volta abbracciato il modello bimodale, può agevolmente distruggersi qualunque definizione dell’umano, fino ad esiti letteralmente mostruosi.
-{: .text-justify}
 [^26]: K. Marx & F. Engels, *Manifesto del Partito Comunista* (1848).
-{: .text-justify}
 [^27]: Ivi.
 [^28]: L’uomo malleabile si piega a qualunque compromesso con accondiscendenza e sobrietà: egli è anche *flessibile*…
-{: .text-justify}
 [^29]: La quale potrebbe presto avere [un travolgente impatto sulle tecniche di fecondazione assistita.](https://www.wired.it/scienza/medicina/2021/05/07/un-embrione-umano-artificiale-dalle-cellule-staminali/)
-{: .text-justify}
 [^30]: Giorgio Agamben, *Che cos'è un dispositivo*. Nottetempo, 2006.
 {: .text-justify}
