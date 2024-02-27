@@ -18,7 +18,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 
 - [La verità è morta, viva la verità!](### La verità è morta, viva la verità!)
 - [Lo spettro sessuale](### Lo spettro sessuale)
-- [Il normale e il patologico](### Il normale e il patologico)
+- [Il normale e il patologico](###Il normale e il patologico)
 - [L’individuo non basta…](### L’individuo non basta…)
 - [Rosso Malpelo e i ciclopi](### Rosso Malpelo e i ciclopi)
 - [La salute ammalata, la malattia sanata](### La salute ammalata, la malattia sanata)
@@ -54,9 +54,7 @@ L’idea principale della teoria bimodale è che l’intera sessualità non poss
 Ne conseguirebbe che:
 
 1.	Il sesso *maschile* e quello *femminile* in quanto concetti sono privi di qualunque consistenza ontologica, poiché ciò che è riscontrabile nella realtà è solo un insieme di caratteristiche infinitamente variabili e ricomponibili che, nelle loro configurazioni statisticamente più diffuse, danno luogo a ciò che noi impropriamente definiamo “maschio” e “femmina”. Le virgolette qui rimandano all’illusorietà di tali etichette, esclusivamente frutto di convenzioni (leggasi: *oppressioni*) culturali.
- {: .text-justify}
 2.	Non ci sarebbe alcun modo di oggettivare una definizione del maschile o del femminile, nemmeno nella loro accezione strettamente biologica, in quanto esse sarebbero semplici astrazioni nominali sprovviste di qualsiasi riscontro fattuale.
-{: .text-justify}
 3.	Non sussistendo più alcuna distinzione sessuale di tipo categoriale, né sul piano culturale né su quello biologico, qualsiasi corpo può essere identificato con qualunque genere. Questo avviene non tanto poiché è negata la necessità di un allineamento fra sesso e genere “corrispondente” – come talora si dice – quanto perché, ancora più radicalmente, la differenza stessa fra i “sessi naturali” è stata decostruita: in uno spettro continuo, ogni nesso anche chiasmatico fra sesso e genere diviene immaginabile.
 {: .text-justify}
 
