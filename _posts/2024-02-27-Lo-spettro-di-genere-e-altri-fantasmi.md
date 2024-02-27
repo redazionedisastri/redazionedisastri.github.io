@@ -15,6 +15,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 
 # Indice
 
+
 - [La verità è morta, viva la verità!]( ###La verità è morta, viva la verità! )
 - [Lo spettro sessuale](###Lo spettro sessuale)
 - [Il normale e il patologico](###Il normale e il patologico)
@@ -25,6 +26,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [E i cavallucci marini allora?](###E i cavallucci marini allora?)
 - [*Sia la luce…*](###*Sia la luce…*)
 - [Dallo spettro ai fantasmi](###Dallo spettro ai fantasmi)
+  
 
 ### La verità è morta, viva la verità! 
 
@@ -32,7 +34,7 @@ Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dov
 {: .text-justify}
 
 >…what your parents and teachers should’ve taught you, but didn’t know themselves.
->
+
 Le due teorie concorrenti non sono dunque gradualmente introdotte al lettore ma, sin da subito, vengono presentate l’una nei termini di un *understanding* della realtà (teoria bimodale) [^3], l’altra in quelli di un (falso) *belief* (teoria binaria). Il tutto è graficamente chiarito con due bei diagrammi, di seguito riprodotti, riportanti rispettivamente la dicitura “corretto” e “scorretto” a scanso di ogni eventuale equivoco:
 ![Diagrammi](https://disastri.net/assets/img/BIMODAL-SEX-FINAL.webp){: .mx-auto.d-block :}
 A dispetto del titolo però, l’apologo della nuova *scientia sexualis* non si impegna più di tanto nel dimostrare l’esistenza di uno spettro *di genere*, ma liquida la questione [^4] come un’autoevidenza:
