@@ -14,6 +14,7 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 {: .text-justify}
 
 # Indice
+
 - [La verità è morta, viva la verità!]( ###La verità è morta, viva la verità! )
 - [Lo spettro sessuale](###Lo spettro sessuale)
 - [Il normale e il patologico](###Il normale e il patologico)
@@ -25,11 +26,13 @@ Quest’ultima rappresenta uno degli ultimi ritrovati concettuali del femminismo
 - [*Sia la luce…*](###*Sia la luce…*)
 - [Dallo spettro ai fantasmi](###Dallo spettro ai fantasmi)
 
-###La verità è morta, viva la verità! 
+### La verità è morta, viva la verità! 
+
 Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dovrebbe dire che egli cerca di “divulgare una verità”, umilmente insegnandoci (parole testuali) [^2]:
 {: .text-justify}
 
->…what your parents and teachers should’ve taught you, but didn’t know themselves. 
+>…what your parents and teachers should’ve taught you, but didn’t know themselves.
+>
 Le due teorie concorrenti non sono dunque gradualmente introdotte al lettore ma, sin da subito, vengono presentate l’una nei termini di un *understanding* della realtà (teoria bimodale) [^3], l’altra in quelli di un (falso) *belief* (teoria binaria). Il tutto è graficamente chiarito con due bei diagrammi, di seguito riprodotti, riportanti rispettivamente la dicitura “corretto” e “scorretto” a scanso di ogni eventuale equivoco:
 ![Diagrammi](https://disastri.net/assets/img/BIMODAL-SEX-FINAL.webp){: .mx-auto.d-block :}
 A dispetto del titolo però, l’apologo della nuova *scientia sexualis* non si impegna più di tanto nel dimostrare l’esistenza di uno spettro *di genere*, ma liquida la questione [^4] come un’autoevidenza:
@@ -119,6 +122,7 @@ Forse, distrutto l’uomo, la fabbrica dell’umano è già pronta ad aprire i b
 È sulla via della fluidità che consegneremo *tutta* la nostra esistenza – il nostro *bios* – ai lupi e agli sciacalli: rimossa la patina scientista, l’idea che il sesso sia uno spettro in cui non sono distinguibili categorie naturali **non è altro che uno di quei topoi mentali in cui si riproduce il radicale disfacimento dell’individuo generato e sfruttato dalle forme contemporanee del liberismo**… e chissà che ormai quasi transustanziato, questo stesso individuo si avvii a divenire quello *spettro* di cui tanto blatera:
 >Quel che definisce i dispositivi con cui abbiamo a che fare nella fase attuale del capitalismo è che essi non agiscono più tanto attraverso la produzione di un soggetto, quanto attraverso dei processi che possiamo chiamare di desoggettivazione. [...] quel che avviene ora è che processi di soggettivazione e processi di desoggettivazione sembrano diventare reciprocamente indifferenti e non danno luogo alla ricomposizione di un nuovo soggetto, se non in forma larvata e, per così dire, *spettrale* 
 A coloro che anelano una ribellione perenne da ogni metafisica, mi sento di lanciare questo monito: una volta divenuti volatili come gas, fate attenzione a non ritrovarvi tappati dentro a una bottiglia. Capito, geni della lampada?
+
 [^1]: Attenzione però a ravvisare in questa deriva una certa pulsione unitaria alla dissoluzione del pensiero, perché [la clava del complottismo]( https://it.wikipedia.org/wiki/Teoria_del_gender) potrebbe essere brandita contro di voi…
 [^2]: Laddove non diversamente specificato le citazioni nel testo si riferiscono all’autore dell’articolo.
 [^3]: Potremmo a tutti gli effetti descrivere questo *understanding* come una sorta di [afferramento fregiano](https://floatingpoint.sorint.it/blog/post/la-struttura-ontologica-dei-significati-le-relazioni-referenziali)
