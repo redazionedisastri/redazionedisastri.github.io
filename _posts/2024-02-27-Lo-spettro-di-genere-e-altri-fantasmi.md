@@ -35,7 +35,7 @@ Si è detto che l’autore “sostiene un’ipotesi”. Più precisamente si dov
 
 >…what your parents and teachers should’ve taught you, but didn’t know themselves.
 
-Le due teorie concorrenti non sono dunque gradualmente introdotte al lettore ma, sin da subito, vengono presentate l’una nei termini di un *understanding* della realtà (teoria bimodale) [^3], l’altra in quelli di un (falso) *belief* (teoria binaria). Il tutto è graficamente chiarito con due bei diagrammi, di seguito riprodotti, riportanti rispettivamente la dicitura “corretto” e “scorretto” a scanso di ogni eventuale equivoco:
+Le due teorie concorrenti non sono dunque gradualmente introdotte al lettore ma, sin da subito, vengono presentate l’una nei termini di un *understanding* della realtà [^3] (teoria bimodale), l’altra in quelli di un (falso) *belief* (teoria binaria). Il tutto è graficamente chiarito con due bei diagrammi, di seguito riprodotti, riportanti rispettivamente la dicitura “corretto” e “scorretto” a scanso di ogni eventuale equivoco:
 {: .text-justify}
 
 ![Diagrammi](https://disastri.net/assets/img/BIMODAL-SEX-FINAL.webp){: .mx-auto.d-block :}
