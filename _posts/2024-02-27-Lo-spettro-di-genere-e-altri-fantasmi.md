@@ -2,9 +2,9 @@
 layout: post
 title: Lo spettro di genere e altri fantasmi
 subtitle: Il costruttivismo sessuale smontato pezzo per pezzo
-cover-img: /assets/img/Immagine di copertina lo spettro di genere parte 1.png
-thumbnail-img: /assets/img/Immagine di copertina lo spettro di genere parte 1.png
-share-img: /assets/img/Immagine di copertina lo spettro di genere parte 1.png
+cover-img: /assets/img/fantasma su sfondo arcobaleno.png
+thumbnail-img: /assets/img/fantasma su sfondo arcobaleno.png
+share-img: /assets/img/fantasma su sfondo arcobaleno.png
 tags: [spettro di genere, sesso, binarismo]
 author: Romeo Gand
 ---
