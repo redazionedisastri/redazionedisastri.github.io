@@ -158,7 +158,7 @@ Subito dopo, però, si provvede a distinguere la nozione di cervello da quella d
 {: .text-justify}
 >The mind plays a central role in your gender identity
 {: .text-justify}
-E allora, unendo tutti i puntini, mi chiedo: non è che quel si sta affermando qui è che [**i desideri della tua mente siano così potenti da riuscire non soltanto a determinare il tuo genere, ma persino a plasmare il tuo corpo?](https://essenzialismi.it/tutto-il-potere-alla-mente/) Allora, il desiderio di cambiare identità non sarebbe più l’*effetto* di una natura che vuol esser liberata, ma la *causa* stessa di questo mutamento**
+E allora, unendo tutti i puntini, mi chiedo: non è che quel si sta affermando qui è che **[i desideri della tua mente siano così potenti da riuscire non soltanto a determinare il tuo genere, ma persino a plasmare il tuo corpo?](https://essenzialismi.it/tutto-il-potere-alla-mente/) Allora, il desiderio di cambiare identità non sarebbe più l’*effetto* di una natura che vuol esser liberata, ma la *causa* stessa di questo mutamento**
 {: .text-justify}
 In parole povere, coloro che tacciano ogni critico della fluidità di bigottismo e di anti-darwinismo, [sembrano muoversi ancora come le giraffe di Lamarck](https://www.cairn.info/revue-l-enseignement-philosophique-2011-2-page-48.htm): l’umano totipotente del XXI secolo s’è convinto di potersi stiracchiare fino al punto di allungarsi il collo (mutatis *mutandis*…) per il solo sforzo supremo della sua volontà.
 {: .text-justify} 
