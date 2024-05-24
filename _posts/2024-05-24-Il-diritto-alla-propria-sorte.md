@@ -9,7 +9,7 @@ tags: [diritti, storti, zigzag]
 author: Romeo Gand
 ---
 
-[**Aspirante suicida**]: “Adesso basta, facciamola finita.”
+[ **Aspirante suicida** ]: “Adesso basta, facciamola finita.”
 {: .text-justify}
 [**Giudice**]: “Ma la vita è bella.”
 {: .text-justify}
