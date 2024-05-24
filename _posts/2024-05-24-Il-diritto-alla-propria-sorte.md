@@ -3,8 +3,8 @@ layout: post
 title: Il diritto alla propria sorte
 subtitle: Dialogo sull’urgente necessità del progresso civile delle Nazioni
 cover-img: /assets/img/Atropos giudice.png
-thumbnail-img: /assets/img/ Atropos giudice.png
-share-img: /assets/img/ Atropos giudice.png
+thumbnail-img: /assets/img/Atropos giudice.png
+share-img: /assets/img/Atropos giudice.png
 tags: [diritti, storti, zigzag]
 author: Romeo Gand
 ---
