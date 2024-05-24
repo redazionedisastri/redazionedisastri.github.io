@@ -74,7 +74,7 @@ author: Romeo Gand
 {: .text-justify}
 **Tutto il popolo acclamando**: “Bravoooo!! Bis!!! Tris!!!!” [Piovono rose dagli spalti]
 {: .text-justify}
-**Attivista** [cantando e declamando]: “Fratelli d’Italia ♪ / l’Italia è un po’ mesta ♫ / ma ognun la sua morte ♪ ♪  / troverà ben lesta ♫ ♫ Dov’è il [Nembutàl](https://lagunatreatment.com/drug-abuse/barbiturates/nembutal/) ♪ ? Ne chiediam qualche fiala: ♫ / a colui che la inala ♫ ♫  / la pace darà, la pace darà! ♪  parapam parapam parapampampampam! […]”
+**Attivista** [cantando e declamando]: “Fratelli d’Italia **♪** / l’Italia è un po’ mesta **♫** / ma ognun la sua morte **♪** **♪**  / troverà ben lesta **♫♫** Dov’è il [Nembutàl](https://lagunatreatment.com/drug-abuse/barbiturates/nembutal/) **♪** ? Ne chiediam qualche fiala: **♫** / a colui che la inala **♫** **♫**  / la pace darà, la pace darà! **♪**  parapam parapam parapampampampam! […]”
 {: .text-justify}
 
 
