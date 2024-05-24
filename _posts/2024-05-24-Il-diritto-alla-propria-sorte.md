@@ -64,9 +64,9 @@ author: Romeo Gand
 {: .text-justify}
 **Attivista**: “E che dire – Signori – di quell’alluce incarnito [indica i piedi dell’imputato], che non ne vuol sapere di guarire, e che funesta i suoi sonni con tormenti lan-ci-nan-ti?? … [porta la mano sulla fronte reclinando il capo] … ‘Ahi serva Italia…di dolore ostello!’ ”
 {: .text-justify}
-**Il pubblico da casa** [in videochiamata]: “ **Ma adesso basta, questa è un’indecenza!!!** ”
+**Il pubblico da casa** [in videochiamata]: “**Ma adesso basta, questa è un’indecenza!!!**”
 {: .text-justify}
-Il **giudice, la Giuria e i testimoni tutti insieme, protestando**: “Sì, è un’indecenza, protestiamo!!”
+**Il giudice, la Giuria e i testimoni tutti insieme, protestando**: “Sì, è un’indecenza, protestiamo!!”
 {: .text-justify}
 **Attivista**: “Perché accanirsi ancora, dunque, su questo disgraziato? È forse umano abbandonare un condannato a questo inutile strazio? Io reclamo per lui una fine degna delle magnifiche sorti e progressive dei tempi nostri! Di più: io rivendico per *chiunque* la possibilità di una soluzione final…ehm definitiva agli insostenibili patimenti, presenti passati futuri o immaginati! Ancora di più: io mi appello al buon cuore degli Italiani, al Parlamento, alle Camere, ai Gabinetti e persino ai vostri Salotti: **legiferate subito!** Diritti, diritti, diritti, diritti. Più diritti per tutti!!! [Si fa un applauso] …i diritti che ci vogliono!! Legiferate subito i diritti che ci vogliono!!”
 {: .text-justify}
