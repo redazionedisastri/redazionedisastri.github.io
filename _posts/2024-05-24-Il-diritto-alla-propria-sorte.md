@@ -34,6 +34,7 @@ author: Romeo Gand
 **Membri della Giuria**, sospirando con più forza: “Ohhhhhhhhhhhhhhhhhhhhh…” [una rispettabile Signora nel pubblico a questo punto perde i sensi e viene elisoccorsa in videochiamata]
 {: .text-justify}
 **Giudice** [battendo il martello]: “Ordine, ordine in aula!!”
+{: .text-justify}
 **Attivista** [con tono incalzante e agitando l’indice in aria]: “Ecco, Illustri Signori della Coltre, avete udito con le vostre stesse orecchie e avete veduto con i vostri stessi occhi! E poi, se le sue finanze languono, in amore le cose gli vanno pure peggio: Marte e Saturno in Pesci gli fanno puzzare l’alito per puro dispetto [si tura il naso], il Sole e la Luna hanno traslocato in Gemelli al solo scopo di farglielo ammosciare…mentre Giove ha approfittato della situazione per scappare in un resort (★★★★★) insieme a sua moglie!” [abbozza un ghigno compiaciuto]
 {: .text-justify}
 **Tutta la Giuria** [alzandosi in piedi]: “Ma tutto ciò è terribile! Nessuno dovrebbe soffrire così…”
