@@ -8,6 +8,7 @@ share-img: /assets/img/ Atropos giudice.png
 tags: [diritti, storti, zigzag]
 author: Romeo Gand
 ---
+
 [**Aspirante suicida**]: “Adesso basta, facciamola finita.”
 {: .text-justify}
 [**Giudice**]: “Ma la vita è bella.”
@@ -41,6 +42,7 @@ author: Romeo Gand
 {: .text-justify}
 [**Attivista**, adesso con aria spavalda]: “D’altra parte, l’imputato – oltreché decrepito – è anche considerevolmente **brutto**. Con quel naso camuso e quelle rughe che avanzano senza pietà su una fronte dilaniata dall’ansia per il futuro incerto, egli sembra…egli assomiglia proprio…a una capra! Sì…una capra, una capra, ho ben detto, Signori della Coltre!!” [mostra agli astanti inorriditi l’immagine di una capra]
 {: .text-justify}
+
 ![Capra](https://disastri.net/assets/img/Capra.jpg){: .mx-auto.d-block :}
 [**Tutta l’aula in coro**]: “Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh”
 {: .text-justify}
