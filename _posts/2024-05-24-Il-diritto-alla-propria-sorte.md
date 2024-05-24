@@ -11,13 +11,13 @@ author: Romeo Gand
 
 **Aspirante suicida**: “Adesso basta, facciamola finita.”
 {: .text-justify}
-[**Giudice**]: “Ma la vita è bella.”
+**Giudice**: “Ma la vita è bella.”
 {: .text-justify}
-[**Attivista multi-diritti**]: “Dissento, Vostro Illustrissimo Onore! Cosa dovremmo dire allora dell’ ‘esistenza’ del concittadino qui presente? È forse vita la sua? Lo osservi più da vicino, Vostra Onoratezza Illustrata a Colori: con quale faccia tosta ci permettiamo di intralciare i suoi propositi? Tanto per cominciare, la sua infanzia è stata un vero e proprio incubo: i compagni di scuola gli rubavano quotidianamente la merenda (sua madre se ne infischiava), e suo padre quel che è peggio…beh, suo padre…chi l’ha mai visto?”
+**Attivista multi-diritti**: “Dissento, Vostro Illustrissimo Onore! Cosa dovremmo dire allora dell’ ‘esistenza’ del concittadino qui presente? È forse vita la sua? Lo osservi più da vicino, Vostra Onoratezza Illustrata a Colori: con quale faccia tosta ci permettiamo di intralciare i suoi propositi? Tanto per cominciare, la sua infanzia è stata un vero e proprio incubo: i compagni di scuola gli rubavano quotidianamente la merenda (sua madre se ne infischiava), e suo padre quel che è peggio…beh, suo padre…chi l’ha mai visto?”
 {: .text-justify}
-[**Testimone in videochiamata**]: “Gli è anche morto il gatto davanti agli occhi quando aveva soltanto cinque anni!”
+**Testimone in videochiamata**: “Gli è anche morto il gatto davanti agli occhi quando aveva soltanto cinque anni!”
 {: .text-justify}
-[**Membri della Giuria**, sospirando]: “Ohhhh…”
+**Membri della Giuria** [sospirando]: “Ohhhh…”
 {: .text-justify}
 [**Aspirante suicida**, singhiozzando]: “Sì, è vero…Fufù… [prorompe in lacrime] …voglio morire! Aiutatemi vi prego!!”
 {: .text-justify}
