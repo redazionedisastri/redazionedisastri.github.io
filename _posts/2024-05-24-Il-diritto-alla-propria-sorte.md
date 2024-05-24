@@ -9,7 +9,7 @@ tags: [diritti, storti, zigzag]
 author: Romeo Gand
 ---
 
-[ **Aspirante suicida** ]: “Adesso basta, facciamola finita.”
+**Aspirante suicida**: “Adesso basta, facciamola finita.”
 {: .text-justify}
 [**Giudice**]: “Ma la vita è bella.”
 {: .text-justify}
@@ -44,6 +44,7 @@ author: Romeo Gand
 {: .text-justify}
 
 ![Capra](https://disastri.net/assets/img/Capra.jpg){: .mx-auto.d-block :}
+
 [**Tutta l’aula in coro**]: “Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh”
 {: .text-justify}
 [**L’aspirante suicida**, brandendo i barbiturici sul banco, trattenuto a stento dalle guardie]: “Voglio morire, voglio morire ho detto!! Pretendo soddisfazione immediata!!!”
