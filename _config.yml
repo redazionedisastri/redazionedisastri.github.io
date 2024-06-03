@@ -21,7 +21,7 @@ author: © Disastri
 
 navbar-links:
   Ma chi siamo?: "Chisiamo"
-  La nostra redazione: "Lanostraredazione"
+  #La nostra redazione: "Lanostraredazione"
   #Risorse:
     #- Materiali  
   #Oasi bar: 
