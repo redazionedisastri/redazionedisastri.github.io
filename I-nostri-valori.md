@@ -3,10 +3,11 @@ layout: page
 title: I nostri valori
 subtitle: 
 ---
-Cari visitatori, 
-[Finora abbiamo scherzato](https://disastri.net/Chisiamo/). Oltre alla pastasciutta, noi facciamo sfoggio di innumerevoli e bei principi morali. Eccone alcuni:
+Cari visitatori,
 
-##Clima: Anzitutto, ci battiamo in prima persona contro il **cambiamento mediatico**: seguendo l’esempio dei paesi più avanzati, ci impegniamo affinché ogni singolo mezzo di informazione – compreso il nostro – resti sotto il rigido controllo di una manciata di gruppi privati, allo scopo di garantire un controllo centralizzato delle opinioni, con tanto di **filtraggio, smistamento ed eventuale compostaggio finale**. Per il nostro ruolo di garanti del clima politico, riceviamo quotidianamente incentivi governativi, incoraggiamenti filantropici e succulenti prosciutti di Parma. 
+[Finora abbiamo scherzato](https://disastri.net/Chisiamo/). Oltre alla pastasciutta, infatti, noi facciamo sfoggio di innumerevoli e bei principi morali. Eccone alcuni:
+
+## Clima: Anzitutto, ci battiamo in prima persona contro il **cambiamento mediatico**: seguendo l’esempio dei paesi più avanzati, ci impegniamo affinché ogni singolo mezzo di informazione – compreso il nostro – resti sotto il rigido controllo di una manciata di gruppi privati, allo scopo di garantire un controllo centralizzato delle opinioni, con tanto di **filtraggio, smistamento ed eventuale compostaggio finale**. Per il nostro ruolo di garanti del clima politico, riceviamo quotidianamente incentivi governativi, incoraggiamenti filantropici e succulenti prosciutti di Parma. 
 {: .text-justify}
 
 ![Banner](https://disastri.net/assets/img/Banner opinioni effetto serra.png){: .align-center}
