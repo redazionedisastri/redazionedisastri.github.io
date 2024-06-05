@@ -23,5 +23,6 @@ Cari visitatori,
 Siamo molto fieri dei traguardi sinora raggiunti, **ma non ci accontentiamo mai e guardiamo sempre al futuro**: entro l’estate prossima prevediamo infatti di andare in vacanza a Bora Bora, e ritorno.
 {: .text-justify}
 
+![Bora Bora](https://disastri.net/assets/img/Bora Bora.jpg){: .align-center}
 
 
