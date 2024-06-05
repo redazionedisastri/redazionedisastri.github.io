@@ -29,7 +29,7 @@ La digitalizzazione e il progresso tecnologico sono parte integrante della nostr
 Secondo il nostro codice etico, infine, la Redazione si riserva il diritto di **includere obbligatoriamente**, per soggiorni di durata indeterminata, chiunque dissenta da uno solo dei punti precedenti.
 {: .text-justify}
 
-***{: .align-center}
+*** {: .align-center}
 
 Gentili avventori, siamo molto fieri dei traguardi sinora raggiunti, **ma non ci accontentiamo mai e guardiamo sempre al futuro**: entro l’estate prossima prevediamo infatti di andare in vacanza a Bora Bora, e ritorno.
 {: .text-justify}
