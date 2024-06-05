@@ -18,7 +18,7 @@ La salute, in particolar modo la nostra, è per noi il bene supremo, e **ci sta 
 {: .text-justify}
 
 ### Sicurezza
-La vostra sicurezza è una delle nostre missioni preferite. Ci assicuriamo che non facciate scelte avventate – come uscire da casa – **o meglio ancora che non possiate fare alcuna scelta**. Controlliamo e monitoriamo costantemente dallo spioncino della vostra porta che trascorriate la maggior parte delle vostre giornate sereni e contenti, distesi sul divano di casa o presso il vostro luogo di lavoro (qualora il secondo non coincida ancora col primo). E se proprio dovete uscire per acquistare qualche vettovaglia, verifichiamo in anticipo le condizioni meteorologiche, calcoliamo l’itinerario più breve e ci accertiamo, in connessione al punto precedente, che abbiate prima indossato sciarpa e maglietta della salute.
+La vostra sicurezza è una delle nostre missioni preferite. Ci assicuriamo che non facciate scelte avventate – come uscire da casa – **o meglio ancora che non possiate fare alcuna scelta**. Controlliamo e monitoriamo costantemente dallo spioncino della vostra porta che trascorriate la maggior parte delle vostre giornate sereni e contenti, distesi sul divano di casa o presso il vostro luogo di lavoro (qualora il secondo non coincida ancora col primo). E se proprio dovete uscire per acquistare qualche bene di prima necessità, verifichiamo in anticipo che le condizioni meteorologiche lo consentano, calcoliamo l’itinerario più breve e ci accertiamo, in connessione al punto precedente, che abbiate prima indossato sciarpa e maglietta della salute.
 {: .text-justify}
 
 ### Digitalizzazione
