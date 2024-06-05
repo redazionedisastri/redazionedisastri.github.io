@@ -11,7 +11,7 @@ Cari visitatori,
 Anzitutto, ci battiamo in prima persona contro il **cambiamento mediatico**: seguendo l’esempio dei paesi più avanzati, ci impegniamo affinché ogni singolo mezzo di informazione – compreso il nostro – resti sotto l'egida di una manciata di gruppi privati, allo scopo di garantire un controllo centralizzato delle opinioni, con tanto di **filtraggio, smistamento ed eventuale compostaggio finale**. Per il nostro ruolo di garanti del clima culturale, riceviamo quotidianamente incentivi governativi, incoraggiamenti filantropici e succulenti prosciutti di Parma. 
 {: .text-justify}
 
-![Banner](https://disastri.net/assets/img/Banner opinioni effetto serra.png){: .align-center}
+![Banner](https://disastri.net/assets/img/Banner opinioni effetto serra def.png){: .align-center}
 
 ## Salute:
 La salute, in particolar modo la nostra, è per noi il bene supremo, e **ci sta dunque molto a cuore**. Divulghiamo sul nostro sito informazioni accuratamente verificate da comitati di esperti dipendenti, notizie sugli ultimi malanni di stagione, disposizioni sui comportamenti da adottare per il bene di tutti, nessuno e centomila. Inoltre, alla fine di ogni mese, distribuiamo gratuitamente tisane, cerotti, acqua ossigenata e bonus psicologici ai più bisognosi.
@@ -29,8 +29,9 @@ La digitalizzazione e il progresso tecnologico sono parte integrante della nostr
 Secondo il nostro codice etico, infine, la Redazione si riserva il diritto di **includere obbligatoriamente**, per soggiorni di durata indeterminata, chiunque dissenta da uno solo dei punti precedenti.
 {: .text-justify}
 
+***{: .align-center}
 
-Siamo molto fieri dei traguardi sinora raggiunti, **ma non ci accontentiamo mai e guardiamo sempre al futuro**: entro l’estate prossima prevediamo infatti di andare in vacanza a Bora Bora, e ritorno.
+Gentili avventori, siamo molto fieri dei traguardi sinora raggiunti, **ma non ci accontentiamo mai e guardiamo sempre al futuro**: entro l’estate prossima prevediamo infatti di andare in vacanza a Bora Bora, e ritorno.
 {: .text-justify}
 
 ![Bora Bora](https://disastri.net/assets/img/Bora bora.jpg){: .align-center}
