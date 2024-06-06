@@ -17,7 +17,7 @@ Le decime elezioni europee sono infatti alle soglie e, fra allarmistiche previsi
 ## Il (non) voto anti-sistema
 Eppure, anche al di fuori del mondo della stampa igienica, non mancano i richiami alle urne da parte di tante piccole realtà che rivendicano la loro affiliazione certificata al pianeta “anti-sistema”. 
 {: .text-justify}
-In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono allora che **non recandosi ai seggi, la si darà ancora una volta vinta ai cattivoni**. Insomma, si cassa come fallimentare la strategia dell’astensione in quanto…
+In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono allora che **non recandosi ai seggi, la si darà ancora una volta vinta ai cattivoni**. Insomma, si cassa come fallimentare la strategia dell’as-tensione in quanto…
 {: .text-justify}
 
 >…non andando a votare, lascerete che gli altri (alias, gli elettori dei cattivoni) decidano anche per voi!!
