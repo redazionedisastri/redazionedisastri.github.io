@@ -95,7 +95,7 @@ E io dico: chi se ne frega? Quel che conta è che questo terrore, questa attesa,
 
 Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Sei solo un contro-sintonizzato. È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. 
 {: .text-justify}
-Come dici: solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Ci sii vive bene come le gocce nel vaso. Si fa comunella, catinella, poi si trabocca in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
+Come dici: solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Ci si vive bene come le gocce nel vaso. Si fa comunella, catinella, poi si trabocca in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
 {: .text-justify}
 
 E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale afferrale, osservale, stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo scandalo di come stanno per ucciderci. [E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
