@@ -46,6 +46,7 @@ Non votare significa invece, come insegna la tradizione anarchica, disconoscere 
 
 ## L’area del dissenso
 ![Area dissenso](https://disastri.net/assets/img/Area del dissenso def.png){: .mx-auto.d-block :}
+&nbsp;<br>
 Si fa notare però ancora a chi non voterà, come oggi – a fronte di un astensionismo senza precedenti nei grandi stati “democratici” – non governino più delle maggioranze schiaccianti, ma piccole minoranze, tribù ideologiche compatte e ben motivate. E allora…
 {: .text-justify}
 
@@ -81,6 +82,7 @@ Certo, il non votare, non può essere l’unico atto politico. Perché da chi no
 
 ## Capitano, capitano…Apocalisse all’orizzonte!
 ![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi def.png){: .mx-auto.d-block :}
+&nbsp;<br>
 E questa apocalisse si staglia come uno sterminio finale, ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente la temono e la auspicano, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
 {: .text-justify}
 
