@@ -105,7 +105,7 @@ Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo ma
 E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale, osservale, guarda stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo putridume. 
 {: .text-justify}
 
-[E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico), riecheggiano ancora le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
+[E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico), riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
 {: .text-justify}
 
 Che ne so io di cosa c’è da fare e di cosa c’è da dire. 
