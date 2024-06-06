@@ -1,6 +1,4 @@
 ---
-2024-06-06-Le-urne-taciturne.md
----
 layout: post
 title: Le urne taciturne
 subtitle: Osservazioni sul dissenso, l’astensionismo e le trombette dell’Apocalisse
@@ -46,7 +44,7 @@ Non votare significa invece, come insegna la tradizione anarchica, disconoscere 
 Certo, la vittoria di certi partiti piuttosto che di altri, potrebbe forse accelerare alcuni processi già in atto, favorire  per così dire il *rigor mortis* e la decomposizione cadaverica… ma forse, e contro intuitivamente, sarebbero proprio le coalizioni inedite – faccette pulite agli occhi della moltitudine – i volti su cui poter incidere più facilmente [^3] i nuovi capitoli di questo romanzo a puntate dal finale un po’ scontato. Un cambio di classe dirigente riverserebbe insomma un bel carico di vermi freschi sulla carcassa…e forse [è proprio questo quello che si attende, soprattutto oltreoceano, per sferrare qualche altro colpo decisivo](https://off-guardian.org/2024/04/19/bird-flu-censorship-100-day-vaccines-7-predictions-for-the-next-pandemic/).
 {: .text-justify}
 
-##L’area del dissenso
+## L’area del dissenso
 ![Area dissenso](https://disastri.net/assets/img/Area del dissenso def.png){: .mx-auto.d-block :}
 Si fa notare però ancora a chi non voterà, come oggi – a fronte di un astensionismo senza precedenti nei grandi stati “democratici” – non governino più delle maggioranze schiaccianti, ma piccole minoranze, tribù ideologiche compatte e ben motivate. E allora…
 {: .text-justify}
@@ -81,7 +79,7 @@ Certo, il non votare, non può essere l’unico atto politico. Perché da chi no
 È una pretesa sacrosanta. Anche perché il rischio simmetrico è quello di chiudersi in un’illusione di segno opposto: quella del ritiro in un’ascetica purezza, lontano da tutti gli inganni del secolo, finalmente *fuori* da questo porco mondo. Ma se non è possibile arrestare il treno in corsa, non ci è nemmeno concesso di scendere a piacimento: è una corsa verso il muro senza stazioni di servizio. 
 {: .text-justify}
 
-##Capitano, capitano…Apocalisse all’orizzonte!
+## Capitano, capitano…Apocalisse all’orizzonte!
 ![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi def.png){: .mx-auto.d-block :}
 E questa apocalisse si staglia come uno sterminio finale, ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente la temono e la auspicano, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
 {: .text-justify}
