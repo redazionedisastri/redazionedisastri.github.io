@@ -8,6 +8,7 @@ share-img: /assets/img/Immagine copertina Urne taciturne def.png
 tags: [elezioni, astensionismo, dissenso, apocalisse]
 author: Romeo Gand
 ---
+
 Votare o non votare? Ecco servito l’abituale dilemma pre-elettorale.
 {: .text-justify}
 Le decime elezioni europee sono infatti alle soglie e, fra allarmistiche previsioni di astensionismo, gli accorati appelli al voto si moltiplicano in primis – com’è ovvio – nelle file [delle forze politiche tradizionali](https://www.open.online/2024/06/04/europee-2024-spettro-astensionismo-allarme-sud-m5s/). Non mancano così toccanti storie da libro *Cuore*, edificanti aneddoti *del* popolo e *per* il popolo. Come [quella di questo panettiere barese](https://bari.corriere.it/notizie/cronaca/24_giugno_04/panettiere-barese-regala-ai-clienti-ogni-giorno-una-poesia-di-trilussa-andate-a-votare-non-astenetevi-f86da7c7-bc4c-48df-aaca-829894c65xlk.shtml), che a pochi giorni dal voto incita le masse alla responsabilità civile distribuendo nientepocodimeno che i sonetti del buon Trilussa… 
