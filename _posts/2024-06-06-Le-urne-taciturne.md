@@ -78,7 +78,7 @@ Certo, il non votare, non può essere l’unico atto politico. Perché da chi no
 È una pretesa sacrosanta. **Anche perché il rischio simmetrico è quello di chiudersi in un’illusione di segno opposto: quella del ritiro in un’ascetica purezza, lontano da tutti gli inganni del secolo, finalmente *fuori* da questo porco mondo.** Ma se non è possibile arrestare il treno in corsa, non ci è nemmeno concesso di scendere a piacimento: nessuna stazione di servizio. 
 {: .text-justify}
 
-Il muro si staglia all'orizzonte come uno schianto finale. Ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente temono ed auspicano un'apocalisse, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
+Il muro si staglia all'orizzonte con la sua promessa di uno schianto finale. Ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente temono ed auspicano un'apocalisse, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
 {: .text-justify}
 
 >Evviva, evviva...abbiamo vinto! Peperepepepepeeee. Tiè: 5-0 e tutti a casa!!
