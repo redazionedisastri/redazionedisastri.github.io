@@ -72,10 +72,10 @@ Perché qua il problema è lungi dall’essere un fatto prettamente politico: si
 ![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi def.png){: .mx-auto.d-block :}
 &nbsp;<br>
 
-Certo, il non votare, non può essere l’unico atto politico. Perché da chi non vota, si pretende a maggior ragione un impegno in prima persona nel costruirsi da soli e col sudore della propria fronte un mondo migliore.
+Certo, il non votare, non può essere l’unico atto politico. Perché da chi non vota, si pretende a maggior ragione un impegno in prima persona nel costruirsi da solo e col sudore della propria fronte un mondo migliore.
 {: .text-justify}
 
-È una pretesa sacrosanta. **Anche perché il rischio simmetrico è quello di chiudersi in un’illusione di segno opposto: quella del ritiro in un’ascetica purezza, lontano da tutti gli inganni del secolo, finalmente *fuori* da questo porco mondo.** Ma se non è possibile arrestare il treno in corsa, non ci è nemmeno concesso di scendere a piacimento: nessuna stazione di servizio. 
+È una pretesa sacrosanta. **Anche perché il rischio simmetrico è quello di chiudersi in un’illusione di segno opposto: quella del ritiro in un’ascetica purezza, lontano da tutti gli inganni del secolo, finalmente *fuori* da questo porco mondo.** Ma se non è possibile arrestare il treno in corsa, non ci è nemmeno concesso di scendere a piacimento: spiacenti nessuna stazione di servizio. 
 {: .text-justify}
 
 Il muro si staglia all'orizzonte con la sua promessa di uno schianto finale. Ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente temono ed auspicano un'apocalisse, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
@@ -93,12 +93,9 @@ E io dico: chi se ne frega? Quel che conta è che questo terrore, questa attesa,
 >…ma io non ho la tv, io non guardo un telegiornale da dieci anni!!
 {: .text-justify}
 
-Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Sei solo un contro-sintonizzato. 
+Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Sei solo un contro-sintonizzato. È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. 
 {: .text-justify}
-
-È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. 
-{: .text-justify}
-Solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Si vive bene come le gocce nell’acqua. Si fa comunella, ci si iscrive in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
+Come dici: solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Si vive bene come le gocce nell’acqua. Si fa comunella, ci si iscrive in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
 {: .text-justify}
 
 E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale afferrale, osservale, stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo scandalo di come stanno programmando di ucciderci. 
