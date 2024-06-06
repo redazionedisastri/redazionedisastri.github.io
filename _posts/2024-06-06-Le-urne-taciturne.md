@@ -95,21 +95,18 @@ E io dico: chi se ne frega? Quel che conta è che questo terrore, questa attesa,
 
 Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Sei solo un contro-sintonizzato. È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. 
 {: .text-justify}
-Come dici: solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Si vive bene come le gocce nell’acqua. Si fa comunella, ci si iscrive in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
+Come dici: solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Ci sii vive bene come le gocce nel vaso. Si fa comunella, catinella, poi si trabocca in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
 {: .text-justify}
 
-E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale afferrale, osservale, stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo scandalo di come stanno programmando di ucciderci. 
+E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale afferrale, osservale, stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo scandalo di come stanno per ucciderci. [E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
 {: .text-justify}
 
-[E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
-{: .text-justify}
-
-**Che ne so io di cosa c’è da fare e di cosa c’è da dire**: le bombe, la Comune, i circoli sociali, il fare rete, i manifesti le manifestazioni, le proteste, l'impegno civile, le piazze, gli anacardi? Boh.
+**Che ne so io di cosa c’è da fare e di cosa c’è da dire**: le bombe, le lettere minatorie, la Comune, i circoli sociali, il fare rete, i manifesti e le manifestazioni, le proteste, l'impegno civile, le piazze, gli anacardi? Boh.
 {: .text-justify}
 Io quel che so è che ce la dovremo guadagnare con la tribolazione di un santo martirio questa apocalisse. Che non ci pioverà sulla testa, così gratuitamente, con un grappolo di bombe atomiche: ché ci vuole *Passione* per meritarsi la propria croce.
 {: .text-justify}
 
-Le grandi ideologie politiche, il mito della democrazia salvifica, dei diritti universali, li abbiamo visti per quello che sono davvero: giganti coi piedi di terracotta. Ma il nostro cuore dove l'abbiamo rinchiuso? Ripartiamo dalle cose piccole, infinitesime. Dal sapere sì, con la precisione e la cognizione del saggio, che tutto va a sfacelo, ma nell’essere [ugualmente e impassibilmente felici](https://www.youtube.com/watch?v=LV-Y-d33RdU&ab_channel=GiorgioGaber-Topic). Interpretiamo la politica nel suo senso etimologico: come l’arte del convivere. Torniamo a fare società. Ad amare il prossimo pienamente e incondizionatamente, che è oggi un atto politico dei più rivoluzionari. Ma anche, riducendo ancora la scala, ad impegnarci a guarire il nostro sguardo.
+Le grandi ideologie politiche, il mito della democrazia salvifica, dei diritti universali, li abbiamo visti per quello che sono davvero: giganti coi piedi di terracotta. Ma il nostro cuore dove l'abbiamo rinchiuso? Ripartiamo dalle cose piccole, infinitesime. Dal sapere sì, con la precisione e la cognizione del saggio, che tutto va a sfacelo, ma dall’essere [ugualmente e impassibilmente felici](https://www.youtube.com/watch?v=LV-Y-d33RdU&ab_channel=GiorgioGaber-Topic). Interpretiamo la politica nel suo senso etimologico: come l’arte del convivere. Torniamo a fare società. Ad amare il prossimo pienamente e incondizionatamente, che è oggi un atto politico di quelli più rivoluzionari. Ma anche, riducendo ancora la scala, ad impegnarci a guarire il nostro sguardo.
 {: .text-justify}
 
 Insomma altro che urne: rinunciamo alla velleità di cambiare il mondo, e [ritorniamo alle *cose veramente nostre*](https://www.youtube.com/watch?v=uqJ3oTxUEmo&ab_channel=GiorgioGaber-Topic). Così, in equilibrio sul baratro.
