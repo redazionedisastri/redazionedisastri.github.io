@@ -11,13 +11,13 @@ author: Romeo Gand
 
 Votare o non votare? Ecco servito l’abituale dilemma pre-elettorale.
 {: .text-justify}
-Le decime elezioni europee sono infatti alle soglie e, fra allarmistiche previsioni di astensionismo, gli accorati appelli al voto si moltiplicano in primis – com’è ovvio – nelle file [delle forze politiche tradizionali](https://www.open.online/2024/06/04/europee-2024-spettro-astensionismo-allarme-sud-m5s/). Non mancano così toccanti storie da libro *Cuore*, edificanti aneddoti *del* popolo e *per* il popolo. Come [quella di questo panettiere barese](https://bari.corriere.it/notizie/cronaca/24_giugno_04/panettiere-barese-regala-ai-clienti-ogni-giorno-una-poesia-di-trilussa-andate-a-votare-non-astenetevi-f86da7c7-bc4c-48df-aaca-829894c65xlk.shtml), che a pochi giorni dal voto incita le masse alla responsabilità civile distribuendo nientepocodimeno che i sonetti del buon Trilussa… 
+Le decime elezioni europee sono infatti alle soglie e, fra allarmistiche previsioni di astensionismo, gli accorati appelli al voto si moltiplicano in primis – com’è ovvio – nelle file [delle forze politiche tradizionali](https://www.open.online/2024/06/04/europee-2024-spettro-astensionismo-allarme-sud-m5s/). Non mancano così toccanti storie da libro *Cuore*, edificanti aneddoti *del* popolo e *per* il popolo. Come [quella di questo panettiere barese](https://bari.corriere.it/notizie/cronaca/24_giugno_04/panettiere-barese-regala-ai-clienti-ogni-giorno-una-poesia-di-trilussa-andate-a-votare-non-astenetevi-f86da7c7-bc4c-48df-aaca-829894c65xlk.shtml), che a pochi giorni dal voto incita le masse alla responsabilità civile distribuendo agli affamati avventori nientepocodimeno che i sonetti di Trilussa… 
 {: .text-justify}
 
 ## Il (non) voto anti-sistema
-Eppure, anche al di fuori del mondo della stampa igienica, si moltiplicano gli appelli alle urne da parte di tante piccole realtà che rivendicano, come al solito, la loro affiliazione certificata al pianeta “anti-sistema”. 
+Eppure, anche al di fuori del mondo della stampa igienica, non mancano i richiami alle urne da parte di tante piccole realtà che rivendicano la loro affiliazione certificata al pianeta “anti-sistema”. 
 {: .text-justify}
-In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono allora che non recandosi ai seggi, la si darà ancora una volta vinta ai cattivoni. Insomma, si cassa come fallimentare la strategia dell’astensione in quanto…
+In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono allora che **non recandosi ai seggi, la si darà ancora una volta vinta ai cattivoni**. Insomma, si cassa come fallimentare la strategia dell’astensione in quanto…
 {: .text-justify}
 
 >…non andando a votare, lascerete che gli altri (alias, gli elettori dei cattivoni) decidano anche per voi!!
@@ -26,13 +26,13 @@ In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono al
 Così si leva alto, anche dal fronte del dissenso, l’invito a non abdicare al proprio diritto di rappresentanza, adducendo come prova fra le tante i deludenti risultati delle recenti elezioni comunali di Londra, [che hanno visto una solida affermazione del globalista in salsa laburista Sadiq Khan](https://www.ilpost.it/2024/05/04/rielezione-sadiq-khan/).
 {: .text-justify}
 
-Non votare poi, si dice, equivarrebbe a mettere la testa sotto la sabbia: il sistema che ti opprime sorgerà ancora una volta, anche senza il canto di qualche gallo [^1]. 
+Non votare poi, si dice, equivarrebbe a mettere la testa sotto la sabbia: il sistema che ci opprime sorgerà ancora una volta, anche senza il canto di qualche gallo [^1]. 
 {: .text-justify}
 
 E certo, lorsignori, non è che si creda di cancellare il Sole oscurandolo con un palmo di mano. Ma d’altra parte, vi chiedo: cosa cambierebbe *votando*? Gli astri se ne staranno là imperterriti, a prescindere dai nostri gorgheggi rappresentativi.
 {: .text-justify}
 
-La prospettiva di chi, dal fronte del dissenso, incita al voto, assume implicitamente che i soggetti che vincono andranno poi effettivamente a governare. E che quindi, ci sarebbero partiti migliori o peggiori di altri. Chi rifiuta il voto come atto politico e civile, invece, non vuol legittimare in alcun modo un sistema che pensa non si possa più cambiare dall’interno, attraverso questi finti meccanismi di rappresentanza democratica. [Sappiamo tutti quale peso abbia il Parlamento Europeo in questa Unione](https://www.lafionda.org/2024/06/06/le-inutili-elezioni-europee-i-vincoli-di-guerra-e-altro-ancora/). Non sarà certo la presenza di qualche (sedicente) alternativo nell’emiciclo, con le sue concioni settimanali, ad arginare lo strapotere della Commissione europea. Gente ben più ferrata di me lo va dicendo da anni, se non da decenni, che [la struttura di questa fusione europea è appositamente pensata per permettere a una piccola oligarchia di fare il bello e il cattivo tempo indisturbata](https://www.youtube.com/watch?v=ZOz1Fkxzerw&ab_channel=OttolinaTV)
+La prospettiva di chi, dal fronte del dissenso, sprona al voto, assume implicitamente che i soggetti che vincono andranno poi effettivamente a governare. E che quindi, ci sarebbero partiti migliori o peggiori di altri. Chi rifiuta il voto come atto politico e civile, invece, **non vuol legittimare in alcun modo un sistema che pensa non si possa più in alcun modo cambiare dall’interno**, attraverso questi finti meccanismi di rappresentanza democratica. [Sappiamo tutti quale peso abbia il Parlamento Europeo in questa Unione](https://www.lafionda.org/2024/06/06/le-inutili-elezioni-europee-i-vincoli-di-guerra-e-altro-ancora/). Non sarà certo la presenza di qualche (sedicente) alternativo nell’emiciclo, con le sue concioni settimanali, ad arginare lo strapotere della Commissione europea. Gente ben più ferrata di me lo va dicendo da anni, se non da decenni, che [la struttura di questa fusione europea è appositamente pensata per permettere a una piccola oligarchia di fare il bello e il cattivo tempo indisturbata](https://www.youtube.com/watch?v=ZOz1Fkxzerw&ab_channel=OttolinaTV)
 {: .text-justify}
 
 
