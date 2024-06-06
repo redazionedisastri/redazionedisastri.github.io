@@ -107,7 +107,7 @@ E così – se da principio o per effetto non lo so e non mi interessa – **si 
 [E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
 {: .text-justify}
 
-**Che ne so io di cosa c’è da fare e di cosa c’è da dire**. 
+**Che ne so io di cosa c’è da fare e di cosa c’è da dire**: le bombe, la Comune, i circoli sociali, fare rete, i manifesti, le proteste, l'impegno civile, gli anacardi. Boh.
 {: .text-justify}
 Io quel che so è che ce la dovremo guadagnare con la tribolazione di un santo martirio questa apocalisse. Che non ci pioverà sulla testa, così gratuitamente, con un grappolo di bombe atomiche: ché ci vuole *Passione* per meritarsi la propria croce.
 {: .text-justify}
