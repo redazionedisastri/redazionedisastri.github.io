@@ -4,9 +4,9 @@
 layout: post
 title: Le urne taciturne
 subtitle: Osservazioni sul dissenso, l’astensionismo e le trombette dell’Apocalisse
-cover-img: /assets/img/Immagine copertina Urne taciturne.png
-thumbnail-img: /assets/img/Immagine copertina Urne taciturne.png	
-share-img: /assets/img/Immagine copertina Urne taciturne.png
+cover-img: /assets/img/Immagine copertina Urne taciturne def.png
+thumbnail-img: /assets/img/Immagine copertina Urne taciturne def.png	
+share-img: /assets/img/Immagine copertina Urne taciturne def.png
 tags: [elezioni, astensionismo, dissenso, apocalisse]
 author: Romeo Gand
 ---
@@ -15,7 +15,7 @@ Votare o non votare? Ecco servito l’abituale dilemma pre-elettorale.
 Le decime elezioni europee sono infatti alle soglie e, fra allarmistiche previsioni di astensionismo, gli accorati appelli al voto si moltiplicano in primis – com’è ovvio – nelle file [delle forze politiche tradizionali](https://www.open.online/2024/06/04/europee-2024-spettro-astensionismo-allarme-sud-m5s/). Non mancano così toccanti storie da libro *Cuore*, edificanti aneddoti *del* popolo e *per* il popolo. Come [quella di questo panettiere barese](https://bari.corriere.it/notizie/cronaca/24_giugno_04/panettiere-barese-regala-ai-clienti-ogni-giorno-una-poesia-di-trilussa-andate-a-votare-non-astenetevi-f86da7c7-bc4c-48df-aaca-829894c65xlk.shtml), che a pochi giorni dal voto incita le masse alla responsabilità civile distribuendo nientepocodimeno che i sonetti del buon Trilussa… 
 {: .text-justify}
 
-##Il (non) voto anti-sistema
+## Il (non) voto anti-sistema
 Eppure, anche al di fuori del mondo della stampa igienica, si moltiplicano gli appelli alle urne da parte di tante piccole realtà che rivendicano, come al solito, la loro affiliazione certificata al pianeta “anti-sistema”. 
 {: .text-justify}
 In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono allora che non recandosi ai seggi, la si darà ancora una volta vinta ai cattivoni. Insomma, si cassa come fallimentare la strategia dell’astensione in quanto…
@@ -47,7 +47,7 @@ Certo, la vittoria di certi partiti piuttosto che di altri, potrebbe forse accel
 {: .text-justify}
 
 ##L’area del dissenso
-![Area dissenso](https://disastri.net/assets/img/Area del dissenso.png){: .mx-auto.d-block :}
+![Area dissenso](https://disastri.net/assets/img/Area del dissenso def.png){: .mx-auto.d-block :}
 Si fa notare però ancora a chi non voterà, come oggi – a fronte di un astensionismo senza precedenti nei grandi stati “democratici” – non governino più delle maggioranze schiaccianti, ma piccole minoranze, tribù ideologiche compatte e ben motivate. E allora…
 {: .text-justify}
 
@@ -82,7 +82,7 @@ Certo, il non votare, non può essere l’unico atto politico. Perché da chi no
 {: .text-justify}
 
 ##Capitano, capitano…Apocalisse all’orizzonte!
-![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi.png){: .mx-auto.d-block :}
+![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi def.png){: .mx-auto.d-block :}
 E questa apocalisse si staglia come uno sterminio finale, ma anche come una liberazione dalle ingiuste sofferenze, come uno squarcio nelle tenebre della notte, come una resa dei conti in cui i giusti siederanno infine alla destra del Padre: tutti alternativamente la temono e la auspicano, pronti a scendere in piazza, ad accodarsi alle trombe degli Angeli con fischietti e vuvuzele. 
 {: .text-justify}
 
