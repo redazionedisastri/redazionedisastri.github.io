@@ -68,7 +68,7 @@ Ci sarebbe da capire, infine, cosa sia questa famigerata “area del dissenso”
 Perché qua il problema è lungi dall’essere un fatto prettamente politico: siamo di fronte a un’ecatombe esistenziale, spirituale, metafisica, chiamatela come vi pare. E il dissenziente medio, ossessionato dal complotto fino al midollo, pensa però di poter arrestare qualunque processo epocale abbattendo qualche soggetto qua e là, con il potere taumaturgico delle urne oppure (i più) attendendo l’improbabile intervento di qualche Salvatore dalle steppe d’Asia. Non sospetta forse, che nelle piaghe da decubito della nostra epoca, **si possano scorgere i sintomi di diverse malattie incurabili, che superano e di molto qualsiasi dato politico o interesse privato?** Il mito del progresso infinito, della tecnica liberatrice, il declino culturale, il nichilismo imperante, la demenza senile delle masse: tutti cancri in metastasi che se ne starebbero là a prescindere da coloro che li sfruttano, sornioni, per costruirci sopra il proprio tornaconto personale. E inorridirebbero, questi *oppositori* senza macchia, nel sapere che molte di questi tarli albergano dentro di loro, nei recessi più profondi del loro essere; che esiste più di un comune denominatore fra il loro dissentire e il *sentire comune*. Che anche il topo e il gatto, aristotelicamente parlando, appartengono insomma allo stesso genere…
 {: .text-justify}
 
-## Capitano, capitano…Apocalisse all’orizzonte!
+## "Capitano, capitano…apocalisse all’orizzonte!"
 ![Apocalisse](https://disastri.net/assets/img/Apocalisse trombe e tifosi def.png){: .mx-auto.d-block :}
 &nbsp;<br>
 
@@ -93,16 +93,18 @@ E io dico: chi se ne frega? Quel che conta è che questo terrore, questa attesa,
 >…ma io non ho la tv, io non guardo un telegiornale da dieci anni!!
 {: .text-justify}
 
-Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Se solo un contro-sintonizzato. 
+Eh no, amico bello. Tu sei sintonizzato uguale, come (quasi) tutti: dal primo mattino alla prima serata. Sei solo un contro-sintonizzato. 
 {: .text-justify}
 
-È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. Sono solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio, ci si finisce comunque con lo sguazzarci gradevolmente. Si vive bene come le gocce nell’acqua. Si fa comunella, ci si iscrive in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
+È questa la legge della domanda e dell’offerta, dicono: ti si offre ciò di cui tu hai bisogno. 
+{: .text-justify}
+Solo pretesti per vendere? Può darsi. Però sta di fatto che nel disagio ci si finisce comunque con lo sguazzarci gradevolmente. Si vive bene come le gocce nell’acqua. Si fa comunella, ci si iscrive in qualche bel *canale*. E come tanti affluenti si scorre giù giù, a valle, verso un solo fiume. 
 {: .text-justify}
 
-E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale, osservale, guarda stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo putridume. 
+E così – se da principio o per effetto non lo so e non mi interessa – **si finisce per davvero con il desiderare ciò che ci viene offerto**. Afferrale afferrale, osservale, stanno qua: la cronaca della guerra infinita, il resoconto della distruzione, lo scoop sull'ennesimo scandalo di come stanno programmando di ucciderci. 
 {: .text-justify}
 
-[E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico), riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
+[E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
 {: .text-justify}
 
 Che ne so io di cosa c’è da fare e di cosa c’è da dire. 
