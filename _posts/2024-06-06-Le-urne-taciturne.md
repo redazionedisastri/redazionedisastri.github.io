@@ -107,15 +107,15 @@ E così – se da principio o per effetto non lo so e non mi interessa – **si 
 [E allora che fare, che dire? Che dire, che fare?](https://www.youtube.com/watch?v=ZwicbOoDSFI&ab_channel=Tricarico)...riecheggiano ancora nell'aria le vecchie domande di Lenin e di Černyševskij: quesiti di un’epoca fallita.
 {: .text-justify}
 
-Che ne so io di cosa c’è da fare e di cosa c’è da dire. 
+**Che ne so io di cosa c’è da fare e di cosa c’è da dire**. 
 {: .text-justify}
-Io so che ce la dovremo guadagnare con la tribolazione di un santo martirio questa apocalisse. Che non ci pioverà sulla testa, così gratuitamente, con un grappolo di bombe atomiche: ché ci vuole *Passione* per meritarsi la propria croce.
-{: .text-justify}
-
-Io mi chiedo: in quale cassaforte è rinchiuso il nostro cuore? Le grandi ideologie politiche, il mito della democrazia salvifica, dei diritti universali, li abbiamo visti per quello che sono davvero: giganti coi piedi di terracotta. Ripartiamo allora dalle cose infinitesime, insignificanti, dalle piccole vie. Dal sapere sì, con la precisione e la cognizione del saggio, che tutto va a sfacelo, ma nell’essere [ugualmente e impassibilmente felici](https://www.youtube.com/watch?v=LV-Y-d33RdU&ab_channel=GiorgioGaber-Topic). Interpretiamo la politica nel suo senso etimologico: come l’arte del convivere. Torniamo a fare società. Ad amare il prossimo pienamente e incondizionatamente, che è oggi un atto politico dei più rivoluzionari. Ma anche, riducendo ancora la scala, ad impegnarci a guarire il nostro sguardo. 
+Io quel che so è che ce la dovremo guadagnare con la tribolazione di un santo martirio questa apocalisse. Che non ci pioverà sulla testa, così gratuitamente, con un grappolo di bombe atomiche: ché ci vuole *Passione* per meritarsi la propria croce.
 {: .text-justify}
 
-Insomma altro che urne: rinunciamo alla velleità di cambiare il mondo, e [ritorniamo alle *cose veramente nostre*](https://www.youtube.com/watch?v=uqJ3oTxUEmo&ab_channel=GiorgioGaber-Topic)
+Le grandi ideologie politiche, il mito della democrazia salvifica, dei diritti universali, li abbiamo visti per quello che sono davvero: giganti coi piedi di terracotta. Ma il nostro cuore dove l'abbiamo rinchiuso? Ripartiamo dalle cose piccole, infinitesime. Dal sapere sì, con la precisione e la cognizione del saggio, che tutto va a sfacelo, ma nell’essere [ugualmente e impassibilmente felici](https://www.youtube.com/watch?v=LV-Y-d33RdU&ab_channel=GiorgioGaber-Topic). Interpretiamo la politica nel suo senso etimologico: come l’arte del convivere. Torniamo a fare società. Ad amare il prossimo pienamente e incondizionatamente, che è oggi un atto politico dei più rivoluzionari. Ma anche, riducendo ancora la scala, ad impegnarci a guarire il nostro sguardo.
+{: .text-justify}
+
+Insomma altro che urne: rinunciamo alla velleità di cambiare il mondo, e [ritorniamo alle *cose veramente nostre*](https://www.youtube.com/watch?v=uqJ3oTxUEmo&ab_channel=GiorgioGaber-Topic). Così, in equilibrio sul baratro.
 {: .text-justify}
 
 &nbsp;<br>
