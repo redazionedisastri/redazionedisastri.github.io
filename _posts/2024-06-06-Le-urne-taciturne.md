@@ -26,10 +26,7 @@ In molti, fra coloro che orbitano intorno al pianeta di cui sopra, sostengono al
 Così si leva alto, anche dal fronte del dissenso, l’invito a non abdicare al proprio diritto di rappresentanza, adducendo come prova fra le tante i deludenti risultati delle recenti elezioni comunali di Londra, [che hanno visto una solida affermazione del globalista in salsa laburista Sadiq Khan](https://www.ilpost.it/2024/05/04/rielezione-sadiq-khan/).
 {: .text-justify}
 
-Non votare poi, si dice, equivarrebbe a mettere la testa sotto la sabbia: il sistema che ci opprime sorgerà ancora una volta, anche senza il canto di qualche gallo [^1]. 
-{: .text-justify}
-
-E certo, lorsignori, non è che si creda di cancellare il Sole oscurandolo con un palmo di mano. Ma d’altra parte, vi chiedo: cosa cambierebbe *votando*? Gli astri se ne staranno là imperterriti, a prescindere dai nostri gorgheggi rappresentativi.
+Non votare poi, si dice, equivarrebbe a mettere la testa sotto la sabbia: il sistema che ci opprime sorgerà ancora una volta, anche senza il canto di qualche gallo [^1]. E certo, lorsignori: non è che si creda di cancellare il Sole oscurandolo con un palmo di mano. Ma d’altra parte, vi chiedo: cosa cambierebbe *votando*? Gli astri se ne staranno là imperterriti, a prescindere dai nostri gorgheggi rappresentativi.
 {: .text-justify}
 
 La prospettiva di chi, dal fronte del dissenso, sprona al voto, assume implicitamente che i soggetti che vincono andranno poi effettivamente a governare. E che quindi, ci sarebbero partiti migliori o peggiori di altri. Chi rifiuta il voto come atto politico e civile, invece, **non vuol legittimare in alcun modo un sistema che pensa non si possa più in alcun modo cambiare dall’interno**, attraverso questi finti meccanismi di rappresentanza democratica.
