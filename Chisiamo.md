@@ -20,5 +20,5 @@ Noi non pubblichiamo ogni giorno: se volete un contenuto al giorno, potete pure 
 
 
 N.B.:
-Per consigli su come condire i maccheroni, potete contattarci a [questo indirizzo](disastri@skiff.com). Siamo attivi anche quattro volte all'anno su [telegram](https://t.me/disastri_telegram).
+Per consigli su come condire i maccheroni, potete contattarci a [questo indirizzo](disastri@skiff.com). Ogni tanto ci attiviamo anche su [telegram](https://t.me/disastri_telegram).
 {: .text-justify}
