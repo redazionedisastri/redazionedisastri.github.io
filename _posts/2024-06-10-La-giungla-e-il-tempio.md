@@ -8,7 +8,7 @@ share-img: /assets/img/La giungla e il tempio immagine di copertina.jpg
 tags: [disinformazione, Google, censura]
 author: Romeo Gand
 ---
-Qualche giorno fa, mentre veleggiavo allegramente per il web, [una piccola *pubblicità progresso* contro “i rischi delle manipolazioni online”] (https://www.youtube.com/watch?v=Sr3XzVEXF3M&ab_channel=IDMO) ha fatto capolino sullo schermo del mio computer. Così, inaspettata: fra uno spot di merendine e la reclame dell’ultimo smartwatch.
+Qualche giorno fa, mentre veleggiavo allegramente per il web, [una piccola *pubblicità progresso* contro “i rischi delle manipolazioni online”](https://www.youtube.com/watch?v=Sr3XzVEXF3M&ab_channel=IDMO) ha fatto capolino sullo schermo del mio computer. Così, inaspettata: fra uno spot di merendine e la reclame dell’ultimo smartwatch.
 {: .text-justify} 
 Per chi non abbia gli occhi foderati di prosciutto, lo stato dell’arte è ormai lampante: la propaganda digitale, che la neolingua liberista affabilmente appella “alfabetizzazione”, marcia ambiziosa sulla strada della *sicurezza collettiva*, verso campagne di censura [sempre più radicali e…penetranti](https://www.sanitainformazione.it/sanita-internazionale/disinformazione-google-prebunking/). 
 {: .text-justify} 
