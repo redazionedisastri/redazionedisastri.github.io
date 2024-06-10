@@ -16,8 +16,8 @@ Per qualificare i soggetti che portano avanti tali iniziative, sarebbe sufficien
 {: .text-justify} 
 Ora, se queste osservazioni rasentano l’ovvietà per chiunque sia ancora dotato di un briciolo di spirito critico (ovvero per un’esigua minoranza della popolazione), più difficile è invece ripercorrere a ritroso, fino a lambirne le sfere più elevate ed eteree, la catena plotiniana di emanazioni politiche che sono all’origine delle iniziative di volta in volta messe in atto per raggiungere lo scopo. È questo un compito ingrato e tedioso, per la prevedibilità quasi matematica dei suoi risultati, ma pur necessario per poter dare una forma definita alla cupola che oggi mira a reggere il mondo della “cultura” e dell’informazione a livello globale.
 {: .text-justify} 
-##I maestri Manzi del digitale
-![Manzi](https://disastri.net/assets/img/ Manzi maestro.png){: .mx-auto.d-block :}
+## I maestri Manzi del digitale
+![Manzi](https://disastri.net/assets/img/Manzi maestro.png){: .mx-auto.d-block :}
 &nbsp;<br>
 
 E allora, nello specifico: quali soggetti stanno dietro le attuali campagne contro la disinformazione?
