@@ -59,6 +59,8 @@ La [***T6 Ecosystem***](https://www.t-6.it/team/) è invece una società di cons
 {: .text-justify} 
 <a name="Quis custodiet"></a> 
 ## Quis custodiet ipsos custodes? Le ombre dei fact-checkers
+![Controllori](https://disastri.net/assets/img/Controllori.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Un paragrafo a parte merita senza dubbio [***Pagella Politica***](https://pagellapolitica.it/progetto), testata giornalistica nata nel 2012 allo scopo di inserire – parole testuali – “una dose di oggettività nella dialettica politica italiana”. Pagella Politica opera sotto il controllo di una (ex) omonima Srl, fondata nel 2013 da un decemvirato di paladini della verità, che dal 2020 ha assunto l’attuale denominazione di *The Fact-Checking Factory Srl* (d’ora in avanti TFCF), al fine di accorpare al progetto iniziale lo spin-off di debunking “generalista” [***Facta***](https://facta.news/chi-siamo/).
 {: .text-justify} 
 Attraverso quest’ultimo ben noto tentacolo, la TFCF si è recentemente premurata di inserire **ulteriori dosi di oggettività nei corpi degli italiani**, aderendo sotto lo slogan “Scegli a chi non credere” al *CoronaVirusFacts Alliance*, un progetto finanziato da Meta e Google durante il triennio 2020-2023 per contrastare le presunte derive dell’infodemia.
@@ -168,6 +170,8 @@ Insomma, com’è come non è, sta di fatto per togliersi il sassolino dalla sca
 
 <a name="Soldi"></a>
 ## I soldi non sono tutto
+![Zio Paperone](https://disastri.net/assets/img/Zio Paperone.webp){: .mx-auto.d-block :}
+&nbsp;<br>
 Questa spiegazione non funziona per due motivi. Anzitutto perché **inverte i rapporti di forza in gioco**: con un comparto editoriale in crisi nera, [minacciato da un calo costante del fatturato pubblicitario e dal crollo delle vendite delle copie cartacee](https://www.ilfattoquotidiano.it/in-edicola/articoli/2024/01/20/tagli-licenziamenti-chiusure-per-leditoria-e-una-crisi-senza-fine/7416614/), è Google a tenere i giornalisti per...le penne, e non viceversa.  
 {: .text-justify} 
 I gruppi editoriali italiani infatti, che pure in concomitanza della crisi pandemica  [^23] [avevano visto raddoppiare le erogazioni governative dirette, indirette e straordinarie a sostegno dei giornali sotto l’ambigua causale “Covid”](https://www.lindipendente.online/2022/01/02/il-finanziamento-pubblico-ai-giornali-e-raddoppiato-durante-la-pandemia/), piangono adesso per bocca del Presidente della Fieg i recenti tagli apportati dalla nuova legge di Bilancio, dalla quale saranno decurtati i circa 140 milioni di euro dei *Fondi Straordinari per gli interventi di sostegno all’editoria*: Andrea Riffeser Monti deplora – trattenete le risate – lo scarso supporto del Governo per un “presidio strategico per la democrazia” come il comparto editoriale.
