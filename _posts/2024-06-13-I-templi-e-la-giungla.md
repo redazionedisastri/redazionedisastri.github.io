@@ -10,7 +10,7 @@ author: Romeo Gand
 ---
 Qualche giorno fa, mentre veleggiavo allegramente per il web, [una breve *pubblicità progresso* contro “i rischi delle manipolazioni online”](https://www.youtube.com/watch?v=Sr3XzVEXF3M&ab_channel=IDMO) ha fatto capolino sullo schermo del mio computer. Così, inaspettata: fra uno spot di merendine e la réclame dell’ultimo smartwatch. 
 {: .text-justify} 
-Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che non si tratta di un fenomeno isolato: una schiera di [simili contenuti](https://www.youtube.com/watch?v=NaXqDwGB7Eo&ab_channel=IDMO) ha già preso d’assalto la rete italiana, pronta a sbaragliare una volta e per tutte questa maledetta piaga della disinformazione. Ma quali soggetti si celano dietro queste filantropiche iniziative? Di quali mezzi dispongono, e quali scopi si prefiggono? 
+Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che non si tratta di un fenomeno isolato: una schiera di [simili contenuti](https://www.youtube.com/watch?v=NaXqDwGB7Eo&ab_channel=IDMO) ha già preso d’assalto la rete italiana, pronta a sbaragliare una volta e per tutte questa maledetta piaga della *disinformazione*. Ma quali soggetti si celano dietro queste filantropiche iniziative? Di quali mezzi dispongono, e quali scopi si prefiggono? 
 {: .text-justify} 
 &nbsp;<br>
 # Indice
@@ -24,7 +24,7 @@ Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che 
 - [I soldi non sono tutto](#Soldi)
 - [Conclusioni: il pozzo nero](#Pozzo)
   &nbsp;<br>
-
+  &nbsp;<br>
 
 <a name="censura"></a> 
 ## Verso la censura totale del dissenso. 
