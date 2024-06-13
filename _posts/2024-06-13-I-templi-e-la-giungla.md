@@ -10,10 +10,11 @@ author: Romeo Gand
 ---
 Qualche giorno fa, mentre veleggiavo allegramente per il web, [una breve *pubblicità progresso* contro “i rischi delle manipolazioni online”](https://www.youtube.com/watch?v=Sr3XzVEXF3M&ab_channel=IDMO) ha fatto capolino sullo schermo del mio computer. Così, inaspettata: fra uno spot di merendine e la réclame dell’ultimo smartwatch. 
 {: .text-justify} 
-Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che non si tratta di un fenomeno isolato: una schiera di [simili contenuti](https://www.youtube.com/watch?v=NaXqDwGB7Eo&ab_channel=IDMO) ha già preso d’assalto la rete italiana, pronti a sbaragliare una volta e per tutte questa maledetta piaga della disinformazione. Ma quali soggetti si celano dietro queste filantropiche iniziative? Di quali mezzi dispongono, e quali scopi si prefiggono? 
+Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che non si tratta di un fenomeno isolato: una schiera di [simili contenuti](https://www.youtube.com/watch?v=NaXqDwGB7Eo&ab_channel=IDMO) ha già preso d’assalto la rete italiana, pronta a sbaragliare una volta e per tutte questa maledetta piaga della disinformazione. Ma quali soggetti si celano dietro queste filantropiche iniziative? Di quali mezzi dispongono, e quali scopi si prefiggono? 
 {: .text-justify} 
 
 # Indice
+&nbsp;<br>
 - [Verso la censura totale del dissenso](#censura)
 - [I Manzi del digitale](#Manzi)
 - [Quis custodiet ipsos custodes?](#Quis custodiet)
@@ -23,11 +24,13 @@ Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che 
 - [La verità blindata](#Verità)
 - [I soldi non sono tutto](#Soldi)
 - [Conclusioni: il pozzo nero](#Pozzo)
+  &nbsp;<br>
 
 
 <a name="censura"></a> 
 ## Verso la censura totale del dissenso. 
 ![Propaganda](https://disastri.net/assets/img/Propaganda.png){: .mx-auto.d-block :}
+&nbsp;<br>
 Partiamo da una considerazione ormai banale: la propaganda digitale, che la neolingua liberista affabilmente appella “alfabetizzazione”, marcia ambiziosa sulla strada della *sicurezza collettiva*, verso campagne di censura [sempre più radicali e…penetranti](https://www.sanitainformazione.it/sanita-internazionale/disinformazione-google-prebunking/). 
 {: .text-justify} 
 Per qualificare i soggetti che portano avanti tali iniziative, sarebbe allora inutile condurre intricatissime inchieste. Piuttosto, basterebbe armarsi di uno specchio: **essi *sono* in tutto e per tutto ciò che *dicono* di combattere**. Mirano a contrastare la manipolazione, e non fanno che manipolare; mettono in guardia contro le fonti malevole, e non fanno che mentire spudoratamente; temono che l’Intelligenza Artificiale – che essi altrove magnificano come strumento neutro e imparziale – possa cadere nelle mani di pirati non meglio identificati, e non fanno che adoperare questi dispositivi nel proprio interesse privato. Insomma, per dirla con Marx: asserendo di custodire la verità, **i filantropi del ventunesimo secolo si assicurano che neanche un cagnolino possa intrufolarsi impunemente nel recinto dei loro mezzi di produzione spirituale**. 
@@ -94,7 +97,7 @@ Di fatti precisiamo per i lettori: tutti i personaggi di cui sopra sono scappati
 Meno Giovanni Zagni, che continua ad essere il direttore di entrambi i progetti. 
 {: .text-justify}  
 <a name="Hacia"></a>
-##Hacia la cumbre
+## Hacia la cumbre
 ![Diagramma](https://disastri.net/assets/img/Diagramma google GNI.png){: .mx-auto.d-block :}
 &nbsp;<br>
 Proseguendo la nostra amena passeggiata verso le vette della cupola, ci imbattiamo nella [*NewsGuard*](https://www.newsguardtech.com/fr/), un’agenzia di rating di siti e testate giornalistiche che ha sede indovinate dove? A New York. Anche NewsGuard si occupa di pedinare in lungo e in largo la disinformazione (e sua cugina più sfigata la misinformazione), oltre a verificare per noi indifesi cittadini il *Brand Safety* di ogni edicola nel raggio di venti km da casa, e a proporre una immediata demonetizzazione di tutti gli enti che non rispecchino i loro valori morali. NewsGuard, che [si fregia di combattere i cattivi senza ricorrere agli algoritmi, ma con veri sceriffi in carne e ossa](https://www.wired.com/story/newsguard-extension-fake-news-trust-score/), vanta nel suo organigramma [personaggi del calibro di Anders Fogh Rasmussen, ex primo ministro danese ed ex segretario generale della NATO, e di Jimmy “Jimbo” Wales, fondatore della *Wikimedia Foundation*](https://www.newsguardtech.com/it/press/newsguard-arriva-in-italia-per-contrastare-la-disinformazione-online/) [^15]. Ma anche una lunga lista di nomi illustri:
@@ -111,7 +114,7 @@ La GDI ha conosciuto un successo strepitoso, tanto che da anni praticamente tutt
 {: .text-justify}  
 
 <a name="Agenzie"></a>
-##Le agenzie interne di Google
+## Le agenzie interne di Google
 Google non si limita poi ad agire indirettamente, tramite i meccanismi di finanziamento che abbiamo visto, ma utilizza anche alcune agenzie interne per promuovere direttamente le sue campagne di manipolazione. Lo stesso IDMO si autodefinisce alla fine di ogni suo spot come un semplice *collaboratore* del colosso digitale, dettagliando addirittura i nomi delle unità operative coinvolte nella campagna contro la disinformazione [^21]. Queste sono:
 {: .text-justify}  
 1. Il “business incubator” [*Jigsaw*](https://jigsaw.google.com/), “a unit within Google that explores threats to open societies, and builds technology that inspires scalable solutions”, il cui obiettivo è quello appunto di contrare “la disinformazione, la censura (sic!), la tossicità e l’estremismo violento” 2. La [*Moonshot*](https://moonshotteam.com), una start-up internazionale con sedi a Londra e Washington D.C. [^22]. Anch’essa si definisce come una compagnia che si impegna a porre un termine (fra le altre) “alla disinformazione, ai discorsi d’odio, alle minacce online, alla violenza di genere, all’estremismo violento”...in breve alla libertà d’espressione. La Moonshot, che fa *orgogliosamente* parte della [*Online Safety Tech Industry Association*](https://ostia.org.uk/), venne fondata nel 2015 da Vidhya Ramalingam e Ross Frenett. Due tizi qualunque, se non fosse che la prima è a) [una giovane leader dell’**Obama Foundation**](https://www.obama.org/programs/leaders/europe/2020/vidhya-ramalingam/) e b) un [membro del pannello di esperti del think tank del **Washington Institute**](https://www.washingtoninstitute.org/experts/vidhya-ramalingam); mentre il secondo è soltanto un umile consulente del pannello RAN (**Radicalisation Awarness Network**) della Direzione Generale **Migration and Home Affairs** della Commissione Europea. 
@@ -125,19 +128,19 @@ Ma se pensate che non si possa fare peggio di così, aspettate ancora un attimo.
 Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO di Google Sundar Pichai, al solito scopo di beneficare sia la brama degli editori che l’armento dei lettori. Il progetto promette infatti [**finanziamenti fino a 1 miliardo di dollari**  per i gruppi editoriali che accetteranno di popolare la nuova bacheca del motore di ricerca con “contenuti di qualità”](https://www.seozoom.it/google-news-showcase/): propaganda per allineare le masse al pensiero unico certificato, e un circo quotidiano di bagatelle per stordirle. Il Google News Showcase è sbarcato in Italia a Marzo 2021, [accolto fra plebisciti come il “futuro del giornalismo”](https://www.primaonline.it/2021/03/31/322830/debutta-in-italia-google-news-showcase-su-google-news-e-discover-i-contenuti-retribuiti-di-70-pubblicazioni-partner/), siglando giusto un paio di intese ((per cifre che restano rigidamente secretate: si suppone da qualche decina/centinaia di migliaia di dollari a qualche milione per progetto)[https://cleveragency.io/google-news-showcase-italia-cosa-e/]) con qualche giornaletto di provincia, come:
 {: .text-justify}  
 
-    1. Il Corriere della Sera
-    2. Il Sole 24ore
-    3. Fanpage
-    4. Il Fatto Quotidiano (*il quotidiano che non riceve alcun finanziamento pubblico*...)
-    5. Il Foglio
-    6. Libero
-    7. il Tempo
-    8. il Resto del Carlino
-    9. La Gazzetta dello Sport
-    10. Quotidiano Nazionale
-    11. Il Giornale
-    12. Il Giorno
-    13. Mi sono stufato: eccetera, eccetera, eccetera…
+1. Il Corriere della Sera
+2. Il Sole 24ore
+3. Fanpage
+4. Il Fatto Quotidiano (*il quotidiano che non riceve alcun finanziamento pubblico*...)
+5. Il Foglio
+6. Libero
+7. il Tempo
+8. il Resto del Carlino
+9. La Gazzetta dello Sport
+10. Quotidiano Nazionale
+11. Il Giornale
+12. Il Giorno
+13. Mi sono stufato: eccetera, eccetera, eccetera…
 
 Sul Google Showcase però, aleggerebbe l’ombra di un mistero. 
 Da un lato infatti, una siffatta collaborazione comporta vantaggi economici evidentissimi per gli editori e i giornalisti, i quali oltre a poter disporre di una nuova vetrina con cui attirare utenti sulle loro piattaforme, saranno periodicamente subissati di assegni circolari; dall’altro, Google non sarebbe invece in grado – a fronte dell’enorme investimento economico – di generare alcun introito dall’iniziativa, in quanto **la sezione Showcase non prevede alcuna inserzione pubblicitaria**. 
@@ -152,7 +155,7 @@ Insomma, com’è come non è, sta di fatto per togliersi il sassolino dalla sca
 {: .text-justify} 
 
 <a name="Soldi"></a>
-##I soldi non sono tutto
+## I soldi non sono tutto
 La spiegazione fornita da Domani non funziona per due motivi. Anzitutto perché inverte i rapporti di forza in gioco: con un comparto editoriale in crisi nera, [minacciato da un calo costante del fatturato pubblicitario e dal crollo delle vendite delle copie cartacee](https://www.ilfattoquotidiano.it/in-edicola/articoli/2024/01/20/tagli-licenziamenti-chiusure-per-leditoria-e-una-crisi-senza-fine/7416614/), è Google a tenere i giornalisti per le penne e non viceversa.  
 {: .text-justify} 
 I gruppi editoriali italiani, che pure in concomitanza della crisi pandemica  [^21] [avevano visto raddoppiarsi le erogazioni governative dirette, indirette e straordinarie a sostegno dei giornali sotto l’ambigua causale “Covid”](https://www.lindipendente.online/2022/01/02/il-finanziamento-pubblico-ai-giornali-e-raddoppiato-durante-la-pandemia/), piangono adesso per bocca della Fieg i recenti tagli apportati alla nuova legge di Bilancio, dalla quale saranno decurtati i circa 140 milioni di euro dei *Fondi Straordinari per gli interventi di sostegno all’editoria*. Andrea Riffeser Monti, presidente della Fieg deplora infatti – trattenete le risate – lo scarso supporto del Governo per un “presidio strategico per la democrazia” come il comparto editoriale.
