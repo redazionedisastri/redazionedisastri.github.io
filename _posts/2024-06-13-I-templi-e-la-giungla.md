@@ -145,7 +145,7 @@ Ma se pensate che non si possa fare peggio di così, aspettate ancora un attimo.
 Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO Sundar Pichai, al solito scopo di beneficare sia la brama degli editori che l’armento dei lettori. Il progetto promette infatti [**finanziamenti fino a 1 miliardo di dollari**  per i gruppi editoriali che accetteranno di popolare la nuova bacheca del motore di ricerca con “contenuti di qualità”](https://www.seozoom.it/google-news-showcase/): propaganda per allineare ogni popolo al pensiero unico certificato, e un circo quotidiano di bagatelle per stordirlo. Il Google News Showcase è sbarcato in Italia a Marzo 2021, [accolto fra plebisciti come il “futuro del giornalismo”](https://www.primaonline.it/2021/03/31/322830/debutta-in-italia-google-news-showcase-su-google-news-e-discover-i-contenuti-retribuiti-di-70-pubblicazioni-partner/), siglando giusto un paio di intese [(per cifre che restano rigidamente secretate: si suppone da qualche decina/centinaia di migliaia di dollari a qualche milione per progetto)](https://cleveragency.io/google-news-showcase-italia-cosa-e/) con qualche giornaletto di provincia, come:
 {: .text-justify}  
 
-**1. Il Corriere della Sera
+1. Il Corriere della Sera
 2. Il Sole 24ore
 3. Fanpage
 4. Il Fatto Quotidiano ( ♫ ♫ *il quotidiano che non riceve alcun finanziamento pubblico*... ♫ ♫)
@@ -157,7 +157,7 @@ Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO Sundar Pichai, al so
 10. Quotidiano Nazionale
 11. Il Giornale
 12. Il Giorno
-13. Mi sono stufato: eccetera, eccetera, eccetera…**
+13. Mi sono stufato: eccetera, eccetera, eccetera…
 
 Sul Google Showcase però, aleggerebbe l’ombra di un mistero. 
 Da un lato infatti, una siffatta collaborazione comporta vantaggi economici evidentissimi per gli editori e i giornalisti, i quali oltre a poter disporre di una nuova vetrina con cui attirare utenti sulle loro piattaforme, saranno periodicamente subissati di assegni circolari; dall’altro, Google non sarebbe in grado – a fronte dell’enorme investimento economico – di generare alcun introito dall’iniziativa, in quanto **la sezione Showcase non prevede alcuna inserzione pubblicitaria**. 
@@ -232,7 +232,7 @@ Ma questi brutti pensieri, si sa, le si chiama oggi teorie della cospirazione.
 [^18]: I legami fra Google, Riotta e la Luiss Data Lab sono finemente ricostruiti [in quest’articolo di Claudio Trezzano](https://www.startmag.it/economia/google-inonda-luiss-e-giornali-di-soldi-contro-le-fake-news/): un’inchiesta davvero eccellente, se non fosse per il fatto che in più di qualche passaggio mi ha dato l’impressione che l’autore, più che denunciare il sistema di controllo dell’informazione, semplicemente invidi la posizione di potere detenuta da Riotta.
 [^19]: Per la sua [*Catchy Srl*](https://catchy.buzz/), un’innovativa impresa con sede a Milano e succursali a Roma e Cagliari, che [si occupa di “Data Driven Journalism and countering fake news, reputation studies, and new media through AI”](https://www.f6s.com/company/catchy-srl#about).
 [^20]: Qui [la lista di tutti i partner della DNI di Google](https://services.google.com/fh/files/misc/gni_impact_report_2021_partners_web.pdf): spoiler, ci troverete praticamente qualsiasi cosa venga stampata in Italia, pure il giornaletto della scuola di vostro figlio.
-[^21]: Il fatto che nessuno si allarmi vedendo campagne contro la disinformazione sponsorizzate da Google la dice lunga sul sonno profondo della società civile. 
+[^21]: Il fatto che nessuno si allarmi vedendo campagne contro la disinformazione apertamente sponsorizzate da Google la dice lunga sul sonno profondo della società civile. 
 [^22]: Compagnia nominalmente esterna al gigante di Mountain View, la quale però oltre a vantare una partnership con Meta, [puntualmente riceve champagne e tartine al caviale da Google](https://www.nbcnews.com/tech/security/google-backed-startup-uses-internet-ads-counter-online-extremism-n860961)
 [^23]: Le erogazioni sono continuate a ritmi elevati [anche nel biennio 2022-24](https://www.lindipendente.online/2024/03/04/e-stata-stanziata-una-nuova-pioggia-di-finanziamenti-pubblici-per-i-giornali/).
 [^24]: O addirittura come in questo caso se ti stanno pagando per accedervi.
