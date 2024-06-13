@@ -171,7 +171,7 @@ Quel che si cerca di comprare oggi a costo di ingenti investimenti è invece **i
 In queste fasi finali della lotta per l’egemonia, è la tutela dell’ordine pubblico destare serie preoccupazioni. Il fine ultimo è quello di mettere le élites al riparo da qualsiasi possibilità di sovvertimento dell’ordine costituito – la sicurezza *dalle* masse, e non quella millantata *delle* masse – impedendo in modo duraturo una qualsiasi presa di coscienza dei meccanismi effettivi di dominio.
 {: .text-justify} 
 <a name="Pozzo"></a>
-##Conclusioni: il pozzo nero 
+## Conclusioni: il pozzo nero 
 ![Pozzo](https://disastri.net/assets/img/Pozzo nero.jpg){: .mx-auto.d-block :}
 
 Cos’altro aggiungere, Signori? Qua c’è più merda che in quella famosa latrina in cui cadde Andreuccio da Perugia. Si potrebbe continuare a scavare e scavare e scavare...e continuerebbero a venire fuori esalazioni tossiche, flatulenze e coproliti.
