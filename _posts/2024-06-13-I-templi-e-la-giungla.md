@@ -83,9 +83,13 @@ Non mancano poi i legami governativi interni: **Daniele De Bernardin**, formatos
 Fra il gruppo dei magnifici dieci troviamo poi anche alcuni diplomatici mancati, come **Andrea Saviolo**, formatosi all’Università di Bologna e alla University of Pennsylvania, il quale ha ricoperto incarichi presso l’ambasciata italiana di Sarajevo, oltreché per la [**Direzione generale della Politica di vicinato e dei negoziati di allargamento** (NEAR) della Commissione Europea](https://op.europa.eu/it/web/who-is-who/organization/-/organization/NEAR), e che soprattutto [**ha lavorato e tuttora lavora per l’*Allied Command Transformation* (ACT) della NATO**](https://www.f6s.com/member/andreasaviolo#about); o ancora [**Amerigo Lombardi**](https://plusvalue.cloud/amerigo-lombardi/)., che ha ricoperto svariati incarichi presso la Commissione europea, l’ambasciata italiana di Zagabria, l’agenzia ONU *International Labour Organisation* (ILO), e alcuni **think thank privati** fra cui spicca la *Bertelsmann Foundation*, ente non-profit tedesco con le solite sedi decentrate a Washington e Bruxelles. [^11]
 {: .text-justify}  
 Infine abbiamo [**Alexios Mantzarlis**](https://www.linkedin.com/in/mantzarlis?trk=public_post-text&original_referer=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fcontrails-ai_alexios-mantzarlis-on-ai-and-misinformation-activity-7203552774041591810-nBzx%3Ftrk%3Dpublic_profile), bocconiano che dopo qualche esperienza all’Onu, è **approdato (2015) all’International Fact-Checking Network, nientepocodimeno che in qualità di Direttore**...
+&nbsp;<br>
 ...
+&nbsp;<br>
 ...
+&nbsp;<br>
 ...
+&nbsp;<br>
 ...ma guarda tu com’è piccolo il mondo! Proprio quell’International Fact-Checking Network del The Poynter institute, l’ente che si occupa di organizzare il *CoronaVirusFacts Alliance*, la lega cui aderisce la *The Fact-Checking Factory Srl*, la società che coordina i progetti di debunking di Facta e di Pagella Politica, le riviste che mio padre al mercato comprò!! [^12]
 {: .text-justify}  
 >Ma queste sono solo speculazioni, perfide calunnie...diffamazioni a mezzo stampa! Le esperienze professionali menzionate si sono svolte prima, dopo, sopra, sotto e tutto intorno al lavoro di fact-cheking dei nostri assistiti.  Questi ultimi, per tutta la durata della loro partecipazione al progetto TFCF, erano incapsulati in una bolla di imparzialità certificata ™, del tutto esenti da qualsivoglia conflitto di interessi: essi erano usciti al parco, avevano cancellato i numeri  dei vecchi contatti dalle loro rubriche telefoniche, stavano facendo la spesa al mercato, stavano giocando a calcetto con amici e parenti!
