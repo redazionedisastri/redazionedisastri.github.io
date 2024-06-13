@@ -168,7 +168,7 @@ Un primo tentativo di risposta al rompicapo ci arriva dagli [editorialisti di *D
 {: .text-justify} 
 Da parte sua, Google, che genera la gran parte del suo fatturato annuo tramite inserzioni pubblicitarie basate sugli estratti dei contenuti giornalistici, si è sempre rifiutato di corrispondere agli editori una parte degli utili; mentre com'è ovvio le testate giornalistiche, le quali godono del solito "appoggio" più o meno simulato del Commissario Europeo per la Concorrenza, hanno sempre reclamato una fetta della torta. 
 {: .text-justify} 
-Insomma, com’è come non è, sta di fatto per togliersi il sassolino dalla scarpa, Google avrebbe direttamente deciso di…mangiarselo, pagando – cito sempre l'editoriale di *Domani* – “un po’ i giornali, per evitare di pagarli molto di più”. 
+Insomma, com’è come non è, sta di fatto che per togliersi il sassolino dalla scarpa, Google avrebbe direttamente deciso di…mangiarselo, pagando – cito sempre l'editoriale di *Domani* – “un po’ i giornali, per evitare di pagarli molto di più”. 
 {: .text-justify} 
 
 <a name="Soldi"></a>
