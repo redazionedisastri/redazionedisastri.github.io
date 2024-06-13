@@ -137,10 +137,10 @@ Ma se pensate che non si possa fare peggio di così, aspettate ancora un attimo.
 &nbsp;<br>
 È infatti alle soglie della pagliacciata pandemica, che Google ha tirato fuori dal cilindro il coniglio per impadronirsi definitivamente dell’informazione globale: il ***Google News Showcase*** (GNS). 
 {: .text-justify}  
-Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO Sundar Pichai, al solito scopo di beneficare sia la brama degli editori che l’armento dei lettori. Il progetto promette infatti [**finanziamenti fino a 1 miliardo di dollari**  per i gruppi editoriali che accetteranno di popolare la nuova bacheca del motore di ricerca con “contenuti di qualità”](https://www.seozoom.it/google-news-showcase/): propaganda per allineare ogni popolo al pensiero unico certificato, e un circo quotidiano di bagatelle per stordirlo. Il Google News Showcase è sbarcato in Italia a Marzo 2021, [accolto fra plebisciti come il “futuro del giornalismo”](https://www.primaonline.it/2021/03/31/322830/debutta-in-italia-google-news-showcase-su-google-news-e-discover-i-contenuti-retribuiti-di-70-pubblicazioni-partner/), siglando giusto un paio di intese [(per cifre che restano rigidamente secretate: si suppone da qualche decina/centinaia di migliaia di dollari a qualche milione per progetto)][https://cleveragency.io/google-news-showcase-italia-cosa-e/]) con qualche giornaletto di provincia, come:
+Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO Sundar Pichai, al solito scopo di beneficare sia la brama degli editori che l’armento dei lettori. Il progetto promette infatti [**finanziamenti fino a 1 miliardo di dollari**  per i gruppi editoriali che accetteranno di popolare la nuova bacheca del motore di ricerca con “contenuti di qualità”](https://www.seozoom.it/google-news-showcase/): propaganda per allineare ogni popolo al pensiero unico certificato, e un circo quotidiano di bagatelle per stordirlo. Il Google News Showcase è sbarcato in Italia a Marzo 2021, [accolto fra plebisciti come il “futuro del giornalismo”](https://www.primaonline.it/2021/03/31/322830/debutta-in-italia-google-news-showcase-su-google-news-e-discover-i-contenuti-retribuiti-di-70-pubblicazioni-partner/), siglando giusto un paio di intese [(per cifre che restano rigidamente secretate: si suppone da qualche decina/centinaia di migliaia di dollari a qualche milione per progetto)](https://cleveragency.io/google-news-showcase-italia-cosa-e/) con qualche giornaletto di provincia, come:
 {: .text-justify}  
 
-1. Il Corriere della Sera
+**1. Il Corriere della Sera
 2. Il Sole 24ore
 3. Fanpage
 4. Il Fatto Quotidiano ( ♫ ♫ *il quotidiano che non riceve alcun finanziamento pubblico*... ♫ ♫)
@@ -152,7 +152,7 @@ Il GNS è un nuovo *prodotto* concepito, nelle idee del CEO Sundar Pichai, al so
 10. Quotidiano Nazionale
 11. Il Giornale
 12. Il Giorno
-13. Mi sono stufato: eccetera, eccetera, eccetera…
+13. Mi sono stufato: eccetera, eccetera, eccetera…**
 
 Sul Google Showcase però, aleggerebbe l’ombra di un mistero. 
 Da un lato infatti, una siffatta collaborazione comporta vantaggi economici evidentissimi per gli editori e i giornalisti, i quali oltre a poter disporre di una nuova vetrina con cui attirare utenti sulle loro piattaforme, saranno periodicamente subissati di assegni circolari; dall’altro, Google non sarebbe in grado – a fronte dell’enorme investimento economico – di generare alcun introito dall’iniziativa, in quanto **la sezione Showcase non prevede alcuna inserzione pubblicitaria**. 
