@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I templi e la giungla
-subtitle: Come i padroni del discorso si sono imboscati fra le frasche
+subtitle: Come i padroni della verità si sono imboscati fra le frasche
 cover-img: /assets/img/La giungla e il tempio immagine di copertina.jpg
 thumbnail-img: /assets/img/La giungla e il tempio immagine di copertina.jpg	
 share-img: /assets/img/La giungla e il tempio immagine di copertina.jpg
