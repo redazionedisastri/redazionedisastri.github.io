@@ -12,9 +12,8 @@ Qualche giorno fa, mentre veleggiavo allegramente per il web, [una breve *pubbli
 {: .text-justify} 
 Incuriosito, decido di approfondire. E scopro – com’era prevedibile – che non si tratta di un fenomeno isolato: una schiera di [simili contenuti](https://www.youtube.com/watch?v=NaXqDwGB7Eo&ab_channel=IDMO) ha già preso d’assalto la rete italiana, pronta a sbaragliare una volta e per tutte questa maledetta piaga della disinformazione. Ma quali soggetti si celano dietro queste filantropiche iniziative? Di quali mezzi dispongono, e quali scopi si prefiggono? 
 {: .text-justify} 
-
-# Indice
 &nbsp;<br>
+# Indice
 - [Verso la censura totale del dissenso](#censura)
 - [I Manzi del digitale](#Manzi)
 - [Quis custodiet ipsos custodes?](#Quis custodiet)
