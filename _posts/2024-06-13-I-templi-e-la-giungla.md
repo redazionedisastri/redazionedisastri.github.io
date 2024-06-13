@@ -176,7 +176,7 @@ Il secondo motivo per cui la spiegazione sopra riportata è inconsistente è che
 
 **Il prodotto che Google si sta assicurando a suon di bonifici è il dominio della verità**. Accettando gli oboli di Google, infatti, i giornalisti e gli editori si sono consegnati mani e piedi alle grandi corporazioni private, ponendo così una pietra tombale sulla libertà di pensiero.
 {: .text-justify}   
-E qui ci sarebbe da fare una digressione importante, che esonera per un attimo dal lavoro di inchiesta: **smettiamola di pensare che i soldi siano l’unico obiettivo del capitalismo 2.0**. Di immaginarci che il padronato sia composto da dei Paperon de’ Paperoni, provvisti di ghette e tuba, notte e giorno intenti a impilare luccicanti monetine.
+E qui ci sarebbe da fare una digressione importante, che esonera per un attimo dal lavoro di inchiesta: **smettiamola di pensare che i soldi siano l’unico obiettivo del capitalismo 2.0**. Di immaginarci che il padronato sia composto da dei Paperon de’ Paperoni con ghette e tuba, intenti a impilare luccicanti monetine dalla sera alla mattina.
 {: .text-justify}  
 Chi pensa ancora le cose in questi termini, forse farebbe bene a [rileggersi qualcosa di Foucault o di Agamben](https://fucina62.noblogs.org/files/2013/12/Agamben-che-cosa-%C3%A8-un-dispositivo1.pdf). Le recenti mire egemoniche di Google e compari sulla stampa **non contraddicono in nulla il vecchio principio dell’*homo oeconomicus***, secondo il quale ogni investimento si inscrive nella logica della massimizzazione degli interessi individuali. Quel che cambia oggi è la natura di questo profitto, che non consiste più in quel semplice accumulo di mezzi di produzione, merci e capitale denunciato da Marx un secolo e mezzo fa.
 {: .text-justify}  
@@ -188,12 +188,13 @@ In queste fasi finali della lotta per l’egemonia, è allora **la tutela dell�
 ## Conclusioni: il pozzo nero 
 ![Pozzo](https://disastri.net/assets/img/Pozzo nero.jpg){: .mx-auto.d-block :}
 
-Cos’altro aggiungere, Signori? Qua c’è più merda che in quella famosa latrina in cui cadde Andreuccio da Perugia. Si potrebbe continuare a scavare e scavare e scavare...e continuerebbero a venire fuori esalazioni tossiche, flatulenze e coproliti.
+Cos’altro aggiungere, Signori? Nel mondo della lotta contro la disinformazione c'è più lordura che nella latrina in cui cadde il povero Andreuccio da Perugia. Si potrebbe continuare a scavare e scavare e scavare...e continuerebbero a venire fuori esalazioni tossiche, flatulenze e coproliti.
 Come si è visto, in questa sovrapposizione continua fra poteri privati e organismi “pubblici”, fra soggetti “locali” e soggetti esterni, si finisce invariabilmente con il **risalire agli stessi nuclei effettivi di potere politico-finanziario, cristallizzati al centro di varie spirali concentriche**. Se questo è quanto è possibile scoprire con una breve indagine online, è poi ovvio che i reali equilibri in ballo fra le varie parti non potranno mai neanche lontanamente essere ricostruiti a mezzo di una semplice ricerca su…Google. Eppure, tirando le somme, anche il mettere in ordine gerarchico questa matrioska di pescecani sarebbe un esercizio dai risultati alquanto scontati. Per avere un’idea di chi tenga davvero le redini del discorso, concludo citando un ultimo dato: la capitalizzazione azionaria di **ciascuna** delle *Big Five* (Google, Amazon, Apple, Meta, and Microsoft), ha ormai **[stabilmente raggiunto se non addirittura superato il prodotto interno lordo delle più grandi potenze economiche mondiali](https://www.visualcapitalist.com/the-tech-giants-worth-compared-economies-countries/)**. 
-Ma queste brutte illazioni, si sa, le si chiama oggi teorie della cospirazione.  
+{: .text-justify} 
+Ma questi brutti pensieri, si sa, le si chiama oggi teorie della cospirazione.  
 {: .text-justify} 
 
-**Viva la lotta alla disinformazione! [Viva il nuovo mondo libero](https://www.youtube.com/watch?v=I9LaizvRYRc&ab_channel=ggdag85)!**
+**Viva la lotta contro la disinformazione! [Viva il nuovo mondo libero](https://www.youtube.com/watch?v=I9LaizvRYRc&ab_channel=ggdag85)!**
 {: .text-justify} 
 
 &nbsp;<br>
