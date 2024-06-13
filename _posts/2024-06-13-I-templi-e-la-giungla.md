@@ -40,6 +40,7 @@ Ora, se queste osservazioni rasentano l’ovvietà per chiunque sia ancora dotat
 <a name="Manzi"></a> 
 ## I Manzi del digitale
 ![Manzi](https://disastri.net/assets/img/Manzi maestro.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Immergiamoci dunque nel mondo della nuova pedagogia digitale.
 {: .text-justify} 
 Partendo dalle basse sfere della catena di montaggio, troviamo la [**Italian Digital Media Observatory**](https://www.idmo.it/) (IDMO), un osservatorio che di italiano, come si può evincere dal nome, non ha nulla o quasi: mera succursale, l’IDMO implementa i dettami dell’[**European Digital Media Observatory**](https://edmo.eu/) (EDMO), un progetto a sua volta finanziato tramite il [**Connecting Europe Facility**](https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/connecting-europe-facility_en), fondo della Commissione Europea creato nel 2014 allo scopo di stabilire un “trans-European network in the fields of transport, energy and digital services”. 
