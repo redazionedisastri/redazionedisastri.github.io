@@ -74,6 +74,8 @@ Fra questi benefattori spicca per importanza la ***Bill & Melinda Gates Foundati
 
 <a name="Ombre"></a> 
 ## Le ombre lunghe dei fact-checkers
+![Ombre](https://disastri.net/assets/img/Ombre.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Ma torniamo di nuovo alla TFCF: oltre che da **Meta**, essa ha ricevuto negli anni finanziamenti[^6] dalla Rai, dall’Agenzia di Stampa AGI e soprattutto dai soliti  progetti della Commissione europea: **IDMO**, **EDMO** e **SOMA**. Nonostante questo, la redazione di Pagella Politica proclama, sin dal suo nome, la sua terzietà glaciale rispetto a quegli epifenomeni del potere effettivo che sono i partiti politici. 
 {: .text-justify} 
 Ma se i dati già forniti non fossero bastati a chiarire quanto profondi siano i conflitti di interesse che la affliggono, basta scrostare un altro poco l’immagine di combriccola di cittadini super partes, per constatare come la totalità dei membri fondatori della TFCF sia composta da **ragazzi della meglio gioventù europea, con un piede e mezzo o due negli States.** Fitte relazioni (finanziarie) legano infatti questi soggetti con una pletora di agenzie intergovernative, enti privati, imprese, associazioni e istituzioni formative, in un nauseabondo carosello di nomi sempre uguali[^7]:
