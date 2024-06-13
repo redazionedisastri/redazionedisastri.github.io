@@ -58,7 +58,7 @@ Nemmeno il **Gruppo editoriale GEDI**, che possiede fra gli altri *La Stampa*, *
 La [***T6 Ecosystem***](https://www.t-6.it/team/) è invece una società di consulenza e ricerca coinvolta a livello nazionale, europeo e internazionale in progetti di innovazione e trasformazione digitale dei media, della cultura e della creatività, già partner dell’Osservatorio europeo nell’ambito del progetto [Horizon Europe](https://horizon2020.apre.it/) *Social Observatory for Disinformation and Social Media Analysis* (per gli amici SOMA, animali da). Il CEO della T6 è **Andrea Nicolai**, assiduo collaboratore di vari progetti della Commissione Europea. 
 {: .text-justify} 
 <a name="Quis custodiet"></a> 
-## Quis custodiet ipsos custodes? Le ombre dei fact-checkers
+## Quis custodiet ipsos custodes?
 ![Controllori](https://disastri.net/assets/img/Controllori.jpg){: .mx-auto.d-block :}
 &nbsp;<br>
 Un paragrafo a parte merita senza dubbio [***Pagella Politica***](https://pagellapolitica.it/progetto), testata giornalistica nata nel 2012 allo scopo di inserire – parole testuali – “una dose di oggettività nella dialettica politica italiana”. Pagella Politica opera sotto il controllo di una (ex) omonima Srl, fondata nel 2013 da un decemvirato di paladini della verità, che dal 2020 ha assunto l’attuale denominazione di *The Fact-Checking Factory Srl* (d’ora in avanti TFCF), al fine di accorpare al progetto iniziale lo spin-off di debunking “generalista” [***Facta***](https://facta.news/chi-siamo/).
