@@ -131,7 +131,8 @@ Google non si limita poi ad agire indirettamente, tramite i meccanismi di finanz
 {: .text-justify}  
 1. Il “business incubator” [***Jigsaw***](https://jigsaw.google.com/), “a unit within Google that explores threats to open societies, and builds technology that inspires scalable solutions”, il cui obiettivo è quello appunto di contrare “la disinformazione, la censura (sic!), la tossicità e l’estremismo violento”.
 2. La [***Moonshot***](https://moonshotteam.com), una start-up internazionale con sedi a Londra e Washington D.C. [^22]. Anch’essa si definisce come una compagnia che si impegna a porre un termine (fra le altre) “alla disinformazione, ai discorsi d’odio, alle minacce online, alla violenza di genere, all’estremismo violento”...in breve alla libertà d’espressione. La Moonshot, che fa *orgogliosamente* parte della [*Online Safety Tech Industry Association*](https://ostia.org.uk/), venne fondata nel 2015 da **Vidhya Ramalingam** e **Ross Frenett**. Due tizi qualunque, se non fosse che la prima è a) [una giovane leader dell’***Obama Foundation***](https://www.obama.org/programs/leaders/europe/2020/vidhya-ramalingam/) e b) un [membro del pannello di esperti del think tank del ***Washington Institute***](https://www.washingtoninstitute.org/experts/vidhya-ramalingam); mentre il secondo è soltanto un umile consulente del pannello RAN (***Radicalisation Awarness Network***) della Direzione Generale **Migration and Home Affairs**.
-Chi quale ente dite? Ah sì: della **Commissione Europea**. 
+&nbsp;<br>
+Chi quale ente, dite? Ah sì: della **Commissione Europea**. 
 {: .text-justify}  
 <a name="Verità"></a>
 ## La verità blindata
