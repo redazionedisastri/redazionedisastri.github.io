@@ -1,7 +1,10 @@
 ---
 layout: page
 title: I nostri valori
-subtitle: 
+subtitle:
+cover-img: /assets/img/Bora bora.jpg
+thumbnail-img: /assets/img/Bora bora.jpg
+share-img: /assets/img/Bora bora.jpg
 ---
 Cari visitatori,
 
