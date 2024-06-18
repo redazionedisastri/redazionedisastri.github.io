@@ -40,6 +40,6 @@ Secondo il nostro codice etico, infine, la Redazione si riserva il diritto di **
 Gentili avventori, siamo molto fieri dei traguardi sinora raggiunti, **ma non ci accontentiamo mai e guardiamo sempre al futuro**: entro l’estate prossima prevediamo infatti di andare in vacanza a Bora Bora, e ritorno.
 {: .text-justify}
 
-![Bora Bora](https://disastri.net/assets/img/Bora bora.jpg){: .align-center}
+![Bora Bora](https://disastri.net/assets/img/Sdraio.jpg){: .align-center}
 
 
