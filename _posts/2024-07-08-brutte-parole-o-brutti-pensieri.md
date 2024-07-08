@@ -20,11 +20,10 @@ Stavamo facendo merenda. Un boccone di pane le cade dalle mani e finisce per ter
 {: .text-justify}
 
 
-Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: certo un retaggio della mia di infanzia, quand’ero io il a passare i pomeriggi con la nonna, lanciando chicchi di riso agli impavidi colombi. Bei tempi quelli, in cui non solo non si discettava di violenza su volatile o di eventuali intolleranze alimentari degli stessi, ma la pratica era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, racchiuso in minuscoli sacchetti. 
+Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: certo un retaggio della mia di infanzia, quand’ero io a passare i pomeriggi con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui per qualche chicco non solo [non si rischiava l'arresto in flagranza per **tentato uccellicidio***(https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), ma la pratica di cibare pennuti era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, racchiuso in simpatici sacchetti. 
 {: .text-justify}
-
-
-Forse, nutrire altri esseri viventi solletica in noi una qualche voluttà di dominio? Soprattutto da piccoli, capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano non è roba da poco. Poter suscitare la frenesia di pesci, uccelli, formiche con un minuscolo pezzetto di pane...assistere alla concorrenza...tocca corde profonde. E già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
+Trovo interessante la passione che i bimbi mettono nel dar da mangiare agli animali.
+Forse, nutrire altri esseri viventi solletica in noi una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche con un minuscolo pezzetto di pane...assistere alla concorrenza, aizzarla...tocca corde profonde. E già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
 
 
