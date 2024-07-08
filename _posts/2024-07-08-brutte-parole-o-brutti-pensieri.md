@@ -36,7 +36,7 @@ Lancio una volta: niente. Lancio due volte: ancora nulla. Infine provo una terza
 >Ma questi piccioni sono proprio stupidi!
 {: .text-justify}
 
-Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento incomprensibile, che non sembrano volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia, con mia grande sorpresa, non apprezza la mia uscita. Anzi se la prende sul personale, e per difendere la reputazione dei poveri volatili mi redarguisce con efficienza poliziesca:
+Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento incomprensibile, che sembrano non volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia non apprezza affatto la mia uscita. **Anzi: se la prende sul personale.** E per difendere la reputazione dei poveri volatili mi redarguisce con efficienza poliziesca:
 {: .text-justify}
 
 >Papà! Ma cosa dici? Stupido è una parolaccia: non si dice…me lo ha detto la maestra!
@@ -45,7 +45,7 @@ Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento inco
 ***
 &nbsp;<br>
 &nbsp;<br>
-La sua reazione mi lascia di stucco. In particolare,  chi si sarebbe mai aspettato che un'eventuale critica avrebbe potuto vertere nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma che stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata nella testa di mia figlia dall’aura di un pericolosissimo tabù?
+Lì per lì sua reazione mi lascia di stucco. In particolare,  chi si sarebbe mai aspettato una critica nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma quali stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata, nella testa di mia figlia, dall’aura di un pericolosissimo tabù?
 {: .text-justify}
 
 V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente. La forza di verità profonde e inaudite, che nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo.
