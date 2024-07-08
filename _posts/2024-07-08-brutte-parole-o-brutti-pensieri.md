@@ -43,6 +43,8 @@ Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento inco
 {: .text-justify}
 
 ***
+&nbsp;<br>
+&nbsp;<br>
 La sua reazione mi lascia di stucco. In particolare,  chi si sarebbe mai aspettato che un'eventuale critica avrebbe potuto vertere nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma che stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata nella testa di mia figlia dall’aura di un pericolosissimo tabù?
 {: .text-justify}
 
@@ -97,6 +99,12 @@ E pare che le nuove generazioni se la stiano succhiando col latte l’assunto ch
 {: .text-justify}
 
 (E comunque, se non si fosse capito, quei piccioni erano proprio minchioni.)
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
+<p style="text-align: center;"><b>NOTE</b></p>
+---
 [^1]: In Italia, il reato di ingiuria - che prevedeva la presenza della persona offesa - è stato depenalizzato nel 2016. Si può discutere poi su quale sia, nel concreto, il limite fra il diritto ad esprimere il proprio punto di vista e quello di veder tutelata la propria reputazione pubblica. 
 [^2]: Che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
