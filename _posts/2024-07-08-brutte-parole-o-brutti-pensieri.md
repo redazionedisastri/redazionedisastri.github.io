@@ -52,13 +52,13 @@ V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza s
 E dunque mi ci metto a meditare con serietà filosofica su questa faccenda dello stupido come parolaccia.
 {: .text-justify}
 
-Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente volto a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune;  è solo attraverso l’infrazione di questo sentire comune che si può, di rimando, urtare la sensibilità di un eventuale insultato. Molte volte, peraltro, la parolaccia non assume nemmeno la forma dell’ingiuria, ma quella di una semplice interiezione volta ad esprimere con più forza uno stato d’animo rispetto a un danno o ad una situazione imprevista. Penso che la grande maggioranza delle parolacce che usiamo nel quotidiano assolvano appunto questa forma interiettiva:
+Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente volto a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune; ed è solo attraverso l’infrazione di questo sentire comune che, di rimando, risulta possibile oltraggiare un eventuale insultato. Molte volte, peraltro, la parolaccia non assume nemmeno la forma dell’ingiuria, ma quella di una semplice interiezione volta ad esprimere con più forza uno stato d’animo rispetto a un danno o ad una situazione imprevista. Penso che la stragrande maggioranza delle parolacce che usiamo nel quotidiano assolvano appunto questa valenza esclamatoria:
 {: .text-justify}
 
 >Cazzo, si è bucata la gomma!
 {: .text-justify}
 
-Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alle norme di buona educazione.
+Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo ed attaccarlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alle norme di buona educazione.
 {: .text-justify}
 . 
 Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), **ma non tutto ciò che offende è una parolaccia.** 
