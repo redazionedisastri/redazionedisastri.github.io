@@ -25,7 +25,7 @@ Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il 
 Mi affascina la passione che i bimbi mettono nel dar da mangiare agli animali.
 Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un ecosistema intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche intorno a un minuscolo pezzetto di pane. Assistere alla bagarre per accaparselo; aizzarla, assegnando arbitrariamente vantaggi e penalità in accordo alle nostre preferenze per l'uno o per l'altro concorrente...tocca corde profonde. 
 {: .text-justify}
-E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata, con tantodi colpi di piume e tubatine intimidatorie. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
+E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata, con tanto di colpi di piume e tubatine intimidatorie. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
 
 
