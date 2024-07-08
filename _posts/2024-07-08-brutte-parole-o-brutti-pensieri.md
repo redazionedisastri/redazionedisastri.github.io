@@ -45,7 +45,7 @@ Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento inco
 ***
 &nbsp;<br>
 &nbsp;<br>
-Lì per lì sua reazione mi lascia di stucco. In particolare,  chi si sarebbe mai aspettato una critica nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma quali stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata, nella testa di mia figlia, dall’aura di un pericolosissimo tabù?
+Lì per lì sua reazione mi lascia di stucco. In particolare,  mi si rinfaccia nientepopodimeno che il turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma quali stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata, nella testa di mia figlia, dall’aura di un pericolosissimo tabù?
 {: .text-justify}
 
 V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente. La forza di verità profonde e inaudite, che nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo.
