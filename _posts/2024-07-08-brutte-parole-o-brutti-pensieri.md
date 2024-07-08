@@ -63,30 +63,30 @@ Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’i
 . 
 Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), **ma non tutto ciò che offende è una parolaccia.** 
 {: .text-justify}
-La Corte di Cassazione si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di infamia. https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061
+La Corte di Cassazione [si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di infamia](https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061) [^1]
 {: .text-justify}
 
-La scurrilità, un tempo identificata con lo spirito espressivo delle classi subalterne (la cd *volgarità* etimologicamente, non è altro che una visione sprezzante della loquacità popolare) pare oggi estendersi trasversalmente a qualunque classe (cf articolo Giuseppe Antonelli, la parolaccia al potere), ed anzi soprattutto divenire una cifra distintiva dell’arroganza dei potenti, ma soprattutto – e qua avviene il passaggio fondamentale – si estende dal registro dei referenti linguistici, a quello dei pensieri. 
+La scurrilità, un tempo identificata con lo spirito espressivo delle classi subalterne (la cd *volgarità* etimologicamente, non è altro che una visione sprezzante della loquacità popolare) pare oggi estendersi trasversalmente a qualunque classe (ed anzi soprattutto [divenire una cifra distintiva dell’arroganza dei potenti o presunti tali](https://www.minimaetmoralia.it/wp/altro/un-estratto-volgare-eloquenza-le-parole-paralizzato-la-politica/)), ma soprattutto – e qua avviene il passaggio fondamentale – estendersi dal registro dei referenti linguistici, a quello dei pensieri. 
 {: .text-justify}
 
 Siccome siete cretini, ve lo spiego meglio.
 {: .text-justify}
 
 
-Ciò che offende, nella parolaccia, è dunque la sua struttura referenziale (mi riferisco a parti del corpo per significare sorpresa), e non il significato che si vuole veicolare. Offende o dà fastidio il fare riferimento a parti del corpo giudicate sensibili, alla sessualità, alla religione ecc, ai morti allo scopo di mettere in risalto un concetto magari banale risaltandolo in una cornice di interdetti. L’offensività deriva semplicemente dall’infrazione di un tabù sociale. 
-Allo stesso tempo però, sarebbero possibile esprimere quello stesso identico significato (concetto, pensiero, emozione) in maniera non scurrile, eliminando i riferimenti di cui sopra. Esclamare caspita o capperi di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurato nella parolaccia, ma la sua struttura espressiva. Sono i modi appunto, ad essere volgari. 
+Ciò che offende, nella parolaccia, è la sua struttura referenziale, e non il significato che attraverso questa struttura si tenta di veicolare. Offende il far riferimento a certe parti o funzioni corporee sensibili (coglione, merda), il profanare i limiti sacri del divino (persino una parola simpatica come *parbleu* nasconde origini scabrose...) o quelli legati all'onorabilità dei morti (*li mortacci tua!*), allo scopo di mettere in risalto concetti magari banali entro una cornice di interdetti.
+**Allo stesso tempo però, sarebbero possibile esprimere quegli stessi identici significati (concetti, pensieri, emozioni) in maniera non scurrile, eliminando i riferimenti di cui sopra.** Esclamare "caspita" o "capperi" di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Nella parolaccia, non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurato, ma la sua struttura espressiva. Sono i modi appunto, ad essere volgari. 
 {: .text-justify}
  
-Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive. O ribaltando la prospettiva, a fare di certi contenuti dei modi inammissibili.
+**Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive**. O ribaltando la prospettiva, a fare di certi contenuti dei modi inammissibili.
 {: .text-justify}
 
-Ora, appare chiaro che qualunque opinione può offendere. Virtualmente, qualsiasi cosa che non coincida con la percezione che un soggetto ha di sé potrebbe urtare o minare la sua stabilità psicologica. Qualcuno potrà offendersi sentendosi chiamare magro. Qualcun’altro con un grasso. Uno con un basso, uno con un alto. Non c’è concetto che non possa virtualmente risultare offensivo, o diventarlo con il tempo, per persone o classi di persone. Qualcuno può sentirsi offeso o sentire di offendere nominando le cose per quelle che sono (nero, gay, donna).  
+Ora, appare chiaro che qualsiasi opinione può offendere qualcuno. Virtualmente, ogni parere che non coincida con la percezione che un soggetto ha di sé potrebbe minare la sua stabilità psicologica. Qualcuno potrà offendersi sentendosi chiamare "magro", qualcun’altro "grasso". Uno si piccherà per un "basso", uno per un "alto". Non c’è concetto che non possa nel tempo risultare offensivo per persone o classi di persone. Qualcuno può sentirsi offeso o sentire di offendere nominando le cose per quelle che sono (nero è già diventata una parolaccia, e presto sarà forse il turno di donna).  
 {: .text-justify}
 
-Ora, sembra che stiamo imparando sempre più ad identificare la volgarità con l’espressione di sentimenti potenzialmente negativi, e di opinioni (magari motivate) con una passione dettata dall’odio bestiale (il famigerato hate speech). Tutto ciò che possa potenzialmente urtare la sensibilità di qualcuno, che possa risultare in qualche modo offensivo, è una brutta parola. Cioè in tal caso un brutto pensiero. Il pensare stesso è brutto.Anche l e emozioni sono represse
+Sembra che stiamo imparando sempre più ad **identificare la volgarità con l’espressione di sentimenti potenzialmente negativi**, e di opinioni (magari motivate) con una passione dettata da un odio triviale (il famigerato *hate speech*). Tutto ciò che possa potenzialmente urtare la sensibilità di qualcuno, che possa risultare in qualche modo offensivo, è una brutta parola, ovvero un *brutto pensiero*. Il pensare stesso racchiude in sé una certa sconcezza, e le emozioni - soprattutto quelle repulsive - vanno sempre e comunque represse.
 {: .text-justify}
 
-Mi pare doveroso insegnare ai bambini che alcune parole vadano usate con discrezione, che alcuni pensieri possano ferire la sensibilità altrui, e che dunque vadano espressi con tatto, e comunque sempre a fin di bene. Si può discutere del perché sia bene esprimere o meno le proprie opinioni sugli altri in modo diretto, oppure più celato. Di quali siano i confini fra l’ipocrisia e la buona educazione e, di converso, fra la schiettezza e un’insensibilità cafona. 
+Mi pare doveroso insegnare ai bambini che alcune parole vadano usate con discrezione, che alcuni pensieri possano ferire la sensibilità altrui, e che dunque vadano espressi con tatto, e comunque sempre a fin di bene. Si può discutere del perché sia bene esprimere o meno le proprie opinioni sugli altri in modo diretto oppure celato. Di quali siano i confini fra l’ipocrisia e la buona educazione e, di converso, fra la schiettezza e una faciloneria cafona. [^2]
 {: .text-justify}
 
 **Ma fare di qualsiasi osservazione negativa una parola da mettere all’indice crea in ultima istanza una società incapace di pensare o provare sentimenti senza colpevolizzarsi o autocensurarsi.**
@@ -97,3 +97,6 @@ E pare che le nuove generazioni se la stiano succhiando col latte l’assunto ch
 {: .text-justify}
 
 (E comunque, se non si fosse capito, quei piccioni erano proprio minchioni.)
+
+[^1]: Si può discutere poi su quale sia nel concreto il limite fra il diritto ad esprimere il proprio punto di vista e quello di veder tutelata la propria reputazione pubblica. 
+[^2]: che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
