@@ -9,52 +9,52 @@ tags: [Volgarità, offese, parolacce]
 author: Romeo Gand
 ---
 
-La scorsa mattina, al parco con mia figlia, mi è capitato di intrattenere una conversazione interessante. Interessante come solo le conversazioni coi bimbi piccoli sanno essere.
+La scorsa mattina, al parco con mia figlia, ho avuto una conversazione interessante. Interessante come solo le conversazioni coi bimbi piccoli sanno essere.
 {: .text-justify}
 
-Stavamo facendo merenda. Un boccone di pane le cade dalle mani e finisce per terra. 
-{: .text-justify}
-
-
->Vabbè dai, non è grave...diamolo a quei piccioni, anziché gettarlo nella spazzatura.
+Stavamo facendo merenda, quando un boccone di pane le cade dalle mani e finisce per terra. 
 {: .text-justify}
 
 
-Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: certo un retaggio della mia di infanzia, quand’ero io a passare i pomeriggi con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui per qualche chicco non solo [non si rischiava l'arresto in flagranza di reato per **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), ma la pratica di cibare pennuti era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, racchiuso in appositi sacchetti. 
-{: .text-justify}
-Trovo interessante la passione che i bimbi mettono nel dar da mangiare agli animali.
-Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche con un minuscolo pezzetto di pane...assistere alla concorrenza, aizzarla...tocca corde profonde. 
-{: .text-justify}
-E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
+>Dai, non è grave...diamolo ai piccioni, anziché gettarlo via.
 {: .text-justify}
 
 
-Lancio una volta: niente. Lancio due volte: ancora nulla. Infine provo una terza: ma i piccioni se ne stanno lì impalati sui fili della luce; mi guardano imperterriti, dall’alto in basso, con una certa aria di... disgusto. 
+Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: di certo un retaggio della mia infanzia, quand’ero io a passare i pomeriggi con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui per qualche chicco non solo [non si rischiava l'arresto in flagranza per **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), ma in cui la pratica di cibare pennuti e affini era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, in appositi sacchettini. 
+{: .text-justify}
+Mi affascina la passione che i bimbi mettono nel dar da mangiare agli animali.
+Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche intorno a un minuscolo pezzetto di pane. Assistere alla bagarre per accaparselo; aizzarla, assegnando arbitrariamente vantaggi e penalità in accordo alle nostre preferenze per l'uno o per l'altro concorrente...tocca corde profonde. 
+{: .text-justify}
+E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata, con tantodi colpi di piume e tubatine intimidatorie. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
 
 
->Ma questi piccioni sono proprio stupidi!
+Dunque lancio una volta: niente. Lancio due volte: ancora nulla. Infine provo una terza: **ma i piccioni se ne stanno lì impalati sui fili della luce**. Ci scrutano dall’alto in basso, si direbbe pure con una certa aria di disgusto. 
 {: .text-justify}
 
-Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento incomprensibile, che sembrano non volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia non apprezza affatto la mia uscita. **Anzi: se la prende sul personale.** E per difendere la reputazione dei poveri volatili mi redarguisce con efficienza poliziesca:
+
+>Ma questi piccioni sono proprio stupidi! 
 {: .text-justify}
 
->Papà! Ma cosa dici? Stupido è una parolaccia: non si dice…me lo ha detto la maestra!
+Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento irriverente, che sembrano non volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia non apprezza affatto la mia uscita. **Anzi: se la prende alquanto sul personale.** E per difendere l'inerzia dei poveri volatili mi redarguisce con efficienza poliziesca:
+{: .text-justify}
+
+>Papà! Ma cosa dici?? Stupido è una parolaccia: non si dice stupido…me lo ha detto la maestra!
 {: .text-justify}
 
 ***
 &nbsp;<br>
 &nbsp;<br>
-Lì per lì sua reazione mi lascia di stucco. In particolare,  mi si rinfaccia nientepopodimeno che il turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma quali stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata, nella testa di mia figlia, dall’aura di un pericolosissimo tabù?
+Lì per lì sua reazione mi lascia di stucco: com’è possibile che per una parola all’apparenza tanto innocua mi si rinfacci nientepopodimeno che il turpiloquio? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma quali stupidi? Guarda che non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. 
 {: .text-justify}
 
-V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente. La forza di verità profonde e inaudite, che nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo.
+**V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente.** La forza di verità cristalline, che zampillano, e che permettono di comprendere il mondo come nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo. Nel caso specifico, questa osservazione mi lascia immaginare che nella testa di mia figlia, alla tenera età di tre anni, ci sia già un corposo elenco di parole ordinarie circondate dall’aura di un pericolosissimo tabù.
 {: .text-justify}
 
 E dunque mi ci metto a meditare con serietà filosofica su questa faccenda dello stupido come parolaccia.
 {: .text-justify}
 
-Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente volto a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune; ed è solo attraverso l’infrazione di questo sentire comune che, di rimando, risulta possibile oltraggiare un eventuale insultato. Molte volte, peraltro, la parolaccia non assume nemmeno la forma dell’ingiuria, ma quella di una semplice interiezione volta ad esprimere con più forza uno stato d’animo rispetto a un danno o ad una situazione imprevista. Penso che la stragrande maggioranza delle parolacce che usiamo nel quotidiano assolvano appunto questa valenza esclamatoria:
+Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente finalizzato a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune; ed è solo attraverso l’infrazione di questo sentire comune che, di rimando, risulta possibile insultare un eventuale bersaglio diretto: *sei un coglione!* Molte volte, però, la parolaccia non assume le sembianze dell’ingiuria, ma quelle di una semplice interiezione volta ad esprimere con più incisività uno stato d’animo rispetto ad una situazione imprevista. Penso che la stragrande maggioranza delle parolacce che pronunciamo nel quotidiano assolvano appunto questa valenza esclamatoria:
 {: .text-justify}
 
 >Cazzo, si è bucata la gomma!
