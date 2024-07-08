@@ -20,46 +20,48 @@ Stavamo facendo merenda. Un boccone di pane le cade dalle mani e finisce per ter
 {: .text-justify}
 
 
-Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: certo un retaggio della mia di infanzia, quand’ero io a passare i pomeriggi con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui per qualche chicco non solo [non si rischiava l'arresto in flagranza per **tentato uccellicidio***(https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), ma la pratica di cibare pennuti era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, racchiuso in simpatici sacchetti. 
+Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: certo un retaggio della mia di infanzia, quand’ero io a passare i pomeriggi con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui per qualche chicco non solo [non si rischiava l'arresto in flagranza per **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), ma la pratica di cibare pennuti era persino vista come un normale svago per famiglie, il riso essendo venduto nei chioschi, la domenica nelle piazze, racchiuso in simpatici sacchetti. 
 {: .text-justify}
 Trovo interessante la passione che i bimbi mettono nel dar da mangiare agli animali.
-Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche con un minuscolo pezzetto di pane...assistere alla concorrenza, aizzarla...tocca corde profonde. E già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
+Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche con un minuscolo pezzetto di pane...assistere alla concorrenza, aizzarla...tocca corde profonde. 
+{: .text-justify}
+E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
 
 
-Dunque lancio una volta: niente. Lancio due volte: ancora nulla. Infine provo una terza: i piccioni se ne stanno là impalati sui fili della luce, e mi guardano dall’alto in basso con una certa aria di... disgusto. 
+Lancio una volta: niente. Lancio due volte: ancora nulla. Infine provo una terza: ma i piccioni se ne stanno lì impalati sui fili della luce; mi guardano imperterriti, dall’alto in basso, con una certa aria di... disgusto. 
 {: .text-justify}
 
 
 >Ma questi piccioni sono proprio stupidi!
 {: .text-justify}
 
-Esclamo allora, stizzito, per apostrofare l’atteggiamento a mio parere incomprensibile dei pennuti, che non sembrano volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia, con mia grande sorpresa, non apprezza la mia uscita. Anzi se la prende sul personale, e per difendere la reputazione dei poveri piccioni mi redarguisce con efficienza poliziesca:
+Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento incomprensibile, che non sembrano volerne sapere di accondiscendere a quel che resta del mio immaginario fanciullesco. Ma mia figlia, con mia grande sorpresa, non apprezza la mia uscita. Anzi se la prende sul personale, e per difendere la reputazione dei poveri volatili mi redarguisce con efficienza poliziesca:
 {: .text-justify}
 
 >Papà! Ma cosa dici? Stupido è una parolaccia: non si dice…me lo ha detto la maestra!
 {: .text-justify}
 
 ***
-La sua reazione mi lascia di stucco. In particolare, non mi attendevo che un’eventuale critica potesse vertere nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma che stupidi? Solo non hanno fame...”), mi si rimproverava invece di essere stato volgare. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua, “stupido”, sia già circondata nella testa di mia figlia dall’aura di un pericolosissimo tabù?
+La sua reazione mi lascia di stucco. In particolare,  chi si sarebbe mai aspettato che un'eventuale critica avrebbe potuto vertere nientepopodimeno che sul turpiloquio: e che avrei detto di così scabroso? Fra le tante cose che mi si sarebbero potute contestare (“papà, ma che stupidi? Solo non hanno fame...”), **mi si rimproverava invece di essere stato volgare**. Non mi si attaccava cioè nel merito, ma nei modi. Ma com’è possibile che una parola all’apparenza tanto innocua -  “stupido” - sia già circondata nella testa di mia figlia dall’aura di un pericolosissimo tabù?
 {: .text-justify}
 
-V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente, una verità profonda e inaudita. Che nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo.
+V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente. La forza di verità profonde e inaudite, che nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo.
 {: .text-justify}
 
-E dunque mi ci metto a meditare con serietà filosofica.
+E dunque mi ci metto a meditare con serietà filosofica su questa faccenda dello stupido come parolaccia.
 {: .text-justify}
 
-Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente volto a ferire *qualcuno***. Ciò che la brutta parola lede è, in primis, la sensibilità comune, e solo attraverso l’infrazione di questo sentire comune si può di rimando urtare la sensibilità senza che qualcuno venga messo in mezzo. Molte volte, la parolaccia non assume nemmeno la forma dell’ingiuria, ma quella di una semplice interiezione volta ad esprimere con più forza uno stato d’animo rispetto a una situazione imprevista:
+Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente volto a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune;  è solo attraverso l’infrazione di questo sentire comune che si può, di rimando, urtare la sensibilità di un eventuale insultato. Molte volte, peraltro, la parolaccia non assume nemmeno la forma dell’ingiuria, ma quella di una semplice interiezione volta ad esprimere con più forza uno stato d’animo rispetto a un danno o ad una situazione imprevista. Penso che la grande maggioranza delle parolacce che usiamo nel quotidiano assolvano appunto questa forma interiettiva:
 {: .text-justify}
 
 >Cazzo, si è bucata la gomma!
 {: .text-justify}
 
-Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alla buona educazione.
+Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alle norme di buona educazione.
 {: .text-justify}
 . 
-Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), ma **non tutto ciò che offende è una parolaccia.** 
+Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), **ma non tutto ciò che offende è una parolaccia.** 
 {: .text-justify}
 La Corte di Cassazione si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di infamia. https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061
 {: .text-justify}
