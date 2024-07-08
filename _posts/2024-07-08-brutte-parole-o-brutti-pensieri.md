@@ -63,7 +63,7 @@ Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’i
 . 
 Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), **ma non tutto ciò che offende è una parolaccia.** 
 {: .text-justify}
-La Corte di Cassazione [si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di diffamazione](https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061) [^1]
+La Corte di Cassazione [si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di diffamazione](https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061). [^1]
 {: .text-justify}
 
 La scurrilità, un tempo identificata con lo spirito espressivo delle classi subalterne (la cd *volgarità* etimologicamente, non è altro che una visione sprezzante della loquacità popolare) pare oggi estendersi trasversalmente a qualunque classe (ed anzi soprattutto [divenire una cifra distintiva dell’arroganza dei potenti o presunti tali](https://www.minimaetmoralia.it/wp/altro/un-estratto-volgare-eloquenza-le-parole-paralizzato-la-politica/)), ma soprattutto – e qua avviene il passaggio fondamentale – estendersi dal registro dei referenti linguistici, a quello dei pensieri. 
