@@ -60,6 +60,7 @@ Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto,
 >Cazzo, si è bucata la gomma!
 {: .text-justify}
 
+Alcune sono persino legate all'espressione di sentimenti positivi, come la meraviglia o l'apprezzamento: "che fico" ; "che fregna!". E a questo riguardo non possiamo fare a meno di notare che è l'organo genitale femminile a ricoprire una funzione positiva, a differenza di quelli maschili, quasi sempre associati ad offese o rabbia. 
 Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo ed attaccarlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alle norme di buona educazione.
 {: .text-justify}
 . 
@@ -75,7 +76,7 @@ Siccome siete cretini, ve lo spiego meglio.
 {: .text-justify}
 
 
-Ciò che offende, nella parolaccia, è la sua struttura referenziale, e non il significato che attraverso questa struttura si tenta di veicolare. Offende il far riferimento a certe parti o funzioni corporee sensibili (coglione, merda), il profanare i limiti sacri del divino (persino una parola simpatica come *parbleu* nasconde origini scabrose...) o quelli legati all'onorabilità dei morti (*li mortacci tua!*), allo scopo di mettere in risalto concetti magari banali entro una cornice di interdetti.
+Ciò che offende, nella parolaccia, è la sua struttura referenziale, e non il significato che attraverso questa struttura si tenta di veicolare. Offende il far riferimento a certe parti o funzioni corporee giudicate oscene (coglione, merda), il profanare i limiti sacri del divino (persino una parola simpatica come *parbleu* nasconde origini scabrose...) o quelli legati all'onorabilità dei morti (*li mortacci tua!*), allo scopo di mettere in risalto concetti magari banali entro una cornice di interdetti.
 **Allo stesso tempo però, sarebbero possibile esprimere quegli stessi identici significati (concetti, pensieri, emozioni) in maniera non scurrile, eliminando i riferimenti di cui sopra.** Esclamare "caspita" o "capperi" di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Nella parolaccia, non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurato, ma la sua struttura espressiva. Sono i modi appunto, ad essere volgari. 
 {: .text-justify}
  
@@ -106,5 +107,6 @@ E pare che le nuove generazioni se la stiano succhiando col latte l’assunto ch
 
 <p style="text-align: center;"><b>NOTE</b></p>
 ---
+[^1]: Molte delle parolacce che adoperiamo provocherebbero straordinario effetti comici se impiegati nella forma dell'ingiuria: immaginate di insultare qualcuno dandogli del *cazzo*. Alcune, secondo il contesto regionale, non possono ricoprire nemmeno la funzione imprecatoria (ad es. *fica*, al Sud Italia, non può essere usato né per insultare né per imprecare). 
 [^1]: In Italia, il reato di ingiuria - che prevedeva la presenza della persona offesa - è stato depenalizzato nel 2016. Si può discutere poi su quale sia, nel concreto, il limite fra il diritto ad esprimere il proprio punto di vista e quello di veder tutelata la propria reputazione pubblica. 
 [^2]: Che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
