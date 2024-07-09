@@ -51,28 +51,29 @@ Lì per lì sua reazione mi lascia di stucco: com’è possibile che per una par
 **V’è talvolta, in queste frasette lapidarie proferite dai bambini, una forza sconvolgente.** La forza di verità cristalline, che zampillano, e che permettono di comprendere il mondo come nemmeno una raccolta di saggi potrebbe condensare. Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si accorderebbe ad un oracolo. Nel caso specifico, questa osservazione mi lascia immaginare che nella testa di mia figlia, alla tenera età di tre anni, ci sia già un corposo elenco di parole ordinarie circondate dall’aura di un pericolosissimo tabù.
 {: .text-justify}
 
+## Imprecazioni, insulti ed altre offese più garbate
+
 E dunque mi ci metto a meditare con serietà filosofica su questa faccenda dello stupido come parolaccia.
 {: .text-justify}
 
-Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente finalizzato a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune; ed è solo attraverso l’infrazione di questo sentire comune che, di rimando, risulta possibile insultare un eventuale bersaglio diretto: *sei un coglione!* Molte volte, però, la parolaccia non assume le sembianze dell’ingiuria, ma quelle di una semplice interiezione volta ad esprimere con più incisività uno stato d’animo rispetto ad una situazione imprevista. Penso che la stragrande maggioranza delle parolacce che pronunciamo nel quotidiano assolvano appunto questa valenza esclamatoria:
+Una parolaccia nasce in effetti con l’intento di offendere. Eppure, anzitutto, **il carattere offensivo del turpiloquio non è necessariamente finalizzato a ferire *qualcuno***. Ciò che la *brutta parola* lede è, in primis, la sensibilità comune; ed è solo attraverso l’infrazione di questo sentire comune che, di rimando, risulta possibile insultare un eventuale bersaglio: *sei un coglione!* Molte volte, però, la parolaccia **non assume le sembianze dell’ingiuria**, ma quelle di una semplice interiezione volta ad esprimere con più incisività uno stato d’animo rispetto ad una situazione imprevista. Penso che la stragrande maggioranza delle parolacce che pronunciamo nel quotidiano assolvano appunto questa **valenza imprecatoria** [^1]:
 {: .text-justify}
 
 >Cazzo, si è bucata la gomma!
 {: .text-justify}
 
-Alcune sono persino legate all'espressione di sentimenti positivi, come la meraviglia o l'apprezzamento: "che fico" ; "che fregna!". E a questo riguardo non possiamo fare a meno di notare che è l'organo genitale femminile a ricoprire una funzione positiva, a differenza di quelli maschili, quasi sempre associati ad offese o rabbia. 
-Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo ed attaccarlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera magari offensiva ma perfettamente conforme alle norme di buona educazione.
+Alcune di queste imprecazioni e ingiurie possono persino essere legate all'espressione di sentimenti positivi, come la meraviglia o l'apprezzamento: "che fico" ; "che fregna!". E a questo riguardo non possiamo fare a meno di notare che è l'organo genitale femminile a ricoprire una funzione positiva, a differenza di quelli maschili, quasi sempre associati ad offese o sentimenti di rabbia: un cazzone è un idiota patentato, un tipo poco serio o affidabile, mentre una figona è una donna avvenente; la controparte maschile *fico* si dice in situazioni positive per sottolinearne la , ma può essere pure usata per indicare un ragazzo di bell'aspetto e irresistibile fascino ("è un fico").
+Osserviamo poi che, se non è possibile dare del coglione a qualcuno senza l’intento preciso di sminuirlo ed attaccarlo, dare invece a qualcuno dello stupido, per quanto sgradevole possa apparire alle orecchie del destinatario, può essere dettato dalla semplice volontà di qualificare il suo comportamento o il suo modo di essere, in maniera per lui offensiva ma perfettamente conforme alle norme di buona educazione.
 {: .text-justify}
-. 
-Quindi riassumendo potremmo dire che **ogni parolaccia offende** (la sensibilità comune e attraverso questa eventualmente l’autostima di qualcuno), **ma non tutto ciò che offende è una parolaccia.** 
+Ricapitolando, potremmo dire che se **ogni parolaccia offende necessariamente la sensibilità comune** (e attraverso questa, eventualmente, rabassa l’autostima di qualcuno), **non tutto ciò che offende è una parolaccia.** 
 {: .text-justify}
-La Corte di Cassazione [si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, possono costituire a tutti gli effetti offese, e integrare così il reato di diffamazione](https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061). [^1]
+La Corte di Cassazione si è pronunciata chiaramente in tal senso, asserendo che espressioni come stupido e cretino, per quanto effettivamente **non volgari**, [possono costituire a tutti gli effetti offese, e integrare così il reato di diffamazione](https://www.avvocatocassazionista.it/visualizza/news/2013/sentenza/dare-del-cretino-e-dello-stupido-e-offesa-vera-ed-e-reato/5061). [^2]
 {: .text-justify}
 
 La scurrilità, un tempo identificata con lo spirito espressivo delle classi subalterne (la cd *volgarità* etimologicamente, non è altro che una visione sprezzante della loquacità popolare) pare oggi estendersi trasversalmente a qualunque classe (ed anzi soprattutto [divenire una cifra distintiva dell’arroganza dei potenti o presunti tali](https://www.minimaetmoralia.it/wp/altro/un-estratto-volgare-eloquenza-le-parole-paralizzato-la-politica/)), ma soprattutto – e qua avviene il passaggio fondamentale – estendersi dal registro dei referenti linguistici, a quello dei pensieri. 
 {: .text-justify}
 
-Siccome siete cretini, ve lo spiego meglio.
+**Siccome siete cretini, ve lo spiego meglio.**
 {: .text-justify}
 
 
@@ -89,7 +90,7 @@ Ora, appare chiaro che qualsiasi opinione può offendere qualcuno. Virtualmente,
 Sembra che stiamo imparando sempre più ad **identificare la volgarità con l’espressione di sentimenti potenzialmente negativi**, e di opinioni (magari motivate) con una passione dettata da un odio triviale (il famigerato *hate speech*). Tutto ciò che possa potenzialmente urtare la sensibilità di qualcuno, che possa risultare in qualche modo offensivo, è una brutta parola, ovvero un *brutto pensiero*. Il pensare stesso racchiude in sé una certa sconcezza, e le emozioni - soprattutto quelle repulsive - vanno sempre e comunque represse.
 {: .text-justify}
 
-Mi pare doveroso insegnare ai bambini che alcune parole vadano usate con discrezione, che alcuni pensieri possano ferire la sensibilità altrui, e che dunque vadano espressi con tatto, e comunque sempre a fin di bene. Si può discutere del perché sia bene esprimere o meno le proprie opinioni sugli altri in modo diretto oppure celato. Di quali siano i confini fra l’ipocrisia e la buona educazione e, di converso, fra la schiettezza e una faciloneria cafona. [^2]
+Mi pare doveroso insegnare ai bambini che alcune parole vadano usate con discrezione, che alcuni pensieri possano ferire la sensibilità altrui, e che dunque vadano espressi con tatto, e comunque sempre a fin di bene. Si può discutere del perché sia bene esprimere o meno le proprie opinioni sugli altri in modo diretto oppure celato. Di quali siano i confini fra l’ipocrisia e la buona educazione e, di converso, fra la schiettezza e una faciloneria cafona. [^3]
 {: .text-justify}
 
 **Ma fare di qualsiasi osservazione negativa una parola da mettere all’indice crea in ultima istanza una società incapace di pensare o provare sentimenti senza colpevolizzarsi o autocensurarsi.**
@@ -107,6 +108,6 @@ E pare che le nuove generazioni se la stiano succhiando col latte l’assunto ch
 
 <p style="text-align: center;"><b>NOTE</b></p>
 ---
-[^1]: Molte delle parolacce che adoperiamo provocherebbero straordinario effetti comici se impiegati nella forma dell'ingiuria: immaginate di insultare qualcuno dandogli del *cazzo*. Alcune, secondo il contesto regionale, non possono ricoprire nemmeno la funzione imprecatoria (ad es. *fica*, al Sud Italia, non può essere usato né per insultare né per imprecare). 
-[^1]: In Italia, il reato di ingiuria - che prevedeva la presenza della persona offesa - è stato depenalizzato nel 2016. Si può discutere poi su quale sia, nel concreto, il limite fra il diritto ad esprimere il proprio punto di vista e quello di veder tutelata la propria reputazione pubblica. 
-[^2]: Che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
+[^1]: Molte delle parolacce che adoperiamo provocherebbero straordinari effetti comici se impiegate nella forma dell'ingiuria: immaginate di insultare qualcuno dandogli del *cazzo*. Alcune, secondo il contesto regionale, non possono ricoprire nemmeno la funzione imprecatoria (ad es. *fica*, al Sud Italia, non può essere usato né per insultare né per imprecare). 
+[^2]: In Italia, il reato di ingiuria - che prevedeva la presenza della persona offesa - è stato depenalizzato nel 2016. Si può discutere poi su quale sia, nel concreto, il limite fra il diritto ad esprimere il proprio punto di vista e quello di veder tutelata la propria reputazione pubblica. 
+[^3]: Che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
