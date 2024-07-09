@@ -91,7 +91,9 @@ Ciò che offende, nella parolaccia, è la sua struttura referenziale, e non il s
 **Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive**. O ribaltando la prospettiva, a fare di certi contenuti dei modi inammissibili.
 {: .text-justify}
 
-Ora, appare chiaro che qualsiasi opinione può offendere qualcuno. Virtualmente, ogni parere che non coincida con la percezione che un soggetto ha di sé potrebbe minare la sua stabilità psicologica. Qualcuno potrà offendersi sentendosi chiamare "magro", qualcun’altro "grasso". Uno si piccherà per un "basso", uno per un "alto". Non c’è concetto che non possa nel tempo risultare offensivo per persone o classi di persone. Qualcuno può sentirsi offeso o sentire di offendere nominando le cose per quelle che sono (nero è già diventata una parolaccia, e presto sarà forse il turno di donna).  
+Ora, appare chiaro che qualsiasi opinione può offendere qualcuno. Virtualmente, ogni parere che non coincida con la percezione che un soggetto ha di sé potrebbe minare la sua stabilità psicologica. Qualcuno potrà offendersi sentendosi chiamare "magro", qualcun’altro "grasso". Uno si piccherà per un "basso", uno per un "alto". Non c’è concetto che non possa nel tempo risultare offensivo per persone o classi di persone. 
+Persino la constatazione di fatti...
+Qualcuno può sentirsi offeso o sentire di offendere nominando le cose per quelle che sono (nero è già diventata una parolaccia, e presto sarà forse il turno di donna).  
 {: .text-justify}
 
 Sembra che stiamo imparando sempre più ad **identificare la volgarità con l’espressione di sentimenti potenzialmente negativi**, e di opinioni (magari motivate) con una passione dettata da un odio triviale (il famigerato *hate speech*). Tutto ciò che possa potenzialmente urtare la sensibilità di qualcuno, che possa risultare in qualche modo offensivo, è una brutta parola, ovvero un *brutto pensiero*. Il pensare stesso racchiude in sé una certa sconcezza, e le emozioni - soprattutto quelle repulsive - vanno sempre e comunque represse.
