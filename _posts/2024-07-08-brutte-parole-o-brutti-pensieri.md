@@ -28,10 +28,11 @@ Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche vol
 E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata, con tanto di colpi di piume e tubatine intimidatorie. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
 &nbsp;<br>
-&nbsp;<br>
 Dunque lancio una volta: niente. 
 &nbsp;<br>
+&nbsp;<br>
 Lancio due volte: ancora nulla.
+&nbsp;<br>
 &nbsp;<br>
 Infine provo una terza: **ma i piccioni se ne stanno lì impalati sui fili della luce**. Ci scrutano dall’alto in basso, si direbbe pure con una certa aria di disgusto. 
 {: .text-justify}
