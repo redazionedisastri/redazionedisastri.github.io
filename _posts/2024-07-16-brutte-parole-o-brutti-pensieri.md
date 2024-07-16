@@ -64,7 +64,8 @@ Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si
 
 # Indice delle elucubrazioni
 
-- [Imprecazioni, improperi...ed altre offese più garbate](#imprecazioni)
+- [Imprecazioni, improperi...](#imprecazioni)
+- [...ed altre offese più garbate](#altre offese)
 - [Parolacce o pensieracci? Gli *hate words*](#parolacce)
 - [Parole d’odio e parole di compassione: l’altra faccia della luna](#parole)
 - [Sporchi, brutti e cattivi](#sporchi)
@@ -78,7 +79,7 @@ Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si
   
 
 <a name="imprecazioni"></a>
-## Imprecazioni, improperi...ed altre offese più garbate
+## Imprecazioni, improperi...
 
 Per prima cosa, cerchiamo di capire cosa sia un’espressione *volgare*, e quale legame intercorra fra la volgarità e l’offesa. 
 Non si può infatti negare che nella parolaccia sia insita una certa pulsione all’offesa. Eppure, anzitutto, **questo carattere offensivo del turpiloquio non è necessariamente volto a ferire qualcuno in particolare**. Ciò che la *brutta parola* invariabilmente lede è la sensibilità comune; ed è solo attraverso la violazione di questo sentire comune che, di rimando, risulta possibile **insultare** un eventuale bersaglio:  
@@ -96,11 +97,12 @@ Penso sia verosimile affermare che gran parte delle volgarità che pronunciamo n
 {: .text-justify}
 
 Le parolacce non sono inoltre necessariamente legate all’espressione di sentimenti negativi. Frasi come “non lo sapevo, che figo!”, o “che fregna” denotano al contrario sentimenti positivi, come meraviglia o apprezzamento.
-A questo riguardo non possiamo fare a meno di notare – con buona pace degli ossessionati dal patriarcato – che è **l'apparato genitale femminile a ricoprire il più delle volte una funzione positiva**...a differenza di quello maschile, quasi sempre relegato a significati infamanti o sentimenti di rabbia [^3]: così un *cazzone* è per noi “un idiota patentato, un tipo poco serio o affidabile”, il *pirla* (termine che in origine indica appunto il membro virile) è uno “sprovveduto, uno sciocco”, e il *minchione* una sorta di “babbeo, un tonto”; al contrario della *figona*, che è una donna avvenente, della *figata*, che designa una situazione piacevole e allettante, e della succitata controparte maschile *figo*, che – oltre che come interiezione – può essere utilizzata per indicare un ragazzo di bell'aspetto e irresistibile fascino ("è davvero un figo"). 
+A questo riguardo non possiamo fare a meno di notare – con buona pace degli ossessionati dal patriarcato – che è **l'apparato genitale femminile a ricoprire il più delle volte una funzione positiva**...a differenza di quello maschile, quasi sempre relegato a significati infamanti o sentimenti di rabbia [^3]: così un *cazzone* è per noi “un idiota patentato, un tipo poco serio o inaffidabile”, il *pirla* (termine che in origine indica appunto il membro virile) è uno “sprovveduto, uno sciocco”, e il *minchione* una sorta di “babbeo, un tonto”; al contrario della *figona*, che è una donna avvenente, della *figata*, che designa una situazione piacevole e allettante, e della succitata controparte maschile *figo*, che – oltre che come interiezione – può essere utilizzata per indicare un ragazzo di bell'aspetto e irresistibile fascino ("è davvero un figo"). 
 {: .text-justify}
-
+<a name="altre offese"></a>
+## ...ed altre offese più garbate
 Una volta chiarito che **ogni volgarità offende necessariamente la sensibilità comune** (e attraverso questa, **solo eventualmente**, l’autostima di qualcuno), potremmo invertire la prospettiva e **domandarci se anche tutto ciò che offende sia di necessità volgare**.
-E apparirebbe subito come la rozzezza dei modi non costituisca che **un elemento accessorio dell’offensività**: termini come *stupido* o *cretino*, infatti, possono sì  risultare offensivi, ma non implicano l’infrazione di alcun tabù, e non sono dunque volgari nel senso sopra descritto.
+E apparirebbe subito come la rozzezza dei modi non costituisca in quest'ultimo caso che **un elemento accessorio dell’offensività**: termini come *stupido* o *cretino*, infatti, possono sì  risultare offensivi, ma non implicano l’infrazione di alcun tabù, e non sono dunque volgari nel senso sopra descritto.
 {: .text-justify}
 Sarebbe difficile, poi, stabilire se il ricorso a tali termini sia in sé e per sé **offensivo** e, più in generale, cosa debba intendersi con *offesa*. L’uso di *stupido* e derivati potrebbe, a seconda del contesto (si pensi ad esempio ad una lite), essere certamente dettato da animosità [^4]; ma anche dalla semplice volontà di qualificare un comportamento o un modo di essere (“hai fatto proprio una stupidata”). 
 Circa quest’ultimo punto, si potrebbe però obiettare come il **risultare sgradevoli agli occhi degli altri non implichi di necessità la volontà di ferire**: anche in assenza di un intento denigratorio da parte di chi li pronuncia, dunque, il carattere offensivo di questi epiteti potrebbe allora rintracciarsi nella lesione dell’immagine pubblica della persona cui vengono riferiti (e nel risentimento morale che da questa lesione in lei deriva) [^5]. È questo il concetto di *offesa* che ritroviamo nei reati di ingiuria (oggi depenalizzato) o di diffamazione, la cui ratio consiste appunto nel tutelare il bene giuridico dell’*onore*, sia in senso soggettivo (l’idea che uno ha di sé), sia in senso oggettivo (la reputazione che uno gode presso un gruppo sociale). 
