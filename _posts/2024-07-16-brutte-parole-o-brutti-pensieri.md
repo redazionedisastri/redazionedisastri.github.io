@@ -115,26 +115,23 @@ Anche in quest'ultimo caso, però, la presunta trivialità di un termine risulta
 <a name="parolacce"></a>
 ## Parolacce o pensieracci? Gli *hate words*
 
-Allo stesso tempo, pare che negli ultimi anni il concetto di volgarità sia andato incontro ad una deriva di segno opposto, che ravvisa nella *brutta parola* sempre meno l’infrazione di un tabù sociale in senso stretto, e sempre più la compromissione della percezione che una persona o un gruppo hanno di sé: secondo questa nuova prospettiva, **sarebbe allora da intendersi come volgare tutto ciò che potrebbe offendere chiunque, e a qualsiasi titolo.** [^7]
+Allo stesso tempo, pare che negli ultimi anni il concetto di volgarità sia andato incontro ad una deriva di segno opposto, che ravvisa nella *brutta parola* sempre meno l’infrazione di un tabù sociale in senso stretto, e sempre più la compromissione della percezione che una persona o un gruppo hanno di sé: secondo questa nuova prospettiva, **sarebbe allora da intendersi come volgare tutto ciò che potrebbe, a qualsiasi titolo, risultare offensivo** [^7]
 {: .text-justify}
 
-Questo ci permette di avanzare anche un’altra ipotesi: che il concetto di volgarità si stia oggi estendendo dal registro dei referenti linguistici a quello dei pensieri. 
+Questo ci lascia immaginare che il concetto di volgarità si stia oggi estendendo dal registro dei referenti linguistici a quello dei pensieri. Ma vediamo meglio:
 {: .text-justify}
 
-Vediamo meglio.
-{: .text-justify}
-
-Ciò che offende, nella parolaccia propriamente detta, è la struttura referenziale, e non il significato che attraverso questa struttura si tenta di veicolare. Offende il far riferimento a certe parti o funzioni corporee giudicate oscene (*coglione*, *merda*), il profanare i limiti di ciò che è considerato sacro [^8] o quelli legati all'onorabilità e al rispetto dei morti (*li mortacci tua!*), allo scopo di mettere in risalto concetti altrimenti banali entro una cornice di interdetti.
-**Allo stesso tempo però, sarebbero possibile esprimere quegli stessi identici significati (pensieri, ma anche emozioni) in maniera non scurrile, eliminando i riferimenti sconvenienti**: così ad esempio esclamare "caspita" o "capperi" di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Nella parolaccia, non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurabile, ma la **struttura espressiva**: qui sono i modi ad essere volgari, e mai i contenuti.
+Ciò che offende, nella parolaccia propriamente detta, è la struttura referenziale, e non il significato che attraverso questa struttura si tenta di veicolare. Offende il far riferimento a certe parti o funzioni corporee giudicate oscene (*coglione*, *merda*), il profanare i limiti di ciò che è considerato sacro [^8] o quelli legati all'onorabilità e al rispetto dei morti (*li mortacci tua!*), allo scopo di mettere in risalto **concetti altrimenti banali** entro una cornice di interdetti.
+**Sarebbe stato infatti possibile esprimere quegli stessi identici significati (pensieri, ma anche emozioni) in maniera non scurrile, eliminando i riferimenti sconvenienti**: così ad esempio esclamare "caspita" o "capperi" di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Nella parolaccia, non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurabile, ma la **struttura espressiva**: la volgarità è qui una questione di modi.
 {: .text-justify}
 
 ![Triangolo](https://disastri.net/assets/img/Triangolo 1.png){: .mx-auto.d-block :}
 &nbsp;<br>
  
-**Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive**. O ribaltando la prospettiva, a fare di alcuni contenuti dei modi inammissibili.
+**Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive** (o ribaltando la prospettiva, a fare di alcuni contenuti dei modi inammissibili).
 {: .text-justify}
 
-È l’idea, di derivazione essenzialmente americana, che ritroviamo nei cosiddetti *hate* o *derogatory words*, termini il cui uso implica una forte riprovazione, un atteggiamo irrispettoso o una visione fuorviante verso individui o gruppi sociali. Queste “parole per ferire” sono così a tutti gli effetti elevate al rango di *brutte parole*, e vanno incontro ormai da parecchi anni, anche nel nostro Paese, [ad un processo di catalogazione che pare preludere alla prescrizione](https://www.internazionale.it/opinione/tullio-de-mauro/2016/09/27/razzismo-parole-ferire) [^9]:
+È questa l’idea, di derivazione essenzialmente anglosassone, che ritroviamo nei cosiddetti *hate* o *derogatory words*: termini il cui uso implica una forte riprovazione, un atteggiamo irrispettoso o una visione fuorviante verso individui o gruppi sociali. Queste “parole per ferire” sono così a tutti gli effetti elevate al rango di *brutte parole*, e vanno incontro ormai da parecchi anni, anche nel nostro Paese, [ad un processo di catalogazione che pare preludere ad una futura prescrizione culturale](https://www.internazionale.it/opinione/tullio-de-mauro/2016/09/27/razzismo-parole-ferire) [^9]:
 {: .text-justify}
 
 
