@@ -116,6 +116,7 @@ Anche in quest'ultimo caso, però, la presunta trivialità di un termine risulta
 ## Parolacce o pensieracci? Gli *hate words*
 
 Allo stesso tempo, pare che negli ultimi anni il concetto di volgarità sia andato incontro ad una deriva di segno opposto, che ravvisa nella *brutta parola* sempre meno l’infrazione di un tabù sociale in senso stretto, e sempre più la compromissione della percezione che una persona o un gruppo hanno di sé: secondo questa nuova prospettiva, **sarebbe allora da intendersi come volgare tutto ciò che potrebbe offendere chiunque, e a qualsiasi titolo.** [^7]
+{: .text-justify}
 
 Questo ci permette di avanzare anche un’altra ipotesi: che il concetto di volgarità si stia oggi estendendo dal registro dei referenti linguistici a quello dei pensieri. 
 {: .text-justify}
