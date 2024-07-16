@@ -8,10 +8,7 @@ share-img: /assets/img/Immagine copertina parolacce.png
 tags: [Volgarità, offese, libertà di pensiero]
 author: Romeo Gand
 ---
-La scorsa mattina, al parco con mia figlia, ho avuto una conversazione interessante. Interessante come solo le conversazioni coi bimbi piccoli sanno essere.
-{: .text-justify}
-
-Stavamo facendo merenda, quando un boccone di pane le cade dalle mani e finisce per terra. 
+La scorsa mattina, al parco con mia figlia, ho avuto una conversazione interessante. Interessante come solo le conversazioni coi bimbi piccoli sanno essere. Stavamo facendo merenda, quando un boccone di pane le cade dalle mani e finisce per terra. 
 {: .text-justify}
 
 
