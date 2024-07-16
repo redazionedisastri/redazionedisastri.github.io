@@ -92,7 +92,7 @@ La volgarità è dunque primariamente un’*indecenza*, e consiste nell’afferm
 >**Cazzo**, si è bucata la gomma!
 {: .text-justify}
 
-Penso sia verosimile affermare che gran parte delle volgarità che pronunciamo nel quotidiano assolvano prima di tutto questa **valenza imprecatoria**, e che la scurrilità funga più da valvola di sfogo di tensioni esistenziali, che non da mezzo di offesa del prossimo.
+Penso sia verosimile affermare che gran parte delle volgarità che pronunciamo nel quotidiano assolvano prima di tutto questa **valenza imprecatoria**, e che la scurrilità in genere funga più da valvola di sfogo di tensioni esistenziali, che non da mezzo di offesa del prossimo.
 {: .text-justify}
 
 Le parolacce non sono inoltre necessariamente legate all’espressione di sentimenti negativi. Frasi come “non lo sapevo, che figo!”, o “che fregna” denotano al contrario sentimenti positivi, come meraviglia o apprezzamento.
