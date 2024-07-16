@@ -84,11 +84,12 @@ Per prima cosa, cerchiamo di capire cosa sia un’espressione *volgare*, e quale
 Non si può infatti negare che nella parolaccia sia insita una certa pulsione all’offesa. Eppure, anzitutto, **questo carattere offensivo del turpiloquio non è necessariamente volto a ferire qualcuno in particolare**. Ciò che la *brutta parola* invariabilmente lede è la sensibilità comune; ed è solo attraverso la violazione di questo sentire comune che, di rimando, risulta possibile **insultare** un eventuale bersaglio:  
 {: .text-justify}
 
->Sei un coglione!
+>Sei un **coglione**!
 
-La volgarità è dunque primariamente un’*indecenza*, e consiste nell’affermare ciò che in un determinato contesto appare inappropriato o sconveniente, con conseguente turbamento del pubblico decoro. Essa richiede dunque la conoscenza e il padroneggiamento di un codice sociale particolare, la cui infrazione – per risultare comprensibile – deve anch’essa svolgersi secondo schemi e norme prestabilite. Molte parolacce, infatti, **non possono nemmeno assumere la succitata forma dell’ingiuria**, ma unicamente quella dell’interiezione [^2]. Esse servono cioè ad **esprimere con più incisività uno stato d’animo rispetto ad una situazione imprevista**:
+La volgarità è dunque primariamente un’*indecenza*, e consiste nell’affermare ciò che in un determinato contesto appare inappropriato o sconveniente, con conseguente turbamento del pubblico decoro. Essa richiede dunque la conoscenza e il padroneggiamento di un codice sociale particolare, la cui infrazione – per risultare comprensibile – deve anch’essa svolgersi secondo schemi e norme prestabilite. Molte parolacce, infatti, **non possono nemmeno assumere la succitata forma dell’ingiuria**, ma unicamente quella dell’interiezione [^2]. Si tratta cioè di termini che servono ad **esprimere con più incisività uno stato d’animo determinato da una situazione imprevista**:
+{: .text-justify}
 
->Cazzo, si è bucata la gomma!
+>**Cazzo**, si è bucata la gomma!
 {: .text-justify}
 
 Penso sia verosimile affermare che gran parte delle volgarità che pronunciamo nel quotidiano assolvano prima di tutto questa **valenza imprecatoria**, e che la scurrilità funga più da valvola di sfogo di tensioni esistenziali, che non da mezzo di offesa del prossimo.
