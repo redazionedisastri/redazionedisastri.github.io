@@ -166,7 +166,8 @@ Vi sono poi i termini che fanno riferimento alla sporcizia (*sozzo* e la variant
 {: .text-justify}
 <a name="salvare"></a>
 ## Salvare capre e cavoli
-
+![Arcimboldo](https://disastri.net/assets/img/Arcimboldo ortaggi.png){: .mx-auto.d-block :}
+&nbsp;<br>
 Associazioni di animalisti e protettori dell’ambiente
 In tema animali, basta dare della capra, caprone, cane [cagna, simile all’inglese *bitch*, troia ma anche appunto cagna], porco, maiale, il già citato troia, coniglio (soprattutto cagna al femminile) a qualcheduno per offenderlo o anche lodarlo (è una volpe, un leone, una gazzella) secondo un codice che va smorfiato da cultura a cultura. Ma anche verbi, come pavoneggiarsi o imbufalirsi. 
 Ma esistono anche insulti tratti dal mondo vegetale, spesso con funzione eufemistica: testa di rapa, zuccone, ecc. I vegetali sono onnipresenti, sia con funzione oscena (pisello, patata) sia come ingiurie. Ma anche qui, con valenze positive (peperino, o compassionevoli: scalognato) https://www.parolacce.org/2020/06/01/vegetali-come-insulti/
