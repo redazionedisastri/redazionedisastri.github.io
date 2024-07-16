@@ -16,7 +16,7 @@ La scorsa mattina, al parco con mia figlia, ho avuto una conversazione interessa
 {: .text-justify}
 
 
-Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: di certo un retaggio della mia infanzia, quand’ero io a passare intere giornate con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui la pratica di cibare pennuti, lungi dall’integrare il [reato di **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), era vista come un normale svago per famiglie (il riso essendo persino venduto nei chioschi, la domenica nelle piazze, in appositi sacchettini.)
+Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: di certo un retaggio della mia infanzia, quand’ero io a passare intere giornate con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui la pratica di cibare pennuti, lungi dall’integrare il [reato di **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), era vista come un normale svago per famiglie (il riso essendo persino venduto nei chioschi, la domenica nelle piazze, in appositi sacchettini).
 {: .text-justify}
 ![Piccioni](https://disastri.net/assets/img/Piccioni papà e figlio.jpg){: .mx-auto.d-block :}
 &nbsp;<br>
@@ -36,7 +36,7 @@ Infine provo una terza: **ma i piccioni se ne stanno lì impalati sui fili della
 {: .text-justify}
 
 
->**Ma questi piccioni sono proprio stupidi!** 
+>Ma questi piccioni **sono proprio stupidi!** 
 {: .text-justify}
 
 Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento irriverente, che sembrano non volerne sapere di accondiscendere a ciò che resta del mio immaginario fanciullesco. Ma mia figlia non apprezza affatto l’uscita. **Anzi: se la prende alquanto sul personale.** E per difendere l'(in)operato dei poveri volatili mi redarguisce con efficienza poliziesca:
@@ -47,8 +47,6 @@ Esclamo allora, stizzito, per apostrofare quei pennuti dall’atteggiamento irri
 E dopo una breve pausa soggiunge anche la fonte, per apparire più credibile:
 >…me lo ha detto la maestra!
 
-***
-&nbsp;<br>
 &nbsp;<br>
 Lì per lì sua reazione mi lascia di stucco: com’è possibile che per una parola all’apparenza tanto innocua mi si rinfacci nientepopodimeno che il turpiloquio? Vuoi vedere che nella testa di mia figlia, alla tenera età di tre anni, c’è già un corposo elenco di parole – invero ordinarie – ammantate dall’aura del tabù?
 {: .text-justify}
