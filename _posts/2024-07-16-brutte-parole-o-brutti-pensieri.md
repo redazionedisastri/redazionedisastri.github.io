@@ -62,6 +62,7 @@ Sono frasi che meritano non solo ascolto, ma direi persino l’attenzione che si
 
 ### **Attenzione!** Il seguente articolo contiene ingiurie, minacce, scurrilità e **persino qualche flatulenza**. Le opinioni di seguito riportate non sono state sottoposte a processo di pastorizzazione paritaria, e potrebbero di conseguenza **urtare la sensibilità di chiunque e di nessuno** (che viva a Roma, come pure a Belluno). Vi consigliamo dunque di procedere con cautela, e di prestare attenzione all’apposita segnaletica. Una merdosa lettura a tutti!
 {: .text-justify}
+&nbsp;<br>
 
 # Indice delle elucubrazioni
 
