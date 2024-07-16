@@ -158,7 +158,8 @@ In tema etnico/linguistico abbiamo l’universale *barbaro*, che riflette ancora
 {: .text-justify}
 <a name="sporchi"></a>
 ## Sporchi, brutti e cattivi
-![Sporchi](https://disastri.net/assets/img/Sporchi brutti cattivi.png){: .mx-auto.d-block :}
+![Sporchi](https://disastri.net/assets/img/Sporchi brutti cattivi.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Sporcizia, apparenza sgradevole e riprensibilità morale costituiscono poi un vero e proprio nodo gordiano, che non sarebbe possibile sciogliere se non a patto di rinunciare a una miriade di significati descrittivi e alla ricchezza espressiva della lingua. 
 *Cattivo* indicava in origine la condizione del prigioniero o dello schiavo (da cui ancora oggi *cattività*), talora con sfumatura pietosa [^16], divenne antonimo di buono, attraverso l'abbreviazione della locuzione *captivus diabŏli*, “schiavo del demonio”, ma conserva anche una moltitudine di accezioni diverse da quella morale (vista cattiva, cioè difettosa; avverso, cattiva sorte, tempo cattivo; sgradevole, cattivo odore, inadeguatezza o inettitudine, cattivo insegnante)
 Vi sono termini che indicano un aspetto fisico sgradevole: brutto (dal latino brutus, anticamente anche per imbrattato, sporco, cf. Dante Ma tu chi se’ che si fatto bruto), racchio (soprattutto al femminile), laido (anticamente per sporco, o brutto, oggi quasi solo in senso morale)
