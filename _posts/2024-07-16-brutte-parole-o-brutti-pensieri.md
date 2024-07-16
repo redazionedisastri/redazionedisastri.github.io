@@ -19,11 +19,12 @@ Stavamo facendo merenda, quando un boccone di pane le cade dalle mani e finisce 
 {: .text-justify}
 
 
-Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: di certo un retaggio della mia infanzia, quand’ero io a passare intere giornate con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui la pratica di cibare pennuti e affini, lungi dall’integrare il [reato di **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), era vista come un normale svago per famiglie (il riso essendo persino venduto nei chioschi, la domenica nelle piazze, in appositi sacchettini.)
+Dico io. E nel formulare il proposito sono già là che raccolgo e sbriciolo il pane, con smania puerile: di certo un retaggio della mia infanzia, quand’ero io a passare intere giornate con la nonna, lanciando manciate di riso agli impavidi colombi. Tempi diversi quelli, in cui la pratica di cibare pennuti, lungi dall’integrare il [reato di **tentato uccellicidio**](https://disinfestazioni.roma.it/i-piccioni-esplodono-con-il-riso/), era vista come un normale svago per famiglie (il riso essendo persino venduto nei chioschi, la domenica nelle piazze, in appositi sacchettini.)
 {: .text-justify}
 ![Piccioni](https://disastri.net/assets/img/Piccioni papà e figlio.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Mi affascina la passione che i bimbi mettono nel dar da mangiare agli animali.
-Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio  [^1] ? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche intorno a un minuscolo pezzetto di pane. Assistere alla bagarre per accaparrarselo. Aizzare i contendenti, assegnando arbitrariamente vantaggi e penalità in accordo alle nostre preferenze...tocca corde profonde.
+Forse, nutrire altri esseri viventi solletica in loro (e in noi) una qualche voluttà di dominio [^1]? Soprattutto da piccoli, **capire di poter mettere in moto tutto un mondo intorno a noi, con un semplice gesto della mano, non è roba da poco.** Poter suscitare la frenesia di pesci, uccelli, formiche intorno a un minuscolo pezzetto di pane. Assistere alla bagarre per accaparrarselo. Aizzare i contendenti, assegnando arbitrariamente vantaggi e penalità in accordo alle nostre preferenze...tocca corde profonde.
 {: .text-justify}
 E così io già mi figuravo che di lì a breve avrei scatenato una bella ressa all’ultima beccata, con tanto di colpi d’ala e tubatine intimidatorie. E fremevo all’idea che avrei potuto coinvolgere in queste reminiscenze d’infanzia anche mia figlia. Così, alla pari: da bambino a bambino.  
 {: .text-justify}
@@ -237,8 +238,8 @@ E pare che le nuove generazioni stiano succhiando col latte l’assunto che, pur
 <p style="text-align: center;"><b>NOTE</b></p>
 &nbsp;<br>
 ---
+
 [^1]: In ogni cura, e soprattutto in quelle che concernono i bisogni primari, si può scorgere la duplice figura di un assoggettamento e di una supremazia: nutrendo, io mi metto a servizio di un altro; ma la vita di quest’altro che io che servo si trova a dipendere in tutto da me.
-{: .text-justify}
 [^2]: Ma si dà anche il caso contrario: quello in cui una parolaccia può essere correttamente impiegata solo come insulto. Molte espressioni volgari provocherebbero straordinari effetti comici se impiegate in modo improprio nella forma dell'ingiuria o dell’imprecazione: immaginate di insultare qualcuno dandogli tout court del *cazzo*, o di esprimere sorpresa esclamando *stronzo*. Esistono anche parolacce che non possono ricoprire nessuna delle due funzioni, come il termine *fica* che (almeno per quanto concerne il Sud Italia) non può essere adoperato né per insultare né per imprecare. 
 {: .text-justify}
 [^3]: Non si tratta tuttavia di un fenomeno universale: l'inglese *cunt*, che alla lettera indica volgarmente la vagina, designa per le donne una ragazza di facili costumi e per gli uomini quello che noi diremmo un *pezzo di merda*. L’accezione, inoltre, può andare incontro a variazioni ancora maggiori seconda che il termine venga usato per riferirsi ad un uomo oppure a una donna: è il caso di *pussy*, che impiegato con riferimento a una donna indica ciò che dalle parti di Roma sarebbe la *sorca*, mentre applicato agli uomini vale per *codardo*, *femminuccia*. Per restare all’italiano, potremmo citare il diminutivo di *figo*, *fighetto*, il quale assume a seconda del contesto una vaga declinazione spregiativa.
