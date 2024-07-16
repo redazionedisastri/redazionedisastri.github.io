@@ -125,7 +125,7 @@ Ciò che offende, nella parolaccia propriamente detta, è la struttura referenzi
 **Allo stesso tempo però, sarebbero possibile esprimere quegli stessi identici significati (pensieri, ma anche emozioni) in maniera non scurrile, eliminando i riferimenti sconvenienti**: così ad esempio esclamare "caspita" o "capperi" di fronte a quella gomma bucata, renderebbe la frase di prima del tutto accettabile. Nella parolaccia, non è quindi l’espressione di un sentimento, come la rabbia o la sorpresa, o di un pensiero o un giudizio particolare, ad essere censurabile, ma la **struttura espressiva**: qui sono i modi ad essere volgari, e mai i contenuti.
 {: .text-justify}
 
-![Triangolo](https://disastri.net/assets/img/Triangolo1.png){: .mx-auto.d-block :}
+![Triangolo](https://disastri.net/assets/img/Triangolo 1.png){: .mx-auto.d-block :}
  
 **Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive**. O ribaltando la prospettiva, a fare di alcuni contenuti dei modi inammissibili.
 {: .text-justify}
