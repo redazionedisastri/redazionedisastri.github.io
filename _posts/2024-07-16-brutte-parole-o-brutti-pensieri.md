@@ -126,6 +126,7 @@ Ciò che offende, nella parolaccia propriamente detta, è la struttura referenzi
 {: .text-justify}
 
 ![Triangolo](https://disastri.net/assets/img/Triangolo 1.png){: .mx-auto.d-block :}
+&nbsp;<br>
  
 **Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive**. O ribaltando la prospettiva, a fare di alcuni contenuti dei modi inammissibili.
 {: .text-justify}
@@ -177,6 +178,7 @@ Potremmo dire che lo stesso termine *volgare*, usato per indicare ciò che non v
 ## Criticare non è odiare, descrivere non è offendere
 
 ![Cretino](https://disastri.net/assets/img/Cretino.jpg){: .mx-auto.d-block :}
+&nbsp;<br>
 Difficile poi stabilire quale sia il confine fra una parola spregiativa e una semplicemente negativa. Abbiamo visto che una parola negativa può addirittura essere usata in modo compassionevole, e non implica necessariamente un disprezzo da parte di chi la utilizza. Inoltre, molte parole negative sono caricate emotivamente in quanto sono queste, logicamente, ad essere usate per insultare un avversario. Tuttavia non è detto che l’utilizzo di parola negativa implichi in chi la adopera un coinvolgimento emotivo di questo tipo: si può semplicemente dire che qualcuno sia stato stupido o abbia fatto una sciocchezza senza per questo volerlo offendere. Altrimenti, ci sarebbe impossibile esprimere opinioni negative su qualcosa o qualcuno senza l’intento di offendere. Certo si potrebbe sempre ricorrere ad eufemismi e a litoti (non è stato molto intelligente), ma tutto sommato l’uso di termini apertamente negativi è solo sintomo di schiettezza e non di emotività. 
 **Appare inoltre chiaro che qualsiasi opinione può offendere chiunque.** Virtualmente, ogni parere che non coincida con la percezione che un soggetto ha di sé potrebbe minare la sua stabilità psicologica. Qualcuno potrà offendersi sentendosi chiamare "magro", qualcun’altro "grasso". Uno si piccherà per un "basso", uno per un "alto". Un bambino potrebbe prendersela a morte sentendosi chiamare piccolo, un adulto sentendosi chiamare vecchio. Non c’è concetto che non possa nel tempo risultare offensivo per persone o classi di persone. 
 Persino la constatazione di fatti...
