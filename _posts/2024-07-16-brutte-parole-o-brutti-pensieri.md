@@ -131,7 +131,7 @@ Ciò che offende, nella parolaccia propriamente detta, è la struttura referenzi
 **Asserire invece che parole brutte ricavino la loro bruttezza dal loro significato intrinseco, conduce inevitabilmente a censurare i pensieri e non più le loro forme espressive** (o ribaltando la prospettiva, a fare di alcuni contenuti dei modi inammissibili).
 {: .text-justify}
 
-È questa l’idea, di derivazione essenzialmente anglosassone, che ritroviamo nei cosiddetti *hate* o *derogatory words*: termini il cui uso implica una forte riprovazione, un atteggiamo irrispettoso o una visione fuorviante verso individui o gruppi sociali. Queste “parole per ferire” sono così a tutti gli effetti elevate al rango di *brutte parole*, e vanno incontro ormai da parecchi anni, anche nel nostro Paese, [ad un processo di catalogazione che pare preludere ad una futura prescrizione culturale](https://www.internazionale.it/opinione/tullio-de-mauro/2016/09/27/razzismo-parole-ferire) [^9]:
+È questa l’idea, di derivazione essenzialmente anglosassone, che ritroviamo nei cosiddetti ***hate*** o ***derogatory words***: termini il cui uso implica una forte riprovazione, un atteggiamo irrispettoso o una visione fuorviante verso individui o gruppi sociali. Queste “parole per ferire” sono così a tutti gli effetti elevate al rango di *brutte parole*, e vanno incontro ormai da parecchi anni, anche nel nostro Paese, [ad un processo di catalogazione che pare preludere ad una futura prescrizione culturale](https://www.internazionale.it/opinione/tullio-de-mauro/2016/09/27/razzismo-parole-ferire) [^9]:
 {: .text-justify}
 
 
