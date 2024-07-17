@@ -170,9 +170,9 @@ Vi sono poi i termini che fanno riferimento alla sporcizia (*sozzo* e la variant
 ![Arcimboldo](https://disastri.net/assets/img/Arcimboldo ortaggi.png){: .mx-auto.d-block :}
 &nbsp;<br>
 Associazioni di animalisti e protettori dell’ambiente
-In tema animali, basta dare della capra, caprone, cane [cagna, simile all’inglese *bitch*, troia ma anche appunto cagna], porco, maiale, il già citato troia, coniglio (soprattutto cagna al femminile) a qualcheduno per offenderlo o anche lodarlo (è una volpe, un leone, una gazzella) secondo un codice che va smorfiato da cultura a cultura. Ma anche verbi, come pavoneggiarsi o imbufalirsi. 
-Ma esistono anche insulti tratti dal mondo vegetale, spesso con funzione eufemistica: testa di rapa, zuccone, ecc. I vegetali sono onnipresenti, sia con funzione oscena (pisello, patata) sia come ingiurie. Ma anche qui, con valenze positive (peperino, o compassionevoli: scalognato) https://www.parolacce.org/2020/06/01/vegetali-come-insulti/
-Gli insulti animaleschi sono un ottimo esempio di come sia impossibile disgiungere da una parola accezioni spregiative, o in genere moralizzanti, da significati banalmente descrittori. 
+Non si contano i termini *animalier* utilizzati allo scopo di denigrare (***capra*** e ***caprone***, ***cane*** [^19] e ***cagna*** [^20], ***porco***, ***maiale*** e il già citato ***troia***, ***coniglio***, ecc.) ma anche di elogiare (***volpe***, ***leone***, ***gazzella***, ecc.) secondo un codice che va smorfiato da cultura a cultura. Ma anche verbi, come pavoneggiarsi o imbufalirsi. 
+Ma esistono anche insulti tratti dal mondo vegetale, spesso con funzione eufemistica attenuativa: testa di rapa, zuccone, broccolo, patata lessaecc. I vegetali sono onnipresenti, sia con funzione oscena (pisello, patata) sia come ingiurie. Ma anche qui, con valenze positive (peperino, o compassionevoli: scalognato) https://www.parolacce.org/2020/06/01/vegetali-come-insulti/
+Gli insulti animaleschi e vegetali sono un ottimo esempio di come sia impossibile disgiungere da una parola accezioni spregiative, o in genere moralizzanti, da significati banalmente descrittori. 
 Potremmo dire che lo stesso termine *volgare*, usato per indicare ciò che non va detto, sia un perfetto esempio di politicamente scorretto: in quanto etimologicamente non fa altro che riflettere una visione sprezzante della loquacità popolare. Ma anche termini affini come *urbano*, *incivile*, *villano*, che associano la rozzezza o la signorilità rispettivamente alla provenienza campagna o alla città.
 {: .text-justify}
 
@@ -264,5 +264,7 @@ E pare che le nuove generazioni stiano succhiando col latte l’assunto che, pur
 [^16]: Ma sia hindu che mussulmani finiro in seguito per convergere su un più esterno "male europeo". Cf. Tampa M. & al. (2014), [*Brief History of Syphilis*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3956094/). Journal of Medicine and Life. 7 (1): 4–10.
 [^17]: E chi da Mongolo si sentì discriminato non può che ammettere che l’essere apparentato a un Down sia sgradevole in quanto essere Down non è cosa desiderabile.
 [^18]: Cf. Decameron (IX, 5): “Cosí adunque Calandrino tristo e cattivo, tutto pelato e tutto graffiato a Firenze tornatosene [...]”
+[^19]: Ma "vita da cane" o "essere solo come un cane" hanno valenza più pietosa che spregiativa. 
+[^20]: Paragonabile all’inglese *bitch*, "troia", termine che alla lettera designa la femmina del cane.
 
 [^]: Che noi italiani, con orgoglio un po' ingenuo, spesso scambiamo per trasparenza e calore umano.
