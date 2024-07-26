@@ -8,7 +8,10 @@ share-img: /assets/img/Pistola nuvola.png
 tags: [Babbo Natale, tetti, attentati pandemici]
 author: Gatto Armato
 ---
-La notizia dell’attentato ordito ai danni di Donald Trump ha scosso il mondo intero, generando **paura, terrore e raccapriccio**. Secondo una statistica inventata di sana pianta, e che non intendiamo neppure riportare su queste pagine, [molte persone temono di poter vivere la stessa sorte capitata al candidato del partito repubblicano, finendo costrette nella morsa di una vera e propria **pandemia di attentati**](https://www.dailymail.co.uk/news/article-13654961/Panic-alarms-given-new-MPs-safety-fears.html) [^1]. Per ogni individuo attualmente vivo e in circolazione potrebbe esservi un attentatore di forza uguale e contraria, **appollaiato su un qualsiasi tetto nel raggio di cinquanta chilometri rispetto alla propria posizione**, indipendentemente dalle condizioni fisiche e spaziali.
+La notizia dell’attentato ordito ai danni di Donald Trump ha scosso il mondo intero, generando **paura, terrore e raccapriccio**. 
+{: .text-justify} 
+Secondo una statistica inventata di sana pianta, e che non intendiamo neppure riportare su queste pagine, [molte persone temono di poter vivere la stessa sorte capitata al candidato del partito repubblicano, finendo costrette nella morsa di una vera e propria **pandemia di attentati**](https://www.dailymail.co.uk/news/article-13654961/Panic-alarms-given-new-MPs-safety-fears.html) [^1]. Per ogni individuo attualmente vivo e in circolazione potrebbe esservi un attentatore di forza uguale e contraria, **appollaiato su un qualsiasi tetto nel raggio di cinquanta chilometri rispetto alla propria posizione**, indipendentemente dalle condizioni fisiche e spaziali.
+{: .text-justify} 
 
 ![Tetto volante](https://disastri.net/assets/img/Tetto volante.png){: .mx-auto.d-block :}
 
@@ -16,9 +19,9 @@ Questa è una possibilità che non possiamo permetterci di escludere a priori! D
 {: .text-justify} 
 
 
-1) ciò che **sembra essere accaduto**
-2) ciò che **potrebbe essere accaduto realmente**
-3) ciò che **accadrebbe se ciò che potrebbe essere accaduto realmente fosse accaduto per davvero!**
+1. Ciò che **sembra essere accaduto**
+2. ciò che **potrebbe essere accaduto realmente**
+3. ciò che **accadrebbe se ciò che potrebbe essere accaduto realmente fosse accaduto per davvero!**
 {: .text-justify} 
 
 
@@ -46,4 +49,4 @@ Il Gatto Armato.
 <p style="text-align: center;"><b>NOTE</b></p>
 ---
 [^1]: I nostri lettori potrebbero non crederci o, peggio ancora, trovare un’affermazione del genere assolutamente ridicola. Tanto peggio per I nostri lettori! 
-[^2]: Secondo l’intelligenza artificiale una tale ipotesi risulta essere altamente improbabile. Tanto peggio per l’intelligenza artificiale! Riportiamo da una famosa applicazione di intelligenza artificiale ![IA](https://disastri.net/assets/img/Confronto IA.png){: .mx-auto.d-block :}: “Risorse e Coordinamento: Per avere un attentatore per ogni persona vivente (circa 8 miliardi di persone), sarebbe necessario un numero equivalente di attentatori. Questo richiederebbe risorse umane e logistiche enormi, oltre a un coordinamento estremamente complesso. Sistemi di Tracciamento e Mobilità: Gli attentatori dovrebbero essere dotati di sistemi di tracciamento avanzati per monitorare continuamente la posizione delle loro vittime e spostarsi di conseguenza. La tecnologia necessaria per seguire ogni individuo in tempo reale e mantenere una posizione precisa su un tetto è al di là delle capacità attuali. Sostenibilità e Discrezione: Gli attentatori dovrebbero poter rimanere nascosti e operativi in una vasta gamma di ambienti urbani e rurali, senza essere scoperti. Inoltre, mantenere una distanza costante da una vittima richiederebbe un alto grado di mobilità e discrezione, che è difficile da realizzare in pratica.” 
+[^2]: Secondo l’intelligenza artificiale una tale ipotesi risulta essere altamente improbabile. Tanto peggio per l’intelligenza artificiale! Riportiamo dall'amichevole dialogo da noi avuto con la predetta intelligenza: [IA](https://disastri.net/assets/img/Confronto IA.png){: .mx-auto.d-block :} “ **Risorse e Coordinamento**: Per avere un attentatore per ogni persona vivente (circa 8 miliardi di persone), sarebbe necessario un numero equivalente di attentatori. Questo richiederebbe risorse umane e logistiche enormi, oltre a un coordinamento estremamente complesso. **Sistemi di Tracciamento e Mobilità**: Gli attentatori dovrebbero essere dotati di sistemi di tracciamento avanzati per monitorare continuamente la posizione delle loro vittime e spostarsi di conseguenza. La tecnologia necessaria per seguire ogni individuo in tempo reale e mantenere una posizione precisa su un tetto è al di là delle capacità attuali. **Sostenibilità e Discrezione**: Gli attentatori dovrebbero poter rimanere nascosti e operativi in una vasta gamma di ambienti urbani e rurali, senza essere scoperti. Inoltre, mantenere una distanza costante da una vittima richiederebbe un alto grado di mobilità e discrezione, che è difficile da realizzare in pratica. ” 
