@@ -6,7 +6,7 @@ subtitle:
 ## Romeo Gand
 ![Romeo Gand](https://disastri.net/assets/img/Foto profilo Romeo Gand.png){: .align-left}{:height="150px" width="150px"} 
 
-Si scaglia contro tutto e tutti, senza se e senza ma. Stordisce i suoi oppositori con polemiche sterili, invettive, filippiche e catilinarie interminabili. Sottolinea punti irrilevanti con veemenza e decisione apodittica. Appassionato di moralismi, denuncia ogni compromesso morale dalla tranquillità delle sue villeggiature, comodamente seduto dietro la sua scrivania in ebano. Da settembre a giugno, ama svernare in località più tranquille, come ; d’estate soggiorna al suo villino sul mare. Per il nostro sito, compone cicli narrativi, apologie e lancia anatemi sui passanti. 
+Si scaglia contro tutto e tutti: **senza se e senza ma**. Stordisce i suoi oppositori con **polemiche sterili, invettive inutili, filippiche e catilinarie interminabili**. Sottolinea punti irrilevanti con veemenza e decisione apodittica. Appassionato di moralismi, denuncia ogni compromesso morale dalla tranquillità delle sue innumerevoli villeggiature, **comodamente seduto dietro la sua scrivania di mogano**. Da settembre a giugno, ama svernare in climi più propizi alla scrittura; d’estate soggiorna al suo villino con accesso privato al mare. Per il nostro sito compone **cicli narrativi, apologie e lancia di tanto in tanto anatemi sui passanti**. 
 {: .text-justify}
 
 ## Gatto Armato
