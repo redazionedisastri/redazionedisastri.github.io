@@ -13,7 +13,7 @@ Si scaglia contro tutto e tutti: **senza se e senza ma**. Stordisce i suoi oppos
 ## Gatto Armato
 ![Gatto Armato](https://disastri.net/assets/img/Sciacallo disonorato.png){: .align-left}{:height="150px" width="150px"} 
 
-Alcune persone scrivono con i piedi, Gatto Armato scrive con le zampe. Lo fa poco, controvoglia, e non possiede alcun titolo di studio. Discute di qualsiasi argomento senza timore, né pudore, in barba agli esperti e ai grandi dottori del mondo dell’arte, della scienza e della cultura. Che si tratti di metafisica, epistemologia, etica o estetica, Gatto Armato se ne infischia! È in grado di contraddire ciò che afferma nel giro di qualche virgola, smontando argomentazioni proprie e altrui senza alcuna pietà. Alla parola preferisce lo stiletto come mezzo di risoluzione delle controversie comunali, regionali, nazionali e internazionali.
+Alcune persone scrivono con i piedi, Gatto Armato scrive con le zampe. **Lo fa poco, controvoglia, e non possiede alcun titolo di studio**. Discute di qualsiasi argomento senza timore, né pudore, in barba agli esperti e ai grandi dottori del mondo dell’arte, della scienza e della cultura. Che si tratti di metafisica, epistemologia, etica o estetica, **Gatto Armato se ne infischia!** È in grado di contraddire ciò che afferma nel giro di qualche virgola, smontando argomentazioni proprie e altrui senza alcuna pietà. **Alla parola preferisce lo stiletto come mezzo di risoluzione delle controversie comunali, regionali, nazionali e internazionali**.
 {: .text-justify}
 
 
