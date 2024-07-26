@@ -28,7 +28,6 @@ Questa è una possibilità che non possiamo permetterci di escludere a priori! D
 Stando a quanto riportato dalla stampa, il candidato alle elezioni presidenziali **è stato colpito all’orecchio** durante un comizio in Pennsylvania. A sparare dal tetto di un edificio poco distante dal luogo sarebbe stato il ventenne **Tomas Mattiu Crux**. Secondo alcune testimonianze, dei partecipanti alla convention avrebbero informato la polizia di aver visto **una figura aggirarsi lungo i tetti**. Come abbiamo già avuto modo di osservare, l’attentatore ha una predilezione per i tetti. **Ma non è il solo**. C’è un altro personaggio che salta di tetto in tetto con allegra baldanza: **Babbo Natale**. Siamo proprio sicuri che a sparare a Donald Trump non sia stato lui? **Il vestito rosso tradisce la sua postura ideologica, insieme alla sua attività volta alla redistribuzione dei beni su scala planetaria**. Ci ritroviamo, ancora una volta, alle prese con un tentativo di insurrezione di stampo comunista. 
 {: .text-justify} 
 
-![Babbo Natale](https://disastri.net/assets/img/Babbo Natale comunista def.png){: .mx-auto.d-block :}{:width="105%"}
 
 Gentili lettori, ci sarebbero davvero tante cose da approfondire, **ma fatelo voi perché adesso mi rimane poco tempo e non ho più voglia di scrivere**. Ritengo di avere dimostrato con fredda e lucida razionalità come a sparare a Donald Trump sia stato il **cambiamento climatico**. 
 {: .text-justify} 
