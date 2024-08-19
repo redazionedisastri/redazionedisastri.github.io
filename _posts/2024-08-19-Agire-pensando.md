@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agire pensando
-subtitle: Osservazioni sull’unità di teoria e pratica
+subtitle: Note sull’unità di teoria e pratica
 cover-img: /assets/img/filosofo pozzo def 1.png
 thumbnail-img: /assets/img/filosofo pozzo def 1.png   
 share-img: /assets/img/filosofo pozzo def 1.png
