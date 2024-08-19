@@ -2,9 +2,9 @@
 layout: post
 title: Agire pensando
 subtitle: Osservazioni sull’unità di teoria e pratica
-cover-img: /assets/img/scienziato.png
-thumbnail-img: /assets/img/scienziato pozzo.png   
-share-img: /assets/img/scienziato pozzo.png
+cover-img: /assets/img/filosofo pozzo def.png
+thumbnail-img: /assets/img/filosofo pozzo def.png   
+share-img: /assets/img/filosofo pozzo def.png
 tags: [teoria, azione, pensiero, pratica]
 author: Gatto Armato
 ---
